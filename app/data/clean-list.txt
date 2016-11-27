@@ -1,0 +1,1001 @@
+Rank,Title,Ticker,Industry,Sector,HQ Location,Years on list,CEO,EPS,Employees,Revenues,Profits,Image URL,Website,geoCode
+1,Walmart,WMT,General Merchandisers,Retailing,"Bentonville, AR",21,C. Douglas McMillon,5.05,2200000,485651,16363,https://fortunedotcom.files.wordpress.com/2015/06/wal06-15_g.jpg?quality=80&w=840&h=485&crop=1,http://www.walmart.com,AR
+2,Exxon Mobil,XOM,Petroleum Refining,Energy,"Irving, TX",21,Rex W. Tillerson,7.6,83700,382597,32520,https://fortunedotcom.files.wordpress.com/2015/05/exxon.jpg?quality=80&w=462&h=263&crop=1,http://www.exxonmobil.com,TX
+3,Chevron,CVX,Petroleum Refining,Energy,"San Ramon, CA",21,John S. Watson,10.14,64700,203784,19241,https://fortunedotcom.files.wordpress.com/2015/05/chevron.jpg?quality=80&w=840&h=485&crop=1,http://www.chevron.com,CA
+4,Berkshire Hathaway,BRK.A,Insurance: Property and Casualty (Stock),Financials,"Omaha, NE",21,Warren E. Buffett,12092,316000,194673,19872,https://fortunedotcom.files.wordpress.com/2015/05/487981369.jpg?quality=80&w=840&h=485&crop=1,http://www.berkshirehathaway.com,NE
+5,Apple,AAPL,"Computers, Office Equipment",Technology,"Cupertino, CA",21,Timothy D. Cook,6.45,97200,182795,39510,https://fortunedotcom.files.wordpress.com/2015/05/apple.jpg?quality=80&w=840&h=485&crop=1,http://www.apple.com,CA
+6,General Motors,GM,Motor Vehicles and Parts,Motor Vehicles & Parts,"Detroit, MI",21,Mary T. Barra,1.65,216000,155929,3949,https://fortunedotcom.files.wordpress.com/2015/05/general-motors.jpg?quality=80&w=462&h=263&crop=1,http://www.gm.com,MI
+7,Phillips 66,PSX,Petroleum Refining,Energy,"Houston, TX",3,Greg C. Garland,8.33,14000,149434,4762,https://fortunedotcom.files.wordpress.com/2015/05/phillips-661.jpg?quality=80&w=462&h=263&crop=1,http://www.phillips66.com,TX
+8,General Electric,GE,Diversified Financials,Financials,"Fairfield, CT",21,Jeffrey R. Immelt,1.5,305000,148321,15233,https://fortunedotcom.files.wordpress.com/2015/05/general-electric.jpg?quality=80&w=462&h=263&crop=1,http://www.ge.com,CT
+9,Ford Motor,F,Motor Vehicles and Parts,Motor Vehicles & Parts,"Dearborn, MI",21,Mark Fields,0.8,187000,144077,3187,https://fortunedotcom.files.wordpress.com/2015/05/ford.jpg?quality=80&w=840&h=485&crop=1,http://www.ford.com,MI
+10,CVS Health,CVS,Food and Drug Stores,Food & Drug Stores,"Woonsocket, RI",21,Larry J. Merlo,3.96,177800,139367,4644,https://fortunedotcom.files.wordpress.com/2015/05/cvs1.jpg?quality=80&w=462&h=263&crop=1,http://www.cvshealth.com,RI
+11,McKesson,MCK,Wholesalers: Health Care,Wholesalers,"San Francisco, CA",21,John H. Hammergren,5.41,42800,138030,1263,https://fortunedotcom.files.wordpress.com/2015/05/mckesson.jpg?quality=80&w=462&h=263&crop=1,http://www.mckesson.com,CA
+12,AT&T,T,Telecommunications,Telecommunications,"Dallas, TX",21,Randall L. Stephenson,1.19,243620,132447,6224,https://fortunedotcom.files.wordpress.com/2015/05/att.jpg?quality=80&w=462&h=263&crop=1,http://www.att.com,TX
+13,Valero Energy,VLO,Petroleum Refining,Energy,"San Antonio, TX",17,Joseph Gorder,6.85,10065,130844,3630,https://fortunedotcom.files.wordpress.com/2015/05/valero.jpg?quality=80&w=462&h=263&crop=1,http://www.valero.com,TX
+14,UnitedHealth Group,UNH,Health Care: Insurance and Managed Care,Health Care,"Minnetonka, MN",21,Stephen J. Hemsley,5.7,170000,130474,5619,https://fortunedotcom.files.wordpress.com/2015/05/unitedhealth-group.jpg?quality=80&w=462&h=260&crop=1,http://www.unitedhealthgroup.com,MN
+15,Verizon,VZ,Telecommunications,Telecommunications,"New York, NY",21,Lowell C. McAdam,2.42,177300,127079,9625,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-4665911281.jpg?quality=80&w=840&h=485&crop=1,http://www.verizon.com,NY
+16,AmerisourceBergen,ABC,Wholesalers: Health Care,Wholesalers,"Chesterbrook, PA",21,Steven H. Collis,1.17,13500,119569,277,https://fortunedotcom.files.wordpress.com/2015/05/1.jpg?quality=80&w=840&h=485&crop=1,http://www.amerisourcebergen.com,PA
+17,Fannie Mae,FNMA,Diversified Financials,Financials,"Washington, DC",18,Timothy J. Mayopoulos,-0.19,7600,116461,14208,https://fortunedotcom.files.wordpress.com/2015/06/fannie-mae.jpg?quality=80&w=462&h=260&crop=1,http://www.fanniemae.com,DC
+18,Costco,COST,Specialty Retailers: Other,Retailing,"Issaquah, WA",21,W. Craig Jelinek,4.65,153500,112640,2058,https://fortunedotcom.files.wordpress.com/2015/05/costco.jpg?quality=80&w=840&h=485&crop=1,http://www.costco.com,WA
+19,HP,HPQ,"Computers, Office Equipment",Technology,"Palo Alto, CA",21,Dion J. Weisler,2.62,302000,111454,5013,https://fortunedotcom.files.wordpress.com/2015/05/hewlett-packard.jpg?quality=80&w=462&h=263&crop=1,http://www.hp.com,CA
+20,Kroger,KR,Food and Drug Stores,Food & Drug Stores,"Cincinnati, OH",21,W. Rodney McMullen,3.44,400000,108465,1728,https://fortunedotcom.files.wordpress.com/2015/05/krogers1.jpg?quality=80&w=462&h=263&crop=1,http://www.thekrogerco.com,OH
+21,JP Morgan Chase,JPM,Commercial Banks,Financials,"New York, NY",21,James Dimon,5.29,241359,102102,21762,https://fortunedotcom.files.wordpress.com/2015/05/460196576.jpg?quality=80&w=840&h=485&crop=1,http://www.jpmorganchase.com,NY
+22,Express Scripts Holding,ESRX,Health Care: Pharmacy and Other Services,Health Care,"St. Louis, MO",16,George Paz,2.64,29500,100887,2008,https://fortunedotcom.files.wordpress.com/2015/05/expressscrips1.jpg?quality=80&w=462&h=263&crop=1,http://www.express-scripts.com,MO
+23,Bank of America Corp.,BAC,Commercial Banks,Financials,"Charlotte, NC",21,Brian T. Moynihan,0.36,223715,95181,4833,https://fortunedotcom.files.wordpress.com/2015/05/bank-of-america.jpg?quality=80&w=462&h=263&crop=1,http://www.bankofamerica.com,NC
+24,IBM,IBM,Information Technology Services,Technology,"Armonk, NY",21,Virginia M. Rometty,11.9,412775,94128,12022,https://fortunedotcom.files.wordpress.com/2015/05/international-business-machines.jpg?quality=80&w=462&h=263&crop=1,http://www.ibm.com,NY
+25,Marathon Petroleum,MPC,Petroleum Refining,Energy,"Findlay, OH",4,Gary R. Heminger,8.78,45340,91417,2524,https://fortunedotcom.files.wordpress.com/2015/05/marathon-patroleum1.jpg?quality=80&w=462&h=263&crop=1,http://www.marathonpetroleum.com,OH
+26,Cardinal Health,CAH,Wholesalers: Health Care,Wholesalers,"Dublin, OH",21,George S. Barrett,3.38,34000,91084,1166,https://fortunedotcom.files.wordpress.com/2015/05/cardinalhealth1.jpeg?quality=80&w=840&h=485&crop=1,http://www.cardinal.com,OH
+27,Boeing,BA,Aerospace and Defense,Aerospace & Defense,"Chicago, IL",21,Dennis A. Muilenburg,7.38,165500,90762,5446,https://fortunedotcom.files.wordpress.com/2015/05/boeing.jpg?quality=80&w=840&h=485&crop=1,http://www.boeing.com,IL
+28,Citigroup,C,Commercial Banks,Financials,"New York, NY",21,Michael L. Corbat,2.2,241000,90646,7313,https://fortunedotcom.files.wordpress.com/2015/05/citigroup.jpg?quality=80&w=462&h=263&crop=1,http://www.citigroup.com,NY
+29,Amazon.com,AMZN,Internet Services and Retailing,Technology,"Seattle, WA",14,Jeffrey P. Bezos,-0.52,154100,88988,-241,https://fortunedotcom.files.wordpress.com/2015/05/amazon1.jpg?quality=80&w=462&h=263&crop=1,http://www.amazon.com,WA
+30,Wells Fargo,WFC,Commercial Banks,Financials,"San Francisco, CA",21,John G. Stumpf,4.1,264500,88372,23057,https://fortunedotcom.files.wordpress.com/2015/05/wellsfargo.jpg?quality=80&w=840&h=485&crop=1,http://www.wellsfargo.com,CA
+31,Microsoft,MSFT,Computer Software,Technology,"Redmond, WA",21,Satya Nadella,2.63,128000,86833,22074,https://fortunedotcom.files.wordpress.com/2015/05/microsoft1.jpg?quality=80&w=840&h=485&crop=1,http://www.microsoft.com,WA
+32,Procter & Gamble,PG,Household and Personal Products,Household Products,"Cincinnati, OH",21,David S. Taylor,4.01,118000,84537,11643,https://fortunedotcom.files.wordpress.com/2015/05/proctergamble.jpg?quality=80&w=462&h=260&crop=1,http://www.pg.com,OH
+33,Home Depot,HD,Specialty Retailers: Other,Retailing,"Atlanta, GA",21,Craig A. Menear,4.71,371000,83176,6345,https://fortunedotcom.files.wordpress.com/2015/05/home-depot.jpg?quality=80&w=462&h=263&crop=1,http://www.homedepot.com,GA
+34,Archer Daniels Midland,ADM,Food Production,"Food, Beverages & Tobacco","Chicago, IL",21,Juan R. Luciano,3.43,33900,81201,2248,https://fortunedotcom.files.wordpress.com/2015/05/archer-daniels-midland.jpg?quality=80&w=462&h=263&crop=1,http://www.adm.com,IL
+35,Walgreens,WBA,Food and Drug Stores,Food & Drug Stores,"Deerfield, IL",21,Stefano Pessina,2,213000,76392,1932,https://fortunedotcom.files.wordpress.com/2015/05/walgreens.jpg?quality=80&w=462&h=260&crop=1,http://www.walgreensbootsalliance.com,IL
+36,Target,TGT,General Merchandisers,Retailing,"Minneapolis, MN",21,Brian C. Cornell,-2.56,347000,74520,-1636,https://fortunedotcom.files.wordpress.com/2015/05/target1.jpg?quality=80&w=840&h=485&crop=1,http://www.target.com,MN
+37,Johnson & Johnson,JNJ,Pharmaceuticals,Health Care,"New Brunswick, NJ",21,Alex Gorsky,5.7,126500,74331,16323,https://fortunedotcom.files.wordpress.com/2015/05/johnson-johnson.jpg?quality=80&w=462&h=263&crop=1,http://www.jnj.com,NJ
+38,Anthem,ANTM,Health Care: Insurance and Managed Care,Health Care,"Indianapolis, IN",21,Joseph R. Swedish,8.99,51500,73874,2570,https://fortunedotcom.files.wordpress.com/2015/05/anthem.jpg?quality=80&w=462&h=263&crop=1,http://www.antheminc.com,IN
+39,MetLife,MET,"Insurance: Life, Health (stock)",Financials,"New York, NY",21,Steven A. Kandarian,5.42,68000,73316,6309,https://fortunedotcom.files.wordpress.com/2015/05/metlife.jpg?quality=80&w=462&h=260&crop=1,http://www.metlife.com,NY
+40,Alphabet,GOOGL,Internet Services and Retailing,Technology,"Mountain View, CA",10,Larry Page,21.02,53600,71487,14444,https://fortunedotcom.files.wordpress.com/2015/05/google1.jpg?quality=80&w=462&h=260&crop=1,http://www.google.com,CA
+41,State Farm Insurance Cos.,STATE-FARM,Insurance: Property and Casualty (Mutual),Financials,"Bloomington, IL",21,Michael L. Tipsord,-,73262,71160,4191,https://fortunedotcom.files.wordpress.com/2015/05/464457039.jpg?quality=80&w=840&h=485&crop=1,http://www.statefarm.com,IL
+42,Freddie Mac,FMCC,Diversified Financials,Financials,"McLean, VA",18,Donald H. Layton,-0.72,4982,69367,7690,https://fortunedotcom.files.wordpress.com/2015/05/freddie-mac.jpg?quality=80&w=462&h=263&crop=1,http://www.freddiemac.com,VA
+43,Comcast,CMCSA,Telecommunications,Telecommunications,"Philadelphia, PA",20,Brian L. Roberts,3.2,139000,68775,8380,https://fortunedotcom.files.wordpress.com/2015/06/ap289551954667-1.jpg?quality=80&w=840&h=485&crop=1,http://www.comcastcorporation.com,PA
+44,PepsiCo,PEP,Food Consumer Products,"Food, Beverages & Tobacco","Purchase, NY",21,Indra K. Nooyi,4.27,271000,66683,6513,https://fortunedotcom.files.wordpress.com/2015/06/gettyimages-470687088.jpg?quality=80&w=840&h=485&crop=1,http://www.pepsico.com,NY
+45,United Technologies,UTX,Aerospace and Defense,Aerospace & Defense,"Hartford, CT",21,Gregory J. Hayes,6.82,211500,65100,6220,https://fortunedotcom.files.wordpress.com/2015/05/unitedtech.jpg?quality=80&w=840&h=485&crop=1,http://www.utc.com,CT
+46,AIG,AIG,Insurance: Property and Casualty (Stock),Financials,"New York, NY",21,Peter D. Hancock,5.2,65000,64406,7529,https://fortunedotcom.files.wordpress.com/2015/05/aig.jpg?quality=80&w=462&h=260&crop=1,http://www.aig.com,NY
+47,UPS,UPS,"Mail, Package, and Freight Delivery",Transportation,"Atlanta, GA",21,David P. Abney,3.28,336150,58232,3032,https://fortunedotcom.files.wordpress.com/2015/05/united-parcel-service.jpg?quality=80&w=462&h=263&crop=1,http://www.ups.com,GA
+48,Dow Chemical,DOW,Chemicals,Chemicals,"Midland, MI",21,Andrew N. Liveris,2.87,53216,58167,3772,https://fortunedotcom.files.wordpress.com/2015/05/dow-chemical.jpg?quality=80&w=462&h=260&crop=1,http://www.dow.com,MI
+49,Aetna,AET,Health Care: Insurance and Managed Care,Health Care,"Hartford, CT",15,Mark T. Bertolini,5.68,48800,58003,2041,https://fortunedotcom.files.wordpress.com/2015/05/aetna.jpeg?quality=80&w=462&h=260&crop=1,http://www.aetna.com,CT
+50,Lowe’s,LOW,Specialty Retailers: Other,Retailing,"Mooresville, NC",21,Robert A. Niblock,2.71,220500,56223,2698,https://fortunedotcom.files.wordpress.com/2015/05/lowes.jpg?quality=80&w=462&h=263&crop=1,http://www.lowes.com,NC
+51,ConocoPhillips,COP,"Mining, Crude-Oil Production",Energy,"Houston, TX",21,Ryan M. Lance,5.51,19100,55997,6869,https://fortunedotcom.files.wordpress.com/2015/05/conoco-phillips1.jpg?quality=80&w=462&h=263&crop=1,http://www.conocophillips.com,TX
+52,Intel,INTC,Semiconductors and Other Electronic Components,Technology,"Santa Clara, CA",21,Brian M. Krzanich,2.31,106700,55870,11704,https://fortunedotcom.files.wordpress.com/2015/05/intel1.jpg?quality=80&w=462&h=263&crop=1,http://www.intel.com,CA
+53,Energy Transfer Equity,ETE,Pipelines,Energy,"Dallas, TX",9,John W. McReynolds,1.15,27605,55691,633,https://fortunedotcom.files.wordpress.com/2015/06/53-energy-transfer-equity-supplied_etp-processing-photo1.jpg?quality=80&w=840&h=485&crop=1,http://www.energytransfer.com,TX
+54,Caterpillar,CAT,Construction and Farm Machinery,Industrials,"Peoria, IL",21,Douglas R. Oberhelman,5.88,114233,55184,3695,https://fortunedotcom.files.wordpress.com/2015/05/caterpillar1.jpg?quality=80&w=462&h=263&crop=1,http://www.caterpillar.com,IL
+55,Prudential Financial,PRU,"Insurance: Life, Health (stock)",Financials,"Newark, NJ",21,John R. Strangfeld Jr.,-,48331,54123,1381,https://fortunedotcom.files.wordpress.com/2015/06/prudential.jpg?quality=80&w=462&h=263&crop=1,http://www.prudential.com,NJ
+56,Pfizer,PFE,Pharmaceuticals,Health Care,"New York, NY",21,Ian C. Read,1.42,78300,49605,9135,https://fortunedotcom.files.wordpress.com/2015/05/pfizer.jpg?quality=80&w=840&h=485&crop=1,http://www.pfizer.com,NY
+57,Walt Disney,DIS,Entertainment,Media,"Burbank, CA",21,Robert A. Iger,4.26,180000,48813,7501,https://fortunedotcom.files.wordpress.com/2015/05/bob-iger.jpg?quality=80&w=840&h=485&crop=1,http://www.disney.com,CA
+58,Humana,HUM,Health Care: Insurance and Managed Care,Health Care,"Louisville, KY",21,Bruce D. Broussard,7.36,57000,48500,1147,https://fortunedotcom.files.wordpress.com/2015/05/humana1.jpg?quality=80&w=462&h=263&crop=1,http://www.humana.com,KY
+59,Enterprise Products Partners,EPD,Pipelines,Energy,"Houston, TX",10,A.J. Teague,1.47,6900,47951,2787,https://fortunedotcom.files.wordpress.com/2015/05/enterprise.jpg?quality=80&w=462&h=260&crop=1,http://www.enterpriseproducts.com,TX
+60,Cisco Systems,CSCO,Network and Other Communications Equipment,Technology,"San Jose, CA",19,Charles H. Robbins,1.49,74042,47142,7853,https://fortunedotcom.files.wordpress.com/2015/05/cisco-systems1.jpg?quality=80&w=462&h=263&crop=1,http://www.cisco.com,CA
+61,Sysco,SYY,Wholesalers: Food and Grocery,Wholesalers,"Houston, TX",21,William J. DeLaney III,1.58,50300,46517,932,https://fortunedotcom.files.wordpress.com/2015/06/sysco.jpg?quality=80&w=462&h=263&crop=1,http://www.sysco.com,TX
+62,Ingram Micro,IM,Wholesalers: Electronics and Office Equipment,Wholesalers,"Santa Ana, CA",19,Alain Monie,1.67,21700,46487,267,https://fortunedotcom.files.wordpress.com/2015/06/ingram-micro.jpg?quality=80&w=462&h=263&crop=1,http://www.ingrammicro.com,CA
+63,Coca-Cola,KO,Beverages,"Food, Beverages & Tobacco","Atlanta, GA",21,Muhtar Kent,1.6,129200,45998,7098,https://fortunedotcom.files.wordpress.com/2015/05/ap40540947390.jpg?quality=80&w=840&h=485&crop=1,http://www.coca-colacompany.com,GA
+64,Lockheed Martin,LMT,Aerospace and Defense,Aerospace & Defense,"Bethesda, MD",21,Marillyn A. Hewson,11.21,112000,45600,3614,https://fortunedotcom.files.wordpress.com/2015/06/fw_lockheed-insight_4323.jpg?quality=80&w=840&h=485&crop=1,http://www.lockheedmartin.com,MD
+65,FedEx,FDX,"Mail, Package, and Freight Delivery",Transportation,"Memphis, TN",21,Frederick W. Smith,6.75,298099,45567,2097,https://fortunedotcom.files.wordpress.com/2015/05/fedex.jpg?quality=80&w=840&h=485&crop=1,http://www.fedex.com,TN
+66,Johnson Controls,JCI,Motor Vehicles and Parts,Motor Vehicles & Parts,"Milwaukee, WI",21,Alex A. Molinaroli,1.8,168000,43855,1215,https://fortunedotcom.files.wordpress.com/2015/05/johnson-controls.jpg?quality=80&w=462&h=263&crop=1,http://www.johnsoncontrols.com,WI
+67,Plains GP Holdings,PAGP,Pipelines,Energy,"Houston, TX",2,Greg L. Armstrong,0.47,5300,43464,70,https://fortunedotcom.files.wordpress.com/2015/06/plains-gp-holdings.jpg?quality=80&w=462&h=263&crop=1,http://www.plainsallamerican.com,TX
+68,World Fuel Services,INT,Wholesalers: Diversified,Wholesalers,"Miami, FL",11,Michael J. Kasbar,3.11,4041,43386,222,https://fortunedotcom.files.wordpress.com/2015/05/world-fuel.jpg?quality=80&w=462&h=260&crop=1,http://www.wfscorp.com,FL
+69,CHS,CHSCP,Food Production,"Food, Beverages & Tobacco","Inver Grove Heights, MN",16,Carl M. Casale,-,11824,42664,1081,https://fortunedotcom.files.wordpress.com/2015/05/chs.jpg?quality=80&w=462&h=263&crop=1,http://www.chsinc.com,MN
+70,American Airlines Group,AAL,Airlines,Transportation,"Fort Worth, TX",21,W. Douglas Parker,3.93,113300,42650,2882,https://fortunedotcom.files.wordpress.com/2015/05/american-airlines-group.jpg?quality=80&w=462&h=263&crop=1,http://www.aa.com,TX
+71,Merck,MRK,Pharmaceuticals,Health Care,"Kenilworth, NJ",21,Kenneth C. Frazier,4.07,70000,42237,11920,https://fortunedotcom.files.wordpress.com/2015/06/merck.jpg?quality=80&w=462&h=263&crop=1,http://www.merck.com,NJ
+72,Best Buy,BBY,Specialty Retailers: Other,Retailing,"Richfield, MN",21,Hubert B. Joly,3.49,125000,41903,1233,https://fortunedotcom.files.wordpress.com/2015/05/best-buy.jpg?quality=80&w=462&h=263&crop=1,http://www.bestbuy.com,MN
+73,Delta Air Lines,DAL,Airlines,Transportation,"Atlanta, GA",21,Richard H. Anderson,0.78,79655,40362,659,https://fortunedotcom.files.wordpress.com/2015/05/delta.jpg?quality=80&w=840&h=485&crop=1,http://www.delta.com,GA
+74,Honeywell International,HON,"Electronics, Electrical Equip.",Industrials,"Morris Township, NJ",21,David M. Cote,5.33,127000,40306,4239,https://fortunedotcom.files.wordpress.com/2015/05/honeywell.jpg?quality=80&w=840&h=485&crop=1,http://www.honeywell.com,NJ
+75,HCA Holdings,HCA,Health Care: Medical Facilities,Health Care,"Nashville, TN",21,R. Milton Johnson,4.16,197000,40087,1875,https://fortunedotcom.files.wordpress.com/2015/05/hca-holdings.jpg?quality=80&w=462&h=263&crop=1,http://www.hcahealthcare.com,TN
+76,Goldman Sachs Group,GS,Commercial Banks,Financials,"New York, NY",16,Lloyd C. Blankfein,17.07,34000,40085,8477,https://fortunedotcom.files.wordpress.com/2015/05/goldmansachs.jpg?quality=80&w=840&h=485&crop=1,http://www.gs.com,NY
+77,Tesoro,TSO,Petroleum Refining,Energy,"San Antonio, TX",16,Gregory J. Goff,6.44,5641,40052,843,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-535060591.jpg?quality=80&w=840&h=485&crop=1,http://www.tsocorp.com,TX
+78,Liberty Mutual Insurance Group,LIBERTY-MUTUAL-INSURANCE-GROUP,Insurance: Property and Casualty (Stock),Financials,"Boston, MA",21,David H. Long,-,50000,39796,1833,https://fortunedotcom.files.wordpress.com/2015/05/150070640.jpg?quality=80&w=840&h=485&crop=1,http://www.libertymutual.com,MA
+79,United Continental Holdings,UAL,Airlines,Transportation,"Chicago, IL",21,Brett J. Hart,2.93,84000,38901,1132,https://fortunedotcom.files.wordpress.com/2015/05/united.jpg?quality=80&w=462&h=263&crop=1,http://www.unitedcontinentalholdings.com,IL
+80,New York Life Insurance,NEW-YORK-LIFE-INSURANCE,"Insurance: Life, Health (Mutual)",Financials,"New York, NY",21,Theodore A. Mathas,-,11563,38680,1602,https://fortunedotcom.files.wordpress.com/2015/05/new-york-life-2.jpeg?quality=80&w=462&h=260&crop=1,http://www.newyorklife.com,NY
+81,Oracle,ORCL,Computer Software,Technology,"Redwood City, CA",20,Safra A. Catz,2.38,122000,38275,10955,https://fortunedotcom.files.wordpress.com/2015/06/gettyimages-460559836.jpg?quality=80&w=840&h=485&crop=1,http://www.oracle.com,CA
+82,Morgan Stanley,MS,Commercial Banks,Financials,"New York, NY",21,James P. Gorman,1.6,55802,37953,3467,https://fortunedotcom.files.wordpress.com/2015/06/morgan-stanley.jpg?quality=80&w=462&h=260&crop=1,http://www.morganstanley.com,NY
+83,Tyson Foods,TSN,Food Production,"Food, Beverages & Tobacco","Springdale, AR",21,Donnie Smith,2.37,124000,37580,864,https://fortunedotcom.files.wordpress.com/2015/05/tyson-foods.jpg?quality=80&w=462&h=260&crop=1,http://www.tysonfoods.com,AR
+84,Safeway,SWY,Food and Drug Stores,Food & Drug Stores,"Pleasanton, CA",21,Robert G. Miller,0.48,137000,36643,113,https://fortunedotcom.files.wordpress.com/2015/05/safeway.jpg?quality=80&w=462&h=263&crop=1,http://www.safeway.com,CA
+85,Nationwide,NATIONWIDE,Insurance: Property and Casualty (Mutual),Financials,"Columbus, OH",21,Stephen S. Rasmussen,-,33672,36257,432,https://fortunedotcom.files.wordpress.com/2015/06/nationwide.jpg?quality=80&w=462&h=263&crop=1,http://www.nationwide.com,OH
+86,Deere,DE,Construction and Farm Machinery,Industrials,"Moline, IL",21,Samuel R. Allen,8.63,59623,36067,3162,https://fortunedotcom.files.wordpress.com/2015/06/deere.jpg?quality=80&w=462&h=263&crop=1,http://www.johndeere.com,IL
+87,DuPont,DD,Chemicals,Chemicals,"Wilmington, DE",21,Edward Breen,3.92,63000,36046,3625,https://fortunedotcom.files.wordpress.com/2015/05/dupont.jpg?quality=80&w=462&h=260&crop=1,http://www.dupont.com,DE
+88,American Express,AXP,Commercial Banks,Financials,"New York, NY",21,Kenneth I. Chenault,5.56,54000,35999,5885,https://fortunedotcom.files.wordpress.com/2015/05/469847512.jpg?quality=80&w=840&h=485&crop=1,http://www.americanexpress.com,NY
+89,Allstate,ALL,Insurance: Property and Casualty (Stock),Financials,"Northbrook, IL",20,Thomas J. Wilson,6.27,39950,35239,2850,https://fortunedotcom.files.wordpress.com/2015/05/allstate.jpg?quality=80&w=462&h=263&crop=1,http://www.allstate.com,IL
+90,Cigna,CI,Health Care: Insurance and Managed Care,Health Care,"Bloomfield, CT",21,David M. Cordani,7.83,37200,34914,2102,https://fortunedotcom.files.wordpress.com/2015/06/cigna.jpg?quality=80&w=462&h=263&crop=1,http://www.cigna.com,CT
+91,Mondelez International,MDLZ,Food Consumer Products,"Food, Beverages & Tobacco","Deerfield, IL",8,Irene B. Rosenfeld,1.28,104000,34244,2184,https://fortunedotcom.files.wordpress.com/2015/05/mondelez-international.jpg?quality=80&w=462&h=260&crop=1,http://www.mondelezinternational.com,IL
+92,TIAA-CREF,TIAA-CREF,"Insurance: Life, Health (Mutual)",Financials,"New York, NY",18,Roger W. Ferguson Jr.,-,12322,34230,967,https://fortunedotcom.files.wordpress.com/2015/05/tiaa-cref.jpg?quality=80&w=462&h=260&crop=1,http://www.tiaa-cref.org,NY
+93,INTL FCStone,INTL,Diversified Financials,Financials,"New York, NY",7,Sean M. O'Connor,0.98,1141,34063,19,https://fortunedotcom.files.wordpress.com/2015/06/intl-fcstone.jpg?quality=80&w=462&h=263&crop=1,http://www.intlfcstone.com,NY
+94,Massachusetts Mutual Life Insurance,MASSACHUSETTS-MUTUAL-LIFE,"Insurance: Life, Health (Mutual)",Financials,"Springfield, MA",21,Roger W. Crandall,-,11418,33572,1327,https://fortunedotcom.files.wordpress.com/2015/05/mass-mutual_massmutual.jpg?quality=80&w=462&h=260&crop=1,http://www.massmutual.com,MA
+95,DirecTV,DTV,Telecommunications,Telecommunications,"El Segundo, CA",11,Michael D. White,5.4,30925,33260,2756,https://fortunedotcom.files.wordpress.com/2015/05/directv.jpg?quality=80&w=462&h=263&crop=1,http://www.directv.com,CA
+96,Halliburton,HAL,"Oil and Gas Equipment, Services",Energy,"Houston, TX",21,David J. Lesar,4.11,80000,32870,3500,https://fortunedotcom.files.wordpress.com/2015/05/halliburton.jpg?quality=80&w=462&h=263&crop=1,http://www.halliburton.com,TX
+97,Twenty-First Century Fox,FOXA,Entertainment,Media,"New York, NY",11,James R. Murdoch,1.99,27000,31867,4514,https://fortunedotcom.files.wordpress.com/2015/05/famguy__simpsons-guy_comiccon2014_r13r_hires2.jpg?quality=80&w=840&h=485&crop=1,http://www.21cf.com,NY
+98,3M,MMM,zMiscellaneous,Household Products,"St. Paul, MN",21,Inge G. Thulin,7.49,89800,31821,4956,https://fortunedotcom.files.wordpress.com/2015/05/3m.jpg?quality=80&w=462&h=260&crop=1,http://www.3m.com,MN
+99,Sears Holdings,SHLD,General Merchandisers,Retailing,"Hoffman Estates, IL",21,Edward S. Lampert,-15.82,196000,31198,-1682,https://fortunedotcom.files.wordpress.com/2015/05/sears.jpg?quality=80&w=462&h=263&crop=1,http://www.searsholdings.com,IL
+100,General Dynamics,GD,Aerospace and Defense,Aerospace & Defense,"Falls Church, VA",21,Phebe N. Novakovic,7.42,99500,30852,2533,https://fortunedotcom.files.wordpress.com/2015/06/general-dynamics.jpg?quality=80&w=462&h=263&crop=1,http://www.generaldynamics.com,VA
+101,Publix Super Markets,PUBLIX-SUPER-MARKETS,Food and Drug Stores,Food & Drug Stores,"Lakeland, FL",21,William E. Crenshaw,2.23,175000,30803,1735,https://fortunedotcom.files.wordpress.com/2015/05/publix.jpg?quality=80&w=462&h=260&crop=1,http://www.publix.com,FL
+102,Philip Morris International,PM,Tobacco,"Food, Beverages & Tobacco","New York, NY",7,Andr_ Calantzopoulos,4.76,82500,29767,7493,https://fortunedotcom.files.wordpress.com/2015/05/philip-morris.jpg?quality=80&w=462&h=260&crop=1,http://www.pmi.com,NY
+103,TJX,TJX,Specialty Retailers: Apparel,Retailing,"Framingham, MA",21,Carol M. Meyrowitz,3.15,198000,29078,2215,https://fortunedotcom.files.wordpress.com/2015/05/tjx.jpg?quality=80&w=462&h=260&crop=1,http://www.tjx.com,MA
+104,Time Warner,TWX,Entertainment,Media,"New York, NY",16,Jeffrey L. Bewkes,4.34,25600,28774,3827,https://fortunedotcom.files.wordpress.com/2015/05/mv5bmtk0mtuwmjyxnl5bml5banbnxkftztgwntuynti1mte-_v1__.jpg?quality=80&w=840&h=485&crop=1,http://www.timewarner.com,NY
+105,Macy’s,M,General Merchandisers,Retailing,"Cincinnati, OH",21,Terry J. Lundgren,4.22,166900,28105,1526,https://fortunedotcom.files.wordpress.com/2015/06/macys.jpg?quality=80&w=462&h=260&crop=1,http://www.macysinc.com,OH
+106,Nike,NKE,Apparel,Apparel,"Beaverton, OR",21,Mark G. Parker,2.97,56500,27799,2693,https://fortunedotcom.files.wordpress.com/2015/05/nike.jpg?quality=80&w=462&h=263&crop=1,http://www.nike.com,OR
+107,Tech Data,TECD,Wholesalers: Electronics and Office Equipment,Wholesalers,"Clearwater, FL",21,Robert M. Dutkowsky,4.57,8900,27671,175,https://fortunedotcom.files.wordpress.com/2015/05/tech-data.jpg?quality=80&w=462&h=263&crop=1,http://www.techdata.com,FL
+108,Avnet,AVT,Wholesalers: Electronics and Office Equipment,Wholesalers,"Phoenix, AZ",21,Richard Hamada,3.89,19000,27500,546,https://fortunedotcom.files.wordpress.com/2015/05/avnet.jpg?quality=80&w=840&h=485&crop=1,http://www.avnet.com,AZ
+109,Northwestern Mutual,NORTHWESTERN-MUTUAL,"Insurance: Life, Health (Mutual)",Financials,"Milwaukee, WI",21,John E. Schlifske,-,5187,27465,679,https://fortunedotcom.files.wordpress.com/2015/05/northwesten-mutual.jpg?quality=80&w=462&h=263&crop=1,http://www.northwesternmutual.com,WI
+110,McDonald’s,MCD,Food Services,"Hotels, Resturants & Leisure","Oak Brook, IL",21,Steve J. Easterbrook,4.82,420000,27441,4758,https://fortunedotcom.files.wordpress.com/2015/05/mcdonalds.jpg?quality=80&w=462&h=260&crop=1,http://www.aboutmcdonalds.com,IL
+111,Exelon,EXC,Utilities: Gas and Electric,Energy,"Chicago, IL",21,Christopher M. Crane,1.88,28993,27429,1623,https://fortunedotcom.files.wordpress.com/2015/05/exelon.jpg?quality=80&w=462&h=263&crop=1,http://www.exeloncorp.com,IL
+112,Travelers Cos.,TRV,Insurance: Property and Casualty (Stock),Financials,"New York, NY",21,Alan D. Schnitzer,10.7,30200,27162,3692,https://fortunedotcom.files.wordpress.com/2015/05/travelers.jpg?quality=80&w=462&h=263&crop=1,http://www.travelers.com,NY
+113,Qualcomm,QCOM,Network and Other Communications Equipment,Technology,"San Diego, CA",16,Steven M. Mollenkopf,4.65,31300,26487,7967,https://fortunedotcom.files.wordpress.com/2015/06/qualcomm.png?w=462&h=263&crop=1,http://www.qualcomm.com,CA
+114,International Paper,IP,"Packaging, Containers",Materials,"Memphis, TN",21,Mark S. Sutton,1.29,58000,26221,555,https://fortunedotcom.files.wordpress.com/2015/06/international-paper.jpg?quality=80&w=462&h=263&crop=1,http://www.internationalpaper.com,TN
+115,Occidental Petroleum,OXY,"Mining, Crude-Oil Production",Energy,"Houston, TX",21,Stephen I. Chazen,0.79,11700,25898,616,https://fortunedotcom.files.wordpress.com/2015/06/occidental-patroleum.jpg?quality=80&w=462&h=263&crop=1,http://www.oxy.com,TX
+116,Duke Energy,DUK,Utilities: Gas and Electric,Energy,"Charlotte, NC",21,Lynn J. Good,2.66,28344,25673,1883,https://fortunedotcom.files.wordpress.com/2015/05/duke-energy.jpg?quality=80&w=462&h=260&crop=1,http://www.duke-energy.com,NC
+117,Rite Aid,RAD,Food and Drug Stores,Food & Drug Stores,"Camp Hill, PA",21,John T. Standley,0.23,69420,25526,249,https://fortunedotcom.files.wordpress.com/2015/05/rite-aid.jpg?quality=80&w=462&h=260&crop=1,http://www.riteaid.com,PA
+118,Gilead Sciences,GILD,Pharmaceuticals,Health Care,"Foster City, CA",7,John C. Martin,7.35,7000,24890,12101,https://fortunedotcom.files.wordpress.com/2015/06/gilead.jpg?quality=80&w=462&h=263&crop=1,http://www.gilead.com,CA
+119,Baker Hughes,BHI,"Oil and Gas Equipment, Services",Energy,"Houston, TX",21,Martin S. Craighead,3.92,62000,24551,1719,https://fortunedotcom.files.wordpress.com/2015/06/baker-hughes.jpg?quality=80&w=462&h=260&crop=1,http://www.bakerhughes.com,TX
+120,Emerson Electric,EMR,"Electronics, Electrical Equip.",Industrials,"St. Louis, MO",21,David N. Farr,3.03,115100,24537,2147,https://fortunedotcom.files.wordpress.com/2015/06/emerson-electric.jpg?quality=80&w=462&h=263&crop=1,http://www.emerson.com,MO
+121,EMC,EMC,Computer Peripherals,Technology,"Hopkinton, MA",18,Joseph M. Tucci,1.32,70000,24440,2714,https://fortunedotcom.files.wordpress.com/2015/05/rsa-handheld-92.jpg?quality=80&w=840&h=485&crop=1,http://www.emc.com,MA
+122,USAA,,Insurance: Property and Casualty (Stock),Financials,"San Antonio, TX",21,Stuart Parker,-,27635,24033,3410,https://fortunedotcom.files.wordpress.com/2015/06/united-services.jpg?quality=80&w=462&h=260&crop=1,http://www.usaa.com,TX
+123,Union Pacific,UNP,Railroads,Transportation,"Omaha, NE",21,Lance M. Fritz,5.75,47201,23988,5180,https://fortunedotcom.files.wordpress.com/2015/06/pac06-15_a.jpg?quality=80&w=840&h=485&crop=1,http://www.up.com,NE
+124,Northrop Grumman,NOC,Aerospace and Defense,Aerospace & Defense,"Falls Church, VA",21,Wesley G. Bush,9.75,64300,23979,2069,https://fortunedotcom.files.wordpress.com/2015/06/grunman.jpg?quality=80&w=462&h=263&crop=1,http://www.northropgrumman.com,VA
+125,Alcoa,AA,Metals,Materials,"New York, NY",21,Klaus Kleinfeld,0.21,59000,23906,268,https://fortunedotcom.files.wordpress.com/2015/05/alcoa.jpg?quality=80&w=840&h=485&crop=1,http://www.alcoa.com,NY
+126,Capital One Financial,COF,Commercial Banks,Financials,"McLean, VA",16,Richard D. Fairbank,7.59,46000,23877,4428,https://fortunedotcom.files.wordpress.com/2015/05/452111690.jpg?quality=80&w=840&h=485&crop=1,http://www.capitalone.com,VA
+127,National Oilwell Varco,NOV,"Oil and Gas Equipment, Services",Energy,"Houston, TX",10,Clay C. Williams,5.82,59091,23141,2502,https://fortunedotcom.files.wordpress.com/2015/06/national-oilwell-varco.jpg?quality=80&w=462&h=263&crop=1,http://www.nov.com,TX
+128,US Foods,,Wholesalers: Food and Grocery,Wholesalers,"Rosemont, IL",4,Pietro Satriano,-,25000,23020,-73,https://fortunedotcom.files.wordpress.com/2015/05/us-foods.jpg?quality=80&w=462&h=260&crop=1,http://www.usfoods.com,IL
+129,Raytheon,RTN,Aerospace and Defense,Aerospace & Defense,"Waltham, MA",21,Thomas A. Kennedy,7.18,61000,22826,2244,https://fortunedotcom.files.wordpress.com/2015/05/raytheon.jpg?quality=80&w=462&h=263&crop=1,http://www.raytheon.com,MA
+130,Time Warner Cable,TWC,Telecommunications,Telecommunications,"New York, NY",6,Robert D. Marcus,7.17,54615,22812,2031,https://fortunedotcom.files.wordpress.com/2015/05/rtx18s33.jpg?quality=80&w=840&h=485&crop=1,http://www.twc.com,NY
+131,Arrow Electronics,ARW,Wholesalers: Electronics and Office Equipment,Wholesalers,"Centennial, CO",21,Michael J. Long,4.98,17000,22769,498,https://fortunedotcom.files.wordpress.com/2015/06/arrow-electronics.jpg?quality=80&w=462&h=263&crop=1,http://www.arrow.com,CO
+132,Aflac,AFL,"Insurance: Life, Health (stock)",Financials,"Columbus, GA",21,Daniel P. Amos,6.5,9525,22728,2951,https://fortunedotcom.files.wordpress.com/2015/05/ap938456026652.jpg?quality=80&w=840&h=485&crop=1,http://www.aflac.com,GA
+133,Staples,SPLS,Specialty Retailers: Other,Retailing,"Framingham, MA",20,Ronald L. Sargent,0.21,61738,22492,135,https://fortunedotcom.files.wordpress.com/2015/05/staples.jpg?quality=80&w=840&h=485&crop=1,http://www.staples.com,MA
+134,Abbott Laboratories,ABT,Medical Products and Equipment,Health Care,"Abbott Park, IL",21,Miles D. White,1.49,77000,22323,2284,https://fortunedotcom.files.wordpress.com/2015/05/abbott-laboratories.jpg?quality=80&w=462&h=260&crop=1,http://www.abbott.com,IL
+135,Community Health Systems,CYH,Health Care: Medical Facilities,Health Care,"Franklin, TN",9,Wayne T. Smith,0.82,119000,21987,92,https://fortunedotcom.files.wordpress.com/2015/06/community-health-systems.jpg?quality=80&w=462&h=260&crop=1,http://www.chs.net,TN
+136,Fluor,FLR,"Engineering, Construction",Engineering & Construction,"Irving, TX",14,David T. Seaton,3.2,37508,21532,511,https://fortunedotcom.files.wordpress.com/2015/06/fluor.jpg?quality=80&w=462&h=263&crop=1,http://www.fluor.com,TX
+137,Freeport-McMoRan,FCX,"Mining, Crude-Oil Production",Energy,"Phoenix, AZ",10,Richard C. Adkerson,-1.26,35000,21438,-1308,https://fortunedotcom.files.wordpress.com/2015/06/freeport-mcmoran.jpg?quality=80&w=462&h=263&crop=1,http://www.fcx.com,AZ
+138,U.S. Bancorp,USB,Commercial Banks,Financials,"Minneapolis, MN",17,Richard K. Davis,3.08,66750,21392,5851,https://fortunedotcom.files.wordpress.com/2015/05/rtr350rz.jpg?quality=80&w=840&h=485&crop=1,http://www.usbank.com,MN
+139,Nucor,NUE,Metals,Materials,"Charlotte, NC",21,John J. Ferriola,2.22,23600,21105,714,https://fortunedotcom.files.wordpress.com/2015/05/532878715.jpg?quality=80&w=840&h=485&crop=1,http://www.nucor.com,NC
+140,Kimberly-Clark,KMB,Household and Personal Products,Household Products,"Irving, TX",21,Thomas J. Falk,4.04,43000,21044,1526,https://fortunedotcom.files.wordpress.com/2015/05/485358149.jpg?quality=80&w=840&h=485&crop=1,http://www.kimberly-clark.com,TX
+141,Hess,HES,Petroleum Refining,Energy,"New York, NY",21,John B. Hess,7.53,3045,21015,2317,https://fortunedotcom.files.wordpress.com/2015/05/4929333511.jpg?quality=80&w=840&h=485&crop=1,http://www.hess.com,NY
+142,Chesapeake Energy,CHK,"Mining, Crude-Oil Production",Energy,"Oklahoma City, OK",10,Robert D. Lawler,1.87,5500,20951,1917,https://fortunedotcom.files.wordpress.com/2015/06/chespeake-energy.jpg?quality=80&w=462&h=263&crop=1,http://www.chk.com,OK
+143,Xerox,XRX,Information Technology Services,Technology,"Norwalk, CT",21,Ursula M. Burns,0.81,147500,20905,969,https://fortunedotcom.files.wordpress.com/2015/05/137777046.jpg?quality=80&w=840&h=485&crop=1,http://www.xerox.com,CT
+144,ManpowerGroup,MAN,Temporary Help,Business Services,"Milwaukee, WI",21,Jonas Prising,5.3,26000,20763,428,https://fortunedotcom.files.wordpress.com/2015/06/manpower-group.jpg?quality=80&w=462&h=263&crop=1,http://www.manpowergroup.com,WI
+145,Amgen,AMGN,Pharmaceuticals,Health Care,"Thousand Oaks, CA",16,Robert A. Bradway,6.7,17900,20063,5158,https://fortunedotcom.files.wordpress.com/2015/06/amgen.jpg?quality=80&w=462&h=260&crop=1,http://www.amgen.com,CA
+146,AbbVie,ABBV,Pharmaceuticals,Health Care,"North Chicago, IL",2,Richard A. Gonzalez,1.1,26000,19960,1774,https://fortunedotcom.files.wordpress.com/2015/06/abbvie.jpg?quality=80&w=462&h=263&crop=1,http://www.abbvie.com,IL
+147,Danaher,DHR,"Scientific,Photographic and Control Equipment",Technology,"Washington, DC",17,Thomas P. Joyce Jr.,3.63,71000,19914,2598,https://fortunedotcom.files.wordpress.com/2015/06/danaher.jpg?quality=80&w=462&h=260&crop=1,http://www.danaher.com,DC
+148,Whirlpool,WHR,"Electronics, Electrical Equip.",Industrials,"Benton Harbor, MI",21,Jeff M. Fettig,8.17,-,19872,650,https://fortunedotcom.files.wordpress.com/2015/06/whirlpool.jpg?quality=80&w=462&h=260&crop=1,http://www.whirlpoolcorp.com,MI
+149,PBF Energy,PBF,Petroleum Refining,Energy,"Parsippany, NJ",3,Thomas J. Nimbley,-0.51,1714,19828,-38,https://fortunedotcom.files.wordpress.com/2015/05/pbf-energy.jpg?quality=80&w=462&h=263&crop=1,http://www.pbfenergy.com,NJ
+150,HollyFrontier,HFC,Petroleum Refining,Energy,"Dallas, TX",8,George J. Damiris,1.42,2686,19764,281,https://fortunedotcom.files.wordpress.com/2015/05/hollyfrontier.jpg?quality=80&w=462&h=260&crop=1,http://www.hollyfrontier.com,TX
+151,Eli Lilly,LLY,Pharmaceuticals,Health Care,"Indianapolis, IN",21,John C. Lechleiter,2.23,39135,19616,2391,https://fortunedotcom.files.wordpress.com/2015/06/eli-lilly.jpg?quality=80&w=462&h=263&crop=1,http://www.lilly.com,IN
+152,Devon Energy,DVN,"Mining, Crude-Oil Production",Energy,"Oklahoma City, OK",14,David A. Hager,3.91,5437,19566,1607,https://fortunedotcom.files.wordpress.com/2015/05/ars_dvn_141029_01077.jpeg?quality=80&w=840&h=485&crop=1,http://www.devonenergy.com,OK
+153,Progressive,PGR,Insurance: Property and Casualty (Stock),Financials,"Mayfield Village, OH",21,Glenn M. Renwick,2.15,26501,19391,1281,https://fortunedotcom.files.wordpress.com/2015/06/progressive.jpg?quality=80&w=462&h=260&crop=1,http://www.progressive.com,OH
+154,Cummins,CMI,Construction and Farm Machinery,Industrials,"Columbus, IN",21,N. Thomas Linebarger,9.02,54600,19221,1651,https://fortunedotcom.files.wordpress.com/2015/06/cum06-15_a.jpg?quality=80&w=840&h=485&crop=1,http://www.cummins.com,IN
+155,Icahn Enterprises,IEP,Petroleum Refining,Energy,"New York, NY",7,Keith Cozza,-3.08,65577,19157,-373,https://fortunedotcom.files.wordpress.com/2015/06/icahn-1.jpg?quality=80&w=462&h=260&crop=1,http://www.ielp.com,NY
+156,AutoNation,AN,"Automotive Retailing, Services",Retailing,"Fort Lauderdale, FL",18,Michael J. Jackson,3.52,24000,19109,419,https://fortunedotcom.files.wordpress.com/2015/06/autonation.jpg?quality=80&w=462&h=260&crop=1,http://www.autonation.com,FL
+157,Kohl’s,KSS,General Merchandisers,Retailing,"Menomonee Falls, WI",18,Kevin Mansell,4.24,84500,19023,867,https://fortunedotcom.files.wordpress.com/2015/05/kohls.jpg?quality=80&w=462&h=260&crop=1,http://www.kohlscorporation.com,WI
+158,Paccar,PCAR,Motor Vehicles and Parts,Motor Vehicles & Parts,"Bellevue, WA",21,Ronald E. Armstrong,3.82,23300,18997,1359,https://fortunedotcom.files.wordpress.com/2015/06/paccar.jpg?quality=80&w=462&h=260&crop=1,http://www.paccar.com,WA
+159,Dollar General,DG,General Merchandisers,Retailing,"Goodlettsville, TN",17,Todd J. Vasos,3.49,105500,18910,1065,https://fortunedotcom.files.wordpress.com/2015/06/dollar-general.jpg?quality=80&w=462&h=260&crop=1,http://www.dollargeneral.com,TN
+160,Hartford Financial Services Group,HIG,Insurance: Property and Casualty (Stock),Financials,"Hartford, CT",20,Christopher J. Swift,1.73,17500,18847,798,https://fortunedotcom.files.wordpress.com/2015/06/hartford-financial.jpg?quality=80&w=462&h=260&crop=1,http://www.thehartford.com,CT
+161,Southwest Airlines,LUV,Airlines,Transportation,"Dallas, TX",21,Gary C. Kelly,1.64,46278,18605,1136,https://fortunedotcom.files.wordpress.com/2015/06/southwest-airlines-resized.jpeg?quality=80&w=462&h=260&crop=1,http://www.southwest.com,TX
+162,Anadarko Petroleum,APC,"Mining, Crude-Oil Production",Energy,"The Woodlands, TX",15,R. A. Walker,-3.47,6100,18470,-1750,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-492418189.jpg?quality=80&w=840&h=485&crop=1,http://www.anadarko.com,TX
+163,Southern,SO,Utilities: Gas and Electric,Energy,"Atlanta, GA",21,Thomas A. Fanning,2.18,26369,18467,1963,https://fortunedotcom.files.wordpress.com/2015/05/southern.jpg?quality=80&w=462&h=260&crop=1,http://www.southerncompany.com,GA
+164,Supervalu,SVU,Food and Drug Stores,Food & Drug Stores,"Eden Prairie, MN",21,Sam K. Duncan,0.7,35800,18390,182,https://fortunedotcom.files.wordpress.com/2015/05/supervalu1.jpg?quality=80&w=462&h=260&crop=1,http://www.supervalu.com,MN
+165,Kraft Foods Group,KRFT,Food Consumer Products,"Food, Beverages & Tobacco","Northfield, IL",3,John T. Cahill,1.74,22100,18205,1043,https://fortunedotcom.files.wordpress.com/2015/05/kraft.jpg?quality=80&w=462&h=260&crop=1,http://www.kraftfoodsgroup.com,IL
+166,Goodyear Tire & Rubber,GT,Motor Vehicles and Parts,Motor Vehicles & Parts,"Akron, OH",21,Richard J. Kramer,8.78,67000,18138,2452,https://fortunedotcom.files.wordpress.com/2015/05/nascar025.jpg?quality=80&w=840&h=485&crop=1,http://www.goodyear.com,OH
+167,EOG Resources,EOG,"Mining, Crude-Oil Production",Energy,"Houston, TX",7,William R. Thomas,5.32,3000,18035,2916,https://fortunedotcom.files.wordpress.com/2015/06/eog.jpg?quality=80&w=462&h=260&crop=1,http://www.eogresources.com,TX
+168,CenturyLink,CTL,Telecommunications,Telecommunications,"Monroe, LA",6,Glen F. Post III,1.36,45000,18031,772,https://fortunedotcom.files.wordpress.com/2015/05/centurylink-1.jpg?quality=80&w=462&h=260&crop=1,http://www.centurylink.com,LA
+169,Altria Group,MO,Tobacco,"Food, Beverages & Tobacco","Richmond, VA",21,Martin J. Barrington,2.56,9000,17945,5070,https://fortunedotcom.files.wordpress.com/2015/06/altria.jpg?quality=80&w=462&h=260&crop=1,http://www.altria.com,VA
+170,Tenet Healthcare,THC,Health Care: Medical Facilities,Health Care,"Dallas, TX",21,Trevor Fetter,0.12,96456,17924,12,https://fortunedotcom.files.wordpress.com/2015/06/tenet.jpg?quality=80&w=462&h=260&crop=1,http://www.tenethealth.com,TX
+171,General Mills,GIS,Food Consumer Products,"Food, Beverages & Tobacco","Minneapolis, MN",21,Kendall J. Powell,2.83,43000,17910,1824,https://fortunedotcom.files.wordpress.com/2015/05/466715014.jpg?quality=80&w=840&h=485&crop=1,http://www.generalmills.com,MN
+172,eBay,EBAY,Internet Services and Retailing,Technology,"San Jose, CA",10,Devin N. Wenig,0.04,35550,17902,46,https://fortunedotcom.files.wordpress.com/2015/05/ebay.jpg?quality=80&w=462&h=260&crop=1,http://www.ebay.com,CA
+173,ConAgra Foods,CAG,Food Consumer Products,"Food, Beverages & Tobacco","Omaha, NE",21,Sean M. Connolly,0.7,32800,17773,303,https://fortunedotcom.files.wordpress.com/2015/05/117143693.jpg?quality=80&w=840&h=485&crop=1,http://www.conagrafoods.com,NE
+174,Lear,LEA,Motor Vehicles and Parts,Motor Vehicles & Parts,"Southfield, MI",21,Matthew J. Simoncini,8.23,125200,17727,672,https://fortunedotcom.files.wordpress.com/2015/05/lear.jpg?quality=80&w=462&h=260&crop=1,http://www.lear.com,MI
+175,TRW Automotive Holdings,,Motor Vehicles and Parts,Motor Vehicles & Parts,"Livonia, MI",11,John C. Plant,2.54,72900,17539,293,https://fortunedotcom.files.wordpress.com/2015/06/trw-automotive-holdings.jpg?quality=80&w=462&h=263&crop=1,http://www.trw.com,MI
+176,United States Steel,X,Metals,Materials,"Pittsburgh, PA",13,Mario Longhi,0.69,35500,17507,102,https://fortunedotcom.files.wordpress.com/2015/06/united-states-steel.jpg?quality=80&w=462&h=260&crop=1,http://www.ussteel.com,PA
+177,Penske Automotive Group,PAG,"Automotive Retailing, Services",Retailing,"Bloomfield Hills, MI",17,Roger S. Penske,3.17,22100,17439,287,https://fortunedotcom.files.wordpress.com/2015/06/penske.jpg?quality=80&w=462&h=260&crop=1,http://www.penskeautomotive.com,MI
+178,AES,AES,Utilities: Gas and Electric,Energy,"Arlington, VA",15,Andres R. Gluski,1.06,18500,17378,769,https://fortunedotcom.files.wordpress.com/2015/06/aes.jpg?quality=80&w=462&h=260&crop=1,http://www.aes.com,VA
+179,Colgate-Palmolive,CL,Household and Personal Products,Household Products,"New York, NY",21,Ian M. Cook,2.36,37700,17277,2180,https://fortunedotcom.files.wordpress.com/2015/05/colgate.jpg?quality=80&w=462&h=260&crop=1,http://www.colgatepalmolive.com,NY
+180,Global Partners,GLP,Wholesalers: Diversified,Wholesalers,"Waltham, MA",9,Eric Slifka,3.95,1154,17270,115,https://fortunedotcom.files.wordpress.com/2015/06/global-partners.jpg?quality=80&w=462&h=263&crop=1,http://www.globalp.com,MA
+181,Thermo Fisher Scientific,TMO,"Scientific,Photographic and Control Equipment",Technology,"Waltham, MA",13,Marc N. Casper,4.71,51000,17100,1894,https://fortunedotcom.files.wordpress.com/2015/05/thermo-fisher-scientific.jpg?quality=80&w=462&h=260&crop=1,http://www.thermofisher.com,MA
+182,PG&E Corp.,PCG,Utilities: Gas and Electric,Energy,"San Francisco, CA",21,Anthony F. Earley Jr.,3.06,22581,17090,1436,https://fortunedotcom.files.wordpress.com/2015/06/pge-corp.jpg?quality=80&w=462&h=260&crop=1,http://www.pge.com,CA
+183,NextEra Energy,NEE,Utilities: Gas and Electric,Energy,"Juno Beach, FL",21,James L. Robo,5.6,13800,17021,2465,https://fortunedotcom.files.wordpress.com/2015/06/nextera.jpg?quality=80&w=462&h=260&crop=1,http://www.nexteraenergy.com,FL
+184,American Electric Power,AEP,Utilities: Gas and Electric,Energy,"Columbus, OH",21,Nicholas K. Akins,3.34,18529,17020,1634,https://fortunedotcom.files.wordpress.com/2015/06/american-electric-power.jpg?quality=80&w=462&h=260&crop=1,http://www.aep.com,OH
+185,Baxter International,BAX,Medical Products and Equipment,Health Care,"Deerfield, IL",21,José Almeida,4.56,65500,16972,2497,https://fortunedotcom.files.wordpress.com/2015/06/baxter.jpg?quality=80&w=462&h=260&crop=1,http://www.baxter.com,IL
+186,Centene,CNC,Health Care: Insurance and Managed Care,Health Care,"St. Louis, MO",6,Michael F. Neidorff,2.25,13400,16588,271,https://fortunedotcom.files.wordpress.com/2015/06/centene.jpg?quality=80&w=462&h=260&crop=1,http://www.centene.com,MO
+187,Starbucks,SBUX,Food Services,"Hotels, Resturants & Leisure","Seattle, WA",13,Howard D. Schultz,1.36,191000,16448,2068,https://fortunedotcom.files.wordpress.com/2015/06/starbucks.jpg?quality=80&w=462&h=260&crop=1,http://www.starbucks.com,WA
+188,Gap,GPS,Specialty Retailers: Apparel,Retailing,"San Francisco, CA",21,Arthur L. Peck,2.87,141000,16435,1262,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-454713928.jpg?quality=80&w=840&h=485&crop=1,http://www.gapinc.com,CA
+189,Bank of New York Mellon Corp.,BK,Commercial Banks,Financials,"New York, NY",21,Gerald L. Hassell,2.15,50300,16386,2567,https://fortunedotcom.files.wordpress.com/2015/05/rtr4uocc.jpg?quality=80&w=840&h=485&crop=1,http://www.bnymellon.com,NY
+190,Micron Technology,MU,Semiconductors and Other Electronic Components,Technology,"Boise, ID",18,D. Mark Durcan,2.54,30400,16358,3045,https://fortunedotcom.files.wordpress.com/2015/06/micron.jpg?quality=80&w=462&h=260&crop=1,http://www.micron.com,ID
+191,Jabil Circuit,JBL,Semiconductors and Other Electronic Components,Technology,"St. Petersburg, FL",14,Mark T. Mondello,1.19,142000,16349,241,https://fortunedotcom.files.wordpress.com/2015/06/jabil-circuit.jpg?quality=80&w=462&h=263&crop=1,http://www.jabil.com,FL
+192,PNC Financial Services Group,PNC,Commercial Banks,Financials,"Pittsburgh, PA",21,William S. Demchak,7.3,51666,16281,4184,https://fortunedotcom.files.wordpress.com/2015/05/pnc.jpg?quality=80&w=462&h=260&crop=1,http://www.pnc.com,PA
+193,Kinder Morgan,KMI,Pipelines,Energy,"Houston, TX",12,Steven J. Kean,0.89,11535,16226,1026,https://fortunedotcom.files.wordpress.com/2015/05/kindermorgan.jpg?quality=80&w=840&h=485&crop=1,http://www.kindermorgan.com,TX
+194,Office Depot,ODP,Specialty Retailers: Other,Retailing,"Boca Raton, FL",21,Roland C. Smith,-0.66,56000,16096,-354,https://fortunedotcom.files.wordpress.com/2015/05/office-depot.jpg?quality=80&w=462&h=260&crop=1,http://www.officedepot.com,FL
+195,Bristol-Myers Squibb,BMY,Pharmaceuticals,Health Care,"New York, NY",21,Giovanni Caforio,1.2,25000,15879,2004,https://fortunedotcom.files.wordpress.com/2015/06/bristol-myers1.jpg?quality=80&w=462&h=263&crop=1,http://www.bms.com,NY
+196,NRG Energy,NRG,Energy,Energy,"Princeton, NJ",9,Mauricio Gutierrez,0.23,9806,15868,134,https://fortunedotcom.files.wordpress.com/2015/05/nrg-energy.jpg?quality=80&w=462&h=263&crop=1,http://www.nrgenergy.com,NJ
+197,Monsanto,MON,Chemicals,Chemicals,"St. Louis, MO",12,Hugh Grant,5.22,24700,15855,2740,https://fortunedotcom.files.wordpress.com/2015/05/monsanto.jpg?quality=80&w=462&h=260&crop=1,http://www.monsanto.com,MO
+198,PPG Industries,PPG,Chemicals,Chemicals,"Pittsburgh, PA",21,Michael H. McGarry,15.03,44400,15607,2102,https://fortunedotcom.files.wordpress.com/2015/05/ppg-industries.jpg?quality=80&w=462&h=260&crop=1,http://www.ppg.com,PA
+199,Genuine Parts,GPC,Wholesalers: Diversified,Wholesalers,"Atlanta, GA",21,Thomas C. Gallagher,4.61,39000,15342,711,https://fortunedotcom.files.wordpress.com/2015/06/napaexterior_truckhighres.jpg?quality=80&w=840&h=485&crop=1,http://www.genpt.com,GA
+200,Omnicom Group,OMC,"Advertising, marketing",Business Services,"New York, NY",19,John D. Wren,4.24,74000,15318,1104,https://fortunedotcom.files.wordpress.com/2015/05/omnicom_005.jpg?quality=80&w=462&h=260&crop=1,http://www.omnicomgroup.com,NY
+201,Illinois Tool Works,ITW,Industrial Machinery,Industrials,"Glenview, IL",21,E. Scott Santi,7.28,49000,15282,2946,https://fortunedotcom.files.wordpress.com/2015/05/illinois-tool-works0041.jpg?quality=80&w=462&h=260&crop=1,http://www.itw.com,IL
+202,Murphy USA,MUSA,Specialty Retailers: Other,Retailing,"El Dorado, AR",2,R. Andrew Clyde,5.26,5725,15279,244,https://fortunedotcom.files.wordpress.com/2015/06/a001_l001_0101j1-0000750.jpeg?quality=80&w=840&h=485&crop=1,http://corporate.murphyusa.com,AR
+203,Land O’Lakes,,Food Consumer Products,"Food, Beverages & Tobacco","Arden Hills, MN",13,Christopher J. Policinski,-,10000,15199,267,https://fortunedotcom.files.wordpress.com/2015/05/landolakes.jpg?quality=80&w=840&h=485&crop=1,http://www.landolakesinc.com,MN
+204,Western Refining,WNR,Petroleum Refining,Energy,"El Paso, TX",8,Jeff A. Stevens,5.61,5700,15154,560,https://fortunedotcom.files.wordpress.com/2015/05/westernrefining_0051.jpg?quality=80&w=462&h=260&crop=1,http://www.wnr.com,TX
+205,Western Digital,WDC,Computer Peripherals,Technology,"Irvine, CA",12,Stephen D. Milligan,6.68,84072,15130,1617,https://fortunedotcom.files.wordpress.com/2015/05/westerndig_manufacturing-2.jpg?quality=80&w=462&h=260&crop=1,http://www.westerndigital.com,CA
+206,FirstEnergy,FE,Utilities: Gas and Electric,Energy,"Akron, OH",20,Charles E. Jones,0.71,15557,15054,299,https://fortunedotcom.files.wordpress.com/2015/05/firstenergy_005.jpeg?quality=80&w=462&h=260&crop=1,http://www.firstenergycorp.com,OH
+207,Aramark,ARMK,Diversified Outsourcing Services,Business Services,"Philadelphia, PA",21,Eric J. Foss,0.63,216000,14833,149,https://fortunedotcom.files.wordpress.com/2015/05/aramark0021.jpg?quality=80&w=462&h=260&crop=1,http://www.aramark.com,PA
+208,DISH Network,DISH,Telecommunications,Telecommunications,"Englewood, CO",14,Charles W. Ergen,2.04,19000,14643,945,https://fortunedotcom.files.wordpress.com/2015/05/ap313785612765.jpg?quality=80&w=462&h=260&crop=1,http://www.dish.com,CO
+209,Las Vegas Sands,LVS,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Las Vegas, NV",6,Sheldon G. Adelson,3.52,48500,14584,2841,https://fortunedotcom.files.wordpress.com/2015/05/466459056.jpg?quality=80&w=840&h=485&crop=1,http://www.sands.com,NV
+210,Kellogg,K,Food Consumer Products,"Food, Beverages & Tobacco","Battle Creek, MI",21,John A. Bryant,1.75,29790,14580,632,https://fortunedotcom.files.wordpress.com/2015/05/463184076.jpg?quality=80&w=840&h=485&crop=1,http://www.kelloggcompany.com,MI
+211,Loews,L,Insurance: Property and Casualty (Stock),Financials,"New York, NY",21,James S. Tisch,1.55,17510,14572,591,https://fortunedotcom.files.wordpress.com/2015/05/loews463023139.jpg?quality=80&w=462&h=260&crop=1,http://www.loews.com,NY
+212,CBS,CBS,Entertainment,Media,"New York, NY",21,Leslie Moonves,5.27,20125,14483,2959,https://fortunedotcom.files.wordpress.com/2015/05/463694134.jpg?quality=80&w=462&h=260&crop=1,http://www.cbscorporation.com,NY
+213,Ecolab,ECL,Chemicals,Chemicals,"St. Paul, MN",13,Douglas M. Baker Jr.,3.93,47430,14281,1203,https://fortunedotcom.files.wordpress.com/2015/05/ecolab0081.jpg?quality=80&w=462&h=260&crop=1,http://www.ecolab.com,MN
+214,Whole Foods Market,WFM,Food and Drug Stores,Food & Drug Stores,"Austin, TX",11,"John P. Mackey, Walter Robb",1.56,72650,14194,579,https://fortunedotcom.files.wordpress.com/2015/05/wholefoods458588552.jpg?quality=80&w=462&h=260&crop=1,http://www.wholefoodsmarket.com,TX
+215,Chubb,CB,Insurance: Property and Casualty (Stock),Financials,"Warren, NJ",21,John D. Finnegan,8.62,10200,14098,2100,https://fortunedotcom.files.wordpress.com/2015/05/dsc_1130.jpeg?quality=80&w=462&h=260&crop=1,http://www.chubb.com,NJ
+216,Health Net,HNT,Health Care: Insurance and Managed Care,Health Care,"Woodland Hills, CA",21,Jay M. Gellert,1.8,7968,14009,146,https://fortunedotcom.files.wordpress.com/2015/05/healthnet0041.jpg?quality=80&w=462&h=260&crop=1,http://www.healthnet.com,CA
+217,Waste Management,WM,Waste Management,Business Services,"Houston, TX",17,David P. Steiner,2.79,39800,13996,1298,https://fortunedotcom.files.wordpress.com/2015/05/for06_a.jpg?quality=80&w=840&h=485&crop=1,http://www.wm.com,TX
+218,Apache,APA,"Mining, Crude-Oil Production",Energy,"Houston, TX",12,John J. Christmann IV,-14.06,4950,13938,-5403,https://fortunedotcom.files.wordpress.com/2015/05/apache_egypt_salam_05.jpeg?quality=80&w=462&h=260&crop=1,http://www.apachecorp.com,TX
+219,Textron,TXT,Aerospace and Defense,Aerospace & Defense,"Providence, RI",21,Scott C. Donnelly,2.13,34000,13878,600,https://fortunedotcom.files.wordpress.com/2015/05/textron456028142.jpg?quality=80&w=462&h=260&crop=1,http://www.textron.com,RI
+220,Synnex,SNX,Wholesalers: Electronics and Office Equipment,Wholesalers,"Fremont, CA",9,Kevin M. Murai,4.57,64000,13840,180,https://fortunedotcom.files.wordpress.com/2015/05/synnex-image-for-kevin_3-0.jpg?quality=80&w=462&h=260&crop=1,http://www.synnex.com,CA
+221,Marriott International,MAR,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Bethesda, MD",17,Arne M. Sorenson,2.54,123500,13796,753,https://fortunedotcom.files.wordpress.com/2015/05/marritottliving_room_evening_6777.jpg?quality=80&w=462&h=260&crop=1,http://www.marriott.com,MD
+222,Viacom,VIAB,Entertainment,Media,"New York, NY",10,Philippe P. Dauman,5.43,10140,13783,2391,https://fortunedotcom.files.wordpress.com/2015/05/viacom0071.jpg?quality=80&w=462&h=260&crop=1,http://www.viacom.com,NY
+223,Lincoln National,LNC,"Insurance: Life, Health (stock)",Financials,"Radnor, PA",21,Dennis R. Glass,5.67,9627,13554,1515,https://fortunedotcom.files.wordpress.com/2015/05/lincolnfinancial010.jpg?quality=80&w=462&h=260&crop=1,http://www.lfg.com,PA
+224,Nordstrom,JWN,General Merchandisers,Retailing,"Seattle, WA",21,Blake W. Nordstrom,3.72,67000,13506,720,https://fortunedotcom.files.wordpress.com/2015/05/nordstrom_the-woodlands_-womens-shoes.jpg?quality=80&w=462&h=260&crop=1,http://www.nordstrom.com,WA
+225,C.H. Robinson Worldwide,CHRW,Transportation and Logistics,Transportation,"Eden Prairie, MN",14,John P. Wiehoff,3.05,11521,13470,450,https://fortunedotcom.files.wordpress.com/2015/05/c-h-robinson-intermodal-containers1.jpg?quality=80&w=462&h=260&crop=1,http://www.chrobinson.com,MN
+226,Edison International,EIX,Utilities: Gas and Electric,Energy,"Rosemead, CA",21,Theodore F. Craver Jr.,4.89,13690,13413,1612,https://fortunedotcom.files.wordpress.com/2015/05/edisonintl0051.jpg?quality=80&w=462&h=260&crop=1,http://www.edisoninvestor.com,CA
+227,Marathon Oil,MRO,"Mining, Crude-Oil Production",Energy,"Houston, TX",21,Lee M. Tillman,4.46,3330,13297,3046,https://fortunedotcom.files.wordpress.com/2015/05/8287896719_c201875ffc_b.jpeg?quality=80&w=462&h=260&crop=1,http://www.marathonoil.com,TX
+228,Yum Brands,YUM,Food Services,"Hotels, Resturants & Leisure","Louisville, KY",17,Greg Creed,2.32,303405,13279,1051,https://fortunedotcom.files.wordpress.com/2015/05/yumbrands0021.jpg?quality=80&w=462&h=260&crop=1,http://www.yum.com,KY
+229,Computer Sciences,CSC,Information Technology Services,Technology,"Falls Church, VA",21,J. Michael Lawrie,4.47,79000,13233,674,https://fortunedotcom.files.wordpress.com/2015/05/computersciences_corporate-headquarters_falls-church-va.jpg?quality=80&w=462&h=260&crop=1,http://www.csc.com,VA
+230,Parker-Hannifin,PH,Industrial Machinery,Industrials,"Cleveland, OH",21,Thomas L. Williams,6.87,57450,13216,1041,https://fortunedotcom.files.wordpress.com/2015/05/parkerhannifin_global-hawk.jpg?quality=80&w=462&h=260&crop=1,http://www.parker.com,OH
+231,DaVita HealthCare Partners,DVA,Health Care: Medical Facilities,Health Care,"Denver, CO",9,Kent J. Thiry,3.33,57900,13162,723,https://fortunedotcom.files.wordpress.com/2015/05/davitahealthcare003.jpg?quality=80&w=462&h=260&crop=1,http://www.davita.com,CO
+232,CarMax,KMX,"Automotive Retailing, Services",Retailing,"Richmond, VA",12,Thomas J. Folliard,2.16,20171,13122,493,https://fortunedotcom.files.wordpress.com/2015/05/carmax1817386261.jpg?quality=80&w=462&h=260&crop=1,http://www.carmax.com,VA
+233,Texas Instruments,TXN,Semiconductors and Other Electronic Components,Technology,"Dallas, TX",21,Richard K. Templeton,2.57,31003,13045,2821,https://fortunedotcom.files.wordpress.com/2015/05/texasinstruments_rfab1.jpg?quality=80&w=462&h=260&crop=1,http://www.ti.com,TX
+234,WellCare Health Plans,WCG,Health Care: Insurance and Managed Care,Health Care,"Tampa, FL",7,Kenneth A. Burdick,1.44,6700,12960,64,https://fortunedotcom.files.wordpress.com/2015/06/wellcare-gloria-2.png?w=462&h=260&crop=1,http://www.wellcare.com,FL
+235,Marsh & McLennan,MMC,Diversified Financials,Financials,"New York, NY",21,Daniel S. Glaser,2.65,57000,12951,1465,https://fortunedotcom.files.wordpress.com/2015/05/img_1124_5x7.jpg?quality=80&w=462&h=260&crop=1,http://www.mmc.com,NY
+236,Consolidated Edison,ED,Utilities: Gas and Electric,Energy,"New York, NY",21,John McAvoy,3.71,14601,12919,1092,https://fortunedotcom.files.wordpress.com/2015/05/con_edison_04.jpg?quality=80&w=462&h=260&crop=1,http://www.conedison.com,NY
+237,Oneok,OKE,Pipelines,Energy,"Tulsa, OK",13,Terry K. Spencer,1.49,2269,12836,314,https://fortunedotcom.files.wordpress.com/2015/05/oneokpartners_montbelvieu1.jpg?quality=80&w=462&h=260&crop=1,http://www.oneok.com,OK
+238,Visa,V,Financial Data Services,Business Services,"Foster City, CA",7,Charles W. Scharf,-,9500,12702,5438,https://fortunedotcom.files.wordpress.com/2015/05/ap732018605174.jpg?quality=80&w=840&h=485&crop=1,http://www.visa.com,CA
+239,Jacobs Engineering Group,JEC,"Engineering, Construction",Engineering & Construction,"Pasadena, CA",15,Steven J. Demetriou,2.48,59900,12695,328,https://fortunedotcom.files.wordpress.com/2015/05/jacobsengineering_mining1.jpg?quality=80&w=462&h=260&crop=1,http://www.jacobs.com,CA
+240,CSX,CSX,Railroads,Transportation,"Jacksonville, FL",21,Michael J. Ward,1.92,31511,12669,1927,https://fortunedotcom.files.wordpress.com/2015/05/csx.jpg?quality=80&w=840&h=485&crop=1,http://www.csx.com,FL
+241,Entergy,ETR,Utilities: Gas and Electric,Energy,"New Orleans, LA",21,Leo P. Denault,5.22,13393,12495,941,https://fortunedotcom.files.wordpress.com/2015/06/entergy002.jpg?quality=80&w=462&h=260&crop=1,http://www.entergy.com,LA
+242,Facebook,FB,Internet Services and Retailing,Technology,"Menlo Park, CA",3,Mark Zuckerberg,1.1,9199,12466,2940,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-467498748.jpg?quality=80&w=840&h=485&crop=1,http://www.facebook.com,CA
+243,Dominion Resources,D,Utilities: Gas and Electric,Energy,"Richmond, VA",21,Thomas F. Farrell II,2.24,14400,12436,1310,https://fortunedotcom.files.wordpress.com/2015/05/dominionresources0111.jpg?quality=80&w=462&h=260&crop=1,http://www.dom.com,VA
+244,Leucadia National,LUK,Food Production,"Food, Beverages & Tobacco","New York, NY",3,Richard B. Handler,0.54,13082,12407,208,https://fortunedotcom.files.wordpress.com/2015/05/jefferies_sign.jpg?quality=80&w=462&h=260&crop=1,http://www.leucadia.com,NY
+245,Toys “R” Us,,Specialty Retailers: Other,Retailing,"Wayne, NJ",21,Antonio Urcelay,-,66000,12361,-292,https://fortunedotcom.files.wordpress.com/2015/05/toysrus460602518.jpg?quality=80&w=462&h=260&crop=1,http://www.toysrusinc.com,NJ
+246,DTE Energy,DTE,Utilities: Gas and Electric,Energy,"Detroit, MI",21,Gerard M. Anderson,5.1,10000,12301,905,https://fortunedotcom.files.wordpress.com/2015/05/dteenergy451556950.jpg?quality=80&w=462&h=260&crop=1,http://www.dteenergy.com,MI
+247,Ameriprise Financial,AMP,Diversified Financials,Financials,"Minneapolis, MN",9,James M. Cracchiolo,8.3,12209,12296,1619,https://fortunedotcom.files.wordpress.com/2015/05/hq-building-2.jpg?quality=80&w=462&h=260&crop=1,http://www.ameriprise.com,MN
+248,VF,VFC,Apparel,Apparel,"Greensboro, NC",21,Eric C. Wiseman,2.38,59697,12282,1048,https://fortunedotcom.files.wordpress.com/2015/05/vans_sp15_oldskool_u_02.jpg?quality=80&w=462&h=260&crop=1,http://www.vfc.com,NC
+249,Praxair,PX,Chemicals,Chemicals,"Danbury, CT",21,Stephen F. Angel,5.73,27780,12273,1694,https://fortunedotcom.files.wordpress.com/2015/05/praxair0021.jpg?quality=80&w=462&h=260&crop=1,http://www.praxair.com,CT
+250,J.C. Penney,JCP,General Merchandisers,Retailing,"Plano, TX",21,Marvin R. Ellison,-2.53,114000,12257,-771,https://fortunedotcom.files.wordpress.com/2015/05/jcpenny474861695.jpg?quality=80&w=462&h=260&crop=1,http://www.jcpenney.com,TX
+251,Automatic Data Processing,ADP,Diversified Outsourcing Services,Business Services,"Roseland, NJ",21,Carlos A. Rodriguez,3.14,61000,12220,1516,https://fortunedotcom.files.wordpress.com/2015/05/automatic-data-processing.jpg?quality=80&w=462&h=260&crop=1,http://www.adp.com,NJ
+252,L-3 Communications,LLL,Aerospace and Defense,Aerospace & Defense,"New York, NY",13,Michael T. Strianese,7.56,45000,12124,664,https://fortunedotcom.files.wordpress.com/2015/05/l30071.jpg?quality=80&w=462&h=260&crop=1,http://www.l-3com.com,NY
+253,CDW,CDW,Information Technology Services,Technology,"Vernon Hills, IL",11,Thomas E. Richards,1.42,7211,12075,245,https://fortunedotcom.files.wordpress.com/2015/05/cdw_20120106-img_3700.jpg?quality=80&w=462&h=260&crop=1,http://www.cdw.com,IL
+254,Guardian Life Ins. Co. of America,,"Insurance: Life, Health (Mutual)",Financials,"New York, NY",21,Deanna M. Mulligan,-,5000,11909,445,https://fortunedotcom.files.wordpress.com/2015/05/guardianlifeberkshire.jpg?quality=80&w=462&h=260&crop=1,http://www.guardianlife.com,NY
+255,Xcel Energy,XEL,Utilities: Gas and Electric,Energy,"Minneapolis, MN",19,Benjamin G.S. Fowke III,2.03,11640,11686,1021,https://fortunedotcom.files.wordpress.com/2015/05/xcel0031.jpg?quality=80&w=462&h=260&crop=1,http://www.xcelenergy.com,MN
+256,Norfolk Southern,NSC,Railroads,Transportation,"Norfolk, VA",21,James A. Squires,6.39,29482,11624,2000,https://fortunedotcom.files.wordpress.com/2015/05/norfolksouthern0061.jpg?quality=80&w=462&h=260&crop=1,http://www.nscorp.com,VA
+257,PPL,PPL,Utilities: Gas and Electric,Energy,"Allentown, PA",21,William H. Spence,2.61,17391,11616,1737,https://fortunedotcom.files.wordpress.com/2015/05/ppl_uk_reliability.jpg?quality=80&w=462&h=260&crop=1,http://www.pplweb.com,PA
+258,R.R. Donnelley & Sons,RRD,"Publishing, Printing",Media,"Chicago, IL",21,Thomas J. Quinlan III,0.59,68000,11603,117,https://fortunedotcom.files.wordpress.com/2015/05/ap761050778923.jpg?quality=80&w=840&h=485&crop=1,http://www.rrdonnelley.com,IL
+259,Huntsman,HUN,Chemicals,Chemicals,"Salt Lake City, UT",10,Peter R. Huntsman,1.31,16000,11578,323,https://fortunedotcom.files.wordpress.com/2015/06/huntsmanimage1.jpeg?quality=80&w=462&h=260&crop=1,http://www.huntsman.com,UT
+260,Bed Bath & Beyond,BBBY,Specialty Retailers: Other,Retailing,"Union, NJ",12,Steven H. Temares,4.79,58000,11504,1022,https://fortunedotcom.files.wordpress.com/2015/05/bedbathbeyond1662306161.jpg?quality=80&w=462&h=260&crop=1,http://www.bedbathandbeyond.com,NJ
+261,Stanley Black & Decker,SWK,"Home Equipment, Furnishings",Household Products,"New Britain, CT",8,John F. Lundgren,4.76,50400,11457,761,https://fortunedotcom.files.wordpress.com/2015/05/stanleyblackanddecker1858305151.jpg?quality=80&w=462&h=260&crop=1,http://www.stanleyblackanddecker.com,CT
+262,L Brands,LB,Specialty Retailers: Apparel,Retailing,"Columbus, OH",21,Leslie H. Wexner,3.5,50150,11454,1042,https://fortunedotcom.files.wordpress.com/2015/05/l-brands-459985370.jpg?quality=80&w=462&h=260&crop=1,http://www.lb.com,OH
+263,Liberty Interactive,QVCA,Internet Services and Retailing,Technology,"Englewood, CO",11,Gregory B. Maffei,-,20078,11382,537,https://fortunedotcom.files.wordpress.com/2015/05/libertyinteractive_qvc-studio-park-broadcast-control-room.jpg?quality=80&w=462&h=260&crop=1,http://www.libertyinteractive.com,CO
+264,Farmers Insurance Exchange,,Insurance: Property and Casualty (Mutual),Financials,"Woodland Hills, CA",1,Jeffrey J. Dailey,-,13530,11318,3,https://fortunedotcom.files.wordpress.com/2015/05/farmersinsurancertr4oedv.jpg?quality=80&w=462&h=260&crop=1,http://www.farmers.com,CA
+265,First Data,FDC,Financial Data Services,Business Services,"Atlanta, GA",21,Frank J. Bisignano,-,22655,11152,-458,https://fortunedotcom.files.wordpress.com/2015/05/firstdata003.jpg?quality=80&w=462&h=260&crop=1,http://www.firstdata.com,GA
+266,Sherwin-Williams,SHW,Chemicals,Chemicals,"Cleveland, OH",21,John G. Morikis,8.78,39674,11130,866,https://fortunedotcom.files.wordpress.com/2015/05/sherwinw13081050.jpg?quality=80&w=462&h=260&crop=1,http://www.sherwin.com,OH
+267,BlackRock,BLK,Securities,Financials,"New York, NY",8,Laurence D. Fink,19.25,12200,11081,3294,https://fortunedotcom.files.wordpress.com/2015/05/blackrock_4379_mc_blkticker_f.jpg?quality=80&w=462&h=260&crop=1,http://www.blackrock.com,NY
+268,Voya Financial,VOYA,"Insurance: Life, Health (stock)",Financials,"New York, NY",1,Rodney O. Martin Jr.,9.02,6500,11071,2300,https://fortunedotcom.files.wordpress.com/2015/05/voyafinancial0031.jpg?quality=80&w=462&h=260&crop=1,http://www.voya.com,NY
+269,Ross Stores,ROST,Specialty Retailers: Apparel,Retailing,"Dublin, CA",13,Barbara Rentler,4.42,71400,11042,925,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-535059145.jpg?quality=80&w=840&h=485&crop=1,http://www.rossstores.com,CA
+270,Sempra Energy,SRE,Utilities: Gas and Electric,Energy,"San Diego, CA",17,Debra L. Reed,4.63,17046,11035,1161,https://fortunedotcom.files.wordpress.com/2015/05/sempraenergy.jpg?quality=80&w=462&h=260&crop=1,http://www.sempra.com,CA
+271,Estee Lauder,EL,Household and Personal Products,Household Products,"New York, NY",20,Fabrizio Freda,3.06,42400,10969,1204,https://fortunedotcom.files.wordpress.com/2015/05/esteelauderrtr3eg3b1.jpg?quality=80&w=462&h=260&crop=1,http://www.elcompanies.com,NY
+272,H.J. Heinz,,Food Consumer Products,"Food, Beverages & Tobacco","Pittsburgh, PA",21,Bernardo Hees,-,24500,10922,657,https://fortunedotcom.files.wordpress.com/2015/05/heinz467496314.jpg?quality=80&w=462&h=260&crop=1,http://www.heinz.com,PA
+273,Reinsurance Group of America,RGA,"Insurance: Life, Health (stock)",Financials,"Chesterfield, MO",6,A. Greig Woodring,9.78,2070,10904,684,https://fortunedotcom.files.wordpress.com/2015/05/renaissancegroup0011.jpg?quality=80&w=462&h=260&crop=1,http://www.rgare.com,MO
+274,Public Service Enterprise Group,PEG,Utilities: Gas and Electric,Energy,"Newark, NJ",21,Ralph Izzo,2.99,12689,10886,1518,https://fortunedotcom.files.wordpress.com/2015/06/pseg008.jpg?quality=80&w=462&h=260&crop=1,http://www.pseg.com,NJ
+275,Cameron International,CAM,"Oil and Gas Equipment, Services",Energy,"Houston, TX",8,R. Scott Rowe,3.96,28000,10809,811,https://fortunedotcom.files.wordpress.com/2015/05/cameron1.jpg?quality=80&w=462&h=260&crop=1,http://www.c-a-m.com,TX
+276,Navistar International,NAV,Motor Vehicles and Parts,Motor Vehicles & Parts,"Lisle, IL",19,Troy A. Clarke,-7.6,14800,10806,-619,https://fortunedotcom.files.wordpress.com/2015/05/navistar0031.jpg?quality=80&w=462&h=260&crop=1,http://www.navistar.com,IL
+277,CST Brands,CST,Specialty Retailers: Other,Retailing,"San Antonio, TX",2,Kimberly S. Lubel,2.63,11099,10777,200,https://fortunedotcom.files.wordpress.com/2015/06/cstbrands_img_7474.jpg?quality=80&w=462&h=260&crop=1,http://www.cstbrands.com,TX
+278,State Street Corp.,STT,Commercial Banks,Financials,"Boston, MA",20,Joseph L. Hooley,4.57,29970,10687,2037,https://fortunedotcom.files.wordpress.com/2015/05/statestreet_200924_0078-hdr-fpo.jpg?quality=80&w=462&h=260&crop=1,http://www.statestreet.com,MA
+279,Unum Group,UNM,"Insurance: Life, Health (stock)",Financials,"Chattanooga, TN",20,Richard P. McKenney,1.61,9500,10510,413,https://fortunedotcom.files.wordpress.com/2015/05/unum_cm1p1570.jpg?quality=80&w=462&h=260&crop=1,http://www.unum.com,TN
+280,Hilton Worldwide Holdings,HLT,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","McLean, VA",12,Christopher J. Nassetta,0.68,157000,10502,673,https://fortunedotcom.files.wordpress.com/2015/05/biltmoresuite_fp.jpg?quality=80&w=462&h=260&crop=1,http://www.hiltonworldwide.com,VA
+281,Family Dollar Stores,FDO,General Merchandisers,Retailing,"Matthews, NC",14,Howard R. Levine,2.49,47500,10489,285,https://fortunedotcom.files.wordpress.com/2015/05/familydollar461397561.jpg?quality=80&w=462&h=260&crop=1,http://www.familydollar.com,NC
+282,Principal Financial,PFG,"Insurance: Life, Health (stock)",Financials,"Des Moines, IA",21,Daniel J. Houston,3.65,14873,10478,1144,https://fortunedotcom.files.wordpress.com/2015/05/principal-financial_0.jpeg?quality=80&w=462&h=260&crop=1,http://www.principal.com,IA
+283,Reliance Steel & Aluminum,RS,Metals,Materials,"Los Angeles, CA",9,Gregg J. Mollins,4.73,14900,10452,372,https://fortunedotcom.files.wordpress.com/2015/05/reliancesteelaluminum0021.jpg?quality=80&w=462&h=260&crop=1,http://www.rsac.com,CA
+284,Air Products & Chemicals,APD,Chemicals,Chemicals,"Allentown, PA",21,Seifi Ghasemi,4.61,21050,10448,992,https://fortunedotcom.files.wordpress.com/2015/05/ap004444.jpg?quality=80&w=840&h=485&crop=1,http://www.airproducts.com,PA
+285,Assurant,AIZ,Insurance: Property and Casualty (Stock),Financials,"New York, NY",11,Alan B. Colberg,6.44,17379,10382,471,https://fortunedotcom.files.wordpress.com/2015/05/assurant-callcenter.jpg?quality=80&w=840&h=485&crop=1,http://www.assurant.com,NY
+286,Peter Kiewit Sons’,,"Engineering, Construction",Engineering & Construction,"Omaha, NE",16,Bruce E. Grewcock,-,25700,10380,350,https://fortunedotcom.files.wordpress.com/2015/05/peterkiewitsons0011.jpg?quality=80&w=462&h=260&crop=1,http://www.kiewit.com,NE
+287,Henry Schein,HSIC,Wholesalers: Health Care,Wholesalers,"Melville, NY",12,Stanley M. Bergman,5.44,17500,10371,466,https://fortunedotcom.files.wordpress.com/2015/05/henry-schein-brand-product.jpg?quality=80&w=462&h=260&crop=1,http://www.henryschein.com,NY
+288,Cognizant Technology Solutions,CTSH,Information Technology Services,Technology,"Teaneck, NJ",5,Francisco D'Souza,2.35,211500,10263,1439,https://fortunedotcom.files.wordpress.com/2015/06/cognizant005.jpg?quality=80&w=462&h=260&crop=1,http://www.cognizant.com,NJ
+289,MGM Resorts International,MGM,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Las Vegas, NV",15,James J. Murren,-0.31,60100,10082,-150,https://fortunedotcom.files.wordpress.com/2015/05/bellagioexterior3.jpg?quality=80&w=462&h=260&crop=1,http://www.mgmresorts.com,NV
+290,W.W. Grainger,GWW,Wholesalers: Diversified,Wholesalers,"Lake Forest, IL",21,James T. Ryan,11.45,22950,9965,802,https://fortunedotcom.files.wordpress.com/2015/05/minooka-59.jpg?quality=80&w=840&h=485&crop=1,http://www.grainger.com,IL
+291,Group 1 Automotive,GPI,"Automotive Retailing, Services",Retailing,"Houston, TX",15,Earl J. Hesterberg,3.6,11978,9938,93,https://fortunedotcom.files.wordpress.com/2015/05/group-1-auto.jpg?quality=80&w=462&h=260&crop=1,http://www.group1auto.com,TX
+292,BB&T Corp.,BBT,Commercial Banks,Financials,"Winston-Salem, NC",17,Kelly S. King,2.75,33400,9926,2151,https://fortunedotcom.files.wordpress.com/2015/05/bbt458812970.jpg?quality=80&w=462&h=260&crop=1,http://www.bbt.com,NC
+293,WestRock,WRK,"Packaging, Containers",Materials,"Norcross, GA",4,Steven C. Voorhees,3.29,26600,9895,480,https://fortunedotcom.files.wordpress.com/2015/06/rock-tennclairemont9721.jpg?quality=80&w=462&h=260&crop=1,http://www.westrock.com,GA
+294,Advance Auto Parts,AAP,Specialty Retailers: Other,Retailing,"Roanoke, VA",13,George E. Sherman,6.71,57300,9844,494,https://fortunedotcom.files.wordpress.com/2015/05/advanceteammember2.jpg?quality=80&w=462&h=260&crop=1,http://www.advanceautoparts.com,VA
+295,Ally Financial,ALLY,Commercial Banks,Financials,"Detroit, MI",8,Jeffrey J. Brown,1.83,6900,9790,1150,https://fortunedotcom.files.wordpress.com/2015/06/allyfinancial005.jpg?quality=80&w=462&h=260&crop=1,http://www.ally.com,MI
+296,AGCO,AGCO,Construction and Farm Machinery,Industrials,"Duluth, GA",14,Martin H. Richenhagen,4.36,20828,9724,410,https://fortunedotcom.files.wordpress.com/2015/05/agco_-fendt_-manufacturing-jpeg1.jpg?quality=80&w=462&h=260&crop=1,http://www.agcocorp.com,GA
+297,Corning,GLW,Network and Other Communications Equipment,Technology,"Corning, NY",20,Wendell P. Weeks,1.73,34600,9715,2472,https://fortunedotcom.files.wordpress.com/2015/05/corning0011.jpg?quality=80&w=462&h=260&crop=1,http://www.corning.com,NY
+298,Biogen,BIIB,Pharmaceuticals,Health Care,"Cambridge, MA",6,George A. Scangos,12.37,7550,9703,2935,https://fortunedotcom.files.wordpress.com/2015/05/biogen.jpg?quality=80&w=840&h=485&crop=1,http://www.biogen.com,MA
+299,NGL Energy Partners,NGL,Wholesalers: Diversified,Wholesalers,"Tulsa, OK",1,H. Michael Krimbill,0.51,2500,9699,48,https://fortunedotcom.files.wordpress.com/2015/06/nglphoto-1.jpg?quality=80&w=462&h=260&crop=1,http://www.nglenergypartners.com,OK
+300,Stryker,SYK,Medical Products and Equipment,Health Care,"Kalamazoo, MI",13,Kevin A. Lobo,1.34,26000,9675,515,https://fortunedotcom.files.wordpress.com/2015/06/stryker.jpeg?quality=80&w=462&h=260&crop=1,http://www.stryker.com,MI
+301,Molina Healthcare,MOH,Health Care: Insurance and Managed Care,Health Care,"Long Beach, CA",4,Joseph M. Molina,1.29,10500,9667,62,https://fortunedotcom.files.wordpress.com/2015/05/molinahealthcare120623healthfair41sjg-1923727119-o.jpg?quality=80&w=462&h=260&crop=1,http://www.molinahealthcare.com,CA
+302,Precision Castparts,PCP,Aerospace and Defense,Aerospace & Defense,"Portland, OR",8,Mark Donegan,12.12,29085,9640,1777,https://fortunedotcom.files.wordpress.com/2015/06/5f00s_iso-copy.jpg?quality=80&w=840&h=485&crop=1,http://www.precast.com,OR
+303,Discover Financial Services,DFS,Commercial Banks,Financials,"Riverwoods, IL",7,David W. Nelms,4.9,14676,9611,2323,https://fortunedotcom.files.wordpress.com/2015/05/discoiver_02_handoff-it_a01.jpg?quality=80&w=462&h=260&crop=1,http://www.discoverfinancial.com,IL
+304,Genworth Financial,GNW,"Insurance: Life, Health (stock)",Financials,"Richmond, VA",10,Thomas J. McInerney,-2.51,5300,9565,-1244,https://fortunedotcom.files.wordpress.com/2015/05/genworth-building-5_06_1501.jpg?quality=80&w=462&h=260&crop=1,http://www.genworth.com,VA
+305,Eastman Chemical,EMN,Chemicals,Chemicals,"Kingsport, TN",21,Mark J. Costa,4.97,15000,9527,751,https://fortunedotcom.files.wordpress.com/2015/05/eastman_tritan-product1.jpg?quality=80&w=462&h=260&crop=1,http://www.eastman.com,TN
+306,Dean Foods,DF,Food Consumer Products,"Food, Beverages & Tobacco","Dallas, TX",17,Gregg A. Tanner,-0.22,17246,9503,-20,https://fortunedotcom.files.wordpress.com/2015/05/deanfoods_dairypure-41.jpg?quality=80&w=462&h=260&crop=1,http://www.deanfoods.com,TX
+307,AutoZone,AZO,Specialty Retailers: Other,Retailing,"Memphis, TN",17,William C. Rhodes III,31.57,59660,9475,1070,https://fortunedotcom.files.wordpress.com/2015/05/autozone_autozone-de-mexico.jpg?quality=80&w=462&h=260&crop=1,http://www.autozone.com,TN
+308,MasterCard,MA,Financial Data Services,Business Services,"Purchase, NY",7,Ajaypal S. Banga,3.1,10300,9473,3617,https://fortunedotcom.files.wordpress.com/2015/06/mastercard_8008341626_2c3a9269fd_b.jpg?quality=80&w=462&h=260&crop=1,http://www.mastercard.com,NY
+309,Owens & Minor,OMI,Wholesalers: Health Care,Wholesalers,"Mechanicsville, VA",21,P. Cody Phipps,1.06,7800,9440,67,https://fortunedotcom.files.wordpress.com/2015/06/owenminor001.jpg?quality=80&w=462&h=260&crop=1,http://www.owens-minor.com,VA
+310,Hormel Foods,HRL,Food Consumer Products,"Food, Beverages & Tobacco","Austin, MN",21,Jeffrey M. Ettinger,2.23,20400,9316,603,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-548777901.jpg?quality=80&w=840&h=485&crop=1,http://www.hormelfoods.com,MN
+311,GameStop,GME,Specialty Retailers: Other,Retailing,"Grapevine, TX",9,J. Paul Raines,3.47,36000,9296,393,https://fortunedotcom.files.wordpress.com/2015/05/gamestop467499756.jpg?quality=80&w=462&h=260&crop=1,http://www.gamestopcorp.com,TX
+312,Autoliv,ALV,Motor Vehicles and Parts,Motor Vehicles & Parts,"Auburn Hills, MI",17,Jan Carlson,5.06,55400,9241,468,https://fortunedotcom.files.wordpress.com/2015/05/autoliv_biw-sled-dummies.jpg?quality=80&w=462&h=260&crop=1,http://www.autoliv.com,MI
+313,CenterPoint Energy,CNP,Utilities: Gas and Electric,Energy,"Houston, TX",21,Scott M. Prochazka,1.42,8540,9226,611,https://fortunedotcom.files.wordpress.com/2015/06/centerpoint-energy-linemen.jpeg?quality=80&w=840&h=485&crop=1,http://www.centerpointenergy.com,TX
+314,Fidelity National Financial,FNF,Insurance: Property and Casualty (Stock),Financials,"Jacksonville, FL",8,Raymond R. Quirk,-,56883,9199,583,https://fortunedotcom.files.wordpress.com/2015/06/99174990.jpg?quality=80&w=840&h=485&crop=1,http://www.fnf.com,FL
+315,Sonic Automotive,SAH,"Automotive Retailing, Services",Retailing,"Charlotte, NC",16,B. Scott Smith,1.84,9300,9197,97,https://fortunedotcom.files.wordpress.com/2015/05/sonicautomotive_2015_sonic_cadclt_1212.jpg?quality=80&w=462&h=260&crop=1,http://www.sonicautomotive.com,NC
+316,HD Supply Holdings,HDS,Wholesalers: Diversified,Wholesalers,"Atlanta, GA",3,Joseph J. DeAngelo,0.02,15000,9167,3,https://fortunedotcom.files.wordpress.com/2015/06/hdsupply167c37011.jpg?quality=80&w=462&h=260&crop=1,http://www.hdsupply.com,GA
+317,Charter Communications,CHTR,Telecommunications,Telecommunications,"Stamford, CT",15,Thomas M. Rutledge,-1.7,23200,9108,-183,https://fortunedotcom.files.wordpress.com/2015/05/ap266587685272.jpg?quality=80&w=840&h=485&crop=1,http://www.charter.com,CT
+318,Crown Holdings,CCK,"Packaging, Containers",Materials,"Philadelphia, PA",21,Timothy J. Donahue,2.79,23000,9097,387,https://fortunedotcom.files.wordpress.com/2015/06/crown-holdings-inc-option-2.jpg?quality=80&w=462&h=260&crop=1,http://www.crowncork.com,PA
+319,Applied Materials,AMAT,Semiconductors and Other Electronic Components,Technology,"Santa Clara, CA",20,Gary E. Dickerson,0.87,14475,9072,1072,https://fortunedotcom.files.wordpress.com/2015/06/1-applied-materials-semiconductor-equipment-cleanroom.jpg?quality=80&w=462&h=260&crop=1,http://www.appliedmaterials.com,CA
+320,Mosaic,MOS,Chemicals,Chemicals,"Plymouth, MN",10,James C. O'Rourke,2.68,9100,9056,1029,https://fortunedotcom.files.wordpress.com/2015/06/mosaic.jpg?quality=80&w=462&h=260&crop=1,http://www.mosaicco.com,MN
+321,CBRE Group,CBG,Real estate,Financials,"Los Angeles, CA",8,Robert E. Sulentic,1.45,52000,9050,485,https://fortunedotcom.files.wordpress.com/2015/05/cbre-group_17-la-hq-pic-2.jpg?quality=80&w=462&h=260&crop=1,http://www.cbre.com,CA
+322,Avon Products,AVP,Household and Personal Products,Household Products,"New York, NY",21,Sherilyn S. McCoy,-0.88,33200,8851,-389,https://fortunedotcom.files.wordpress.com/2015/05/avon_avon-global-ambassador-fergie-shows-off-her-newest-avon-fragrance-outspoken-fresh-by-fergie.jpg?quality=80&w=462&h=260&crop=1,http://www.avoncompany.com,NY
+323,Republic Services,RSG,Waste Management,Business Services,"Phoenix, AZ",6,Donald W. Slager,1.53,31000,8788,548,https://fortunedotcom.files.wordpress.com/2015/05/republic-services_rsg-photo-5.jpg?quality=80&w=462&h=260&crop=1,http://www.republicservices.com,AZ
+324,Universal Health Services,UHS,Health Care: Medical Facilities,Health Care,"King of Prussia, PA",12,Alan B. Miller,5.42,58700,8764,545,https://fortunedotcom.files.wordpress.com/2015/05/universalhealthsvcs_005.jpg?quality=80&w=462&h=260&crop=1,http://www.uhsinc.com,PA
+325,Darden Restaurants,DRI,Food Services,"Hotels, Resturants & Leisure","Orlando, FL",19,Eugene I. Lee Jr.,2.15,206489,8758,286,https://fortunedotcom.files.wordpress.com/2015/05/darden452852184.jpg?quality=80&w=462&h=260&crop=1,http://www.darden.com,FL
+326,Steel Dynamics,STLD,Metals,Materials,"Fort Wayne, IN",6,Mark D. Millett,0.67,7780,8756,157,https://fortunedotcom.files.wordpress.com/2015/05/steeldynamics_dsc0663.jpg?quality=80&w=462&h=260&crop=1,http://www.steeldynamics.com,IN
+327,SunTrust Banks,STI,Commercial Banks,Financials,"Atlanta, GA",21,William H. Rogers Jr.,3.23,24638,8707,1774,https://fortunedotcom.files.wordpress.com/2015/05/suntrust458812810.jpg?quality=80&w=462&h=260&crop=1,http://www.suntrust.com,GA
+328,Caesars Entertainment,CZR,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Las Vegas, NV",15,Mark P. Frissora,-19.53,68000,8679,-2783,https://fortunedotcom.files.wordpress.com/2015/05/caesers471030544.jpg?quality=80&w=462&h=260&crop=1,http://www.caesars.com,NV
+329,Targa Resources,TRGP,Pipelines,Energy,"Houston, TX",7,Joe Bob Perkins,2.43,1350,8617,102,https://fortunedotcom.files.wordpress.com/2015/06/targa.jpeg?quality=80&w=462&h=260&crop=1,http://www.targaresources.com,TX
+330,Dollar Tree,DLTR,Specialty Retailers: Other,Retailing,"Chesapeake, VA",7,Bob Sasser,2.9,54050,8602,599,https://fortunedotcom.files.wordpress.com/2015/05/dollarstore452888496.jpg?quality=80&w=462&h=260&crop=1,http://www.dollartree.com,VA
+331,News Corp.,NWSA,"Publishing, Printing",Media,"New York, NY",1,Robert J. Thomson,0.41,22000,8574,239,https://fortunedotcom.files.wordpress.com/2015/06/newscorpphoto-1.jpeg?quality=80&w=462&h=260&crop=1,http://www.newscorp.com,NY
+332,Ball,BLL,"Packaging, Containers",Materials,"Broomfield, CO",19,John A. Hayes,3.3,14500,8570,470,https://fortunedotcom.files.wordpress.com/2015/05/ball_ball-beverage_golden.jpg?quality=80&w=462&h=260&crop=1,http://www.ball.com,CO
+333,Thrivent Financial for Lutherans,,"Insurance: Life, Health (Mutual)",Financials,"Minneapolis, MN",21,Bradford L. Hewitt,-,3062,8521,753,https://fortunedotcom.files.wordpress.com/2015/05/thriventfinancial_fr_members_0987.jpg?quality=80&w=840&h=485&crop=1,http://www.thrivent.com,MN
+334,Masco,MAS,"Home Equipment, Furnishings",Household Products,"Taylor, MI",21,Keith J. Allman,2.38,32000,8521,856,https://fortunedotcom.files.wordpress.com/2015/05/masco_milgard.jpg?quality=80&w=462&h=260&crop=1,http://www.masco.com,MI
+335,Franklin Resources,BEN,Securities,Financials,"San Mateo, CA",10,Gregory E. Johnson,3.79,9266,8491,2384,https://fortunedotcom.files.wordpress.com/2015/05/franklin-resources140930-587.jpg?quality=80&w=462&h=260&crop=1,http://www.franklinresources.com,CA
+336,Avis Budget Group,CAR,"Automotive Retailing, Services",Retailing,"Parsippany, NJ",18,Larry D. De Shon,2.22,26250,8485,245,https://fortunedotcom.files.wordpress.com/2015/05/avisbudget175681088.jpg?quality=80&w=462&h=260&crop=1,http://www.avisbudgetgroup.com,NJ
+337,Reynolds American,RAI,Tobacco,"Food, Beverages & Tobacco","Winston-Salem, NC",16,Susan M. Cameron,2.75,5350,8471,1470,https://fortunedotcom.files.wordpress.com/2015/05/reynoldsamerican451910534.jpg?quality=80&w=462&h=260&crop=1,http://www.reynoldsamerican.com,NC
+338,Becton Dickinson,BDX,Medical Products and Equipment,Health Care,"Franklin Lakes, NJ",21,Vincent A. Forlenza,5.99,30619,8446,1185,https://fortunedotcom.files.wordpress.com/2015/05/biosciences_innovation_sample-preparation_suzhou_jasmine-pan.jpeg?quality=80&w=462&h=260&crop=1,http://www.bd.com,NJ
+339,Priceline Group,PCLN,Internet Services and Retailing,Technology,"Norwalk, CT",3,Darren R. Huston,45.67,12700,8442,2422,https://fortunedotcom.files.wordpress.com/2015/05/450564126.jpg?quality=80&w=840&h=485&crop=1,http://www.pricelinegroup.com,CT
+340,Broadcom,BRCM,Semiconductors and Other Electronic Components,Technology,"Irvine, CA",7,Scott A. McGregor,1.08,10650,8428,652,https://fortunedotcom.files.wordpress.com/2015/05/broadcom-fortune-500.jpeg?quality=80&w=462&h=260&crop=1,http://www.broadcom.com,CA
+341,Tenneco,TEN,Motor Vehicles and Parts,Motor Vehicles & Parts,"Lake Forest, IL",21,Gregg M. Sherrill,3.66,29000,8420,226,https://fortunedotcom.files.wordpress.com/2015/05/tennecot-jiading-plant-8704.jpg?quality=80&w=462&h=260&crop=1,http://www.tenneco.com,IL
+342,Campbell Soup,CPB,Food Consumer Products,"Food, Beverages & Tobacco","Camden, NJ",21,Denise M. Morrison,2.59,19400,8405,818,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-169124935.jpg?quality=80&w=840&h=485&crop=1,http://www.campbellsoupcompany.com,NJ
+343,AECOM,ACM,"Engineering, Construction",Engineering & Construction,"Los Angeles, CA",7,Michael S. Burke,2.33,43300,8357,230,https://fortunedotcom.files.wordpress.com/2015/05/aecom_halley-vi_-jmorris-0641.jpg?quality=80&w=462&h=260&crop=1,http://www.aecom.com,CA
+344,Visteon,VC,Motor Vehicles and Parts,Motor Vehicles & Parts,"Van Buren Township, MI",14,Sachin Lawande,-6.25,25500,8343,-295,https://fortunedotcom.files.wordpress.com/2015/05/visteon_automaker_lightscape-1.jpg?quality=80&w=462&h=260&crop=1,http://www.visteon.com,MI
+345,Delek US Holdings,DK,Petroleum Refining,Energy,"Brentwood, TN",1,Ezra Uzi Yemin,3.35,4361,8324,199,https://fortunedotcom.files.wordpress.com/2015/06/delekusrefining-bg-cropped.jpeg?quality=80&w=462&h=260&crop=1,http://www.delekus.com,TN
+346,Dover,DOV,Industrial Machinery,Industrials,"Downers Grove, IL",21,Robert A. Livingston,4.59,26740,8322,775,https://fortunedotcom.files.wordpress.com/2015/05/dover_0268.jpg?quality=80&w=462&h=260&crop=1,http://www.dovercorporation.com,IL
+347,BorgWarner,BWA,Motor Vehicles and Parts,Motor Vehicles & Parts,"Auburn Hills, MI",9,James R. Verrier,2.86,22000,8305,656,https://fortunedotcom.files.wordpress.com/2015/05/borgwarner_bwmain_imagesnt_req01.jpg?quality=80&w=462&h=260&crop=1,http://www.borgwarner.com,MI
+348,Jarden,JAH,"Home Equipment, Furnishings",Household Products,"Boca Raton, FL",8,James E. Lillie,1.28,33000,8287,243,https://fortunedotcom.files.wordpress.com/2015/05/15_jardenar_penn10779.jpg?quality=80&w=462&h=260&crop=1,http://www.jarden.com,FL
+349,UGI,UGI,Energy,Energy,"King of Prussia, PA",11,John L. Walsh,1.92,12800,8277,337,https://fortunedotcom.files.wordpress.com/2015/05/ugi_1.jpg?quality=80&w=462&h=260&crop=1,http://www.ugicorp.com,PA
+350,Murphy Oil,MUR,"Mining, Crude-Oil Production",Energy,"El Dorado, AR",15,Roger W. Jenkins,5.03,1712,8263,906,https://fortunedotcom.files.wordpress.com/2015/05/murphy-oil_efs-6-lr.jpg?quality=80&w=462&h=260&crop=1,http://www.murphyoilcorp.com,AR
+351,PVH,PVH,Apparel,Apparel,"New York, NY",5,Emanuel Chirico,5.27,25850,8241,439,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-461719866.jpg?quality=80&w=462&h=260&crop=1,http://www.pvh.com,NY
+352,Core-Mark Holding,CORE,Wholesalers: Food and Grocery,Wholesalers,"South San Francisco, CA",6,Thomas B. Perkins,1.83,5933,8170,43,https://fortunedotcom.files.wordpress.com/2015/06/core-mark_96.jpeg?quality=80&w=462&h=260&crop=1,http://www.core-mark.com,CA
+353,Calpine,CPN,Energy,Energy,"Houston, TX",14,John B. Hill,2.31,2052,8030,946,https://fortunedotcom.files.wordpress.com/2015/05/calpine_1074-01-cal-los-esteros-dusk-evening-1333.jpg?quality=80&w=462&h=260&crop=1,http://www.calpine.com,TX
+354,D.R. Horton,DHI,Homebuilders,Engineering & Construction,"Fort Worth, TX",13,David V. Auld,1.5,5621,8025,534,https://fortunedotcom.files.wordpress.com/2015/05/001_exterior-front1.jpeg?quality=80&w=840&h=485&crop=1,http://www.drhorton.com,TX
+355,Weyerhaeuser,WY,Forest and Paper Products,Materials,"Federal Way, WA",21,Doyle R. Simons,3.18,12800,7976,1826,https://fortunedotcom.files.wordpress.com/2015/05/weyerhauserimg_4698.jpg?quality=80&w=462&h=260&crop=1,http://www.weyerhaeuser.com,WA
+356,KKR,KKR,Securities,Financials,"New York, NY",4,Henry R. Kravis,1.16,1209,7972,478,https://fortunedotcom.files.wordpress.com/2015/05/kkr_459956942.jpg?quality=80&w=462&h=260&crop=1,http://www.kkr.com,NY
+357,FMC Technologies,FTI,"Oil and Gas Equipment, Services",Energy,"Houston, TX",7,John T. Gremp,2.95,20300,7943,700,https://fortunedotcom.files.wordpress.com/2015/05/fmctech_fmc-cover-art.jpg?quality=80&w=462&h=260&crop=1,http://www.fmctechnologies.com,TX
+358,American Family Insurance Group,,Insurance: Property and Casualty (Stock),Financials,"Madison, WI",19,Jack C. Salzwedel,-,9205,7933,515,https://fortunedotcom.files.wordpress.com/2015/05/americanfamilyins-ep11.jpg?quality=80&w=840&h=485&crop=1,http://www.amfam.com,WI
+359,SpartanNash,SPTN,Wholesalers: Food and Grocery,Wholesalers,"Grand Rapids, MI",5,Dennis Eidson,1.55,12300,7916,59,https://fortunedotcom.files.wordpress.com/2015/06/spartanash_family-fare_associate_1.jpg?quality=80&w=462&h=260&crop=1,http://www.spartannash.com,MI
+360,WESCO International,WCC,Wholesalers: Diversified,Wholesalers,"Pittsburgh, PA",17,John J. Engel,5.18,9400,7890,276,https://fortunedotcom.files.wordpress.com/2015/05/wesco-calvert-cleveland-warehouse-interior-3.jpg?quality=80&w=462&h=260&crop=1,http://www.wesco.com,PA
+361,Quanta Services,PWR,"Engineering, Construction",Engineering & Construction,"Houston, TX",3,James F. O'Neil III,1.35,24600,7851,297,https://fortunedotcom.files.wordpress.com/2015/05/quantasvcs-_20110909-img_5262-copy.jpg?quality=80&w=462&h=260&crop=1,http://www.quantaservices.com,TX
+362,Mohawk Industries,MHK,zMiscellaneous,Household Products,"Calhoun, GA",16,Jeffrey S. Lorberbaum,7.25,32300,7803,532,https://fortunedotcom.files.wordpress.com/2015/05/mohawkindustries_karastan-commercial-palette-image.jpg?quality=80&w=462&h=260&crop=1,http://www.mohawkind.com,GA
+363,Motorola Solutions,MSI,Network and Other Communications Equipment,Technology,"Schaumburg, IL",21,Gregory Q. Brown,5.29,15000,7785,1299,https://fortunedotcom.files.wordpress.com/2015/06/msi6.jpeg?quality=80&w=462&h=260&crop=1,http://www.motorolasolutions.com,IL
+364,Lennar,LEN,Homebuilders,Engineering & Construction,"Miami, FL",11,Stuart A. Miller,2.8,6825,7780,639,https://fortunedotcom.files.wordpress.com/2015/05/181675825.jpg?quality=80&w=462&h=260&crop=1,http://www.lennar.com,FL
+365,TravelCenters of America,TA,Specialty Retailers: Other,Retailing,"Westlake, OH",8,Thomas M. O'Brien,1.62,16330,7779,61,https://fortunedotcom.files.wordpress.com/2015/05/travelcenter_ta_foristell.jpg?quality=80&w=462&h=260&crop=1,http://www.ta-petrol.com,OH
+366,Sealed Air,SEE,"Packaging, Containers",Materials,"Charlotte, NC",18,Jerome A. Peribere,1.2,24000,7751,258,https://fortunedotcom.files.wordpress.com/2015/06/sealed-air.jpeg?quality=80&w=462&h=260&crop=1,http://www.sealedair.com,NC
+367,Eversource Energy,ES,Utilities: Gas and Electric,Energy,"Springfield, MA",20,Thomas J. May,2.58,8248,7742,820,https://fortunedotcom.files.wordpress.com/2015/05/eversourceenergyphoto_snow_cleanup_capecod_feb_16_0736-f500.jpg?quality=80&w=462&h=260&crop=1,http://www.eversource.com,MA
+368,Coca-Cola Enterprises,CCE,Beverages,"Food, Beverages & Tobacco","Atlanta, GA",5,John F. Brock,2.63,11650,7680,663,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-470537960.jpg?quality=80&w=840&h=485&crop=1,http://www.cokecce.com,GA
+369,Celgene,CELG,Pharmaceuticals,Health Care,"Summit, NJ",4,Robert J. Hugin,2.39,6012,7670,2000,https://fortunedotcom.files.wordpress.com/2015/05/celgenefrontgoodexpandedgood.jpg?quality=80&w=462&h=260&crop=1,http://www.celgene.com,NJ
+370,Williams,WMB,Energy,Energy,"Tulsa, OK",21,Alan S. Armstrong,2.92,6742,7637,2114,https://fortunedotcom.files.wordpress.com/2015/05/north-liberty.jpg?quality=80&w=840&h=485&crop=1,http://www.williams.com,OK
+371,Ashland,ASH,Chemicals,Chemicals,"Covington, KY",21,William A. Wulfsohn,3,11000,7621,233,https://fortunedotcom.files.wordpress.com/2015/06/ashlandannjin-02.jpg?quality=80&w=462&h=260&crop=1,http://www.ashland.com,KY
+372,Interpublic Group,IPG,"Advertising, marketing",Business Services,"New York, NY",18,Michael I. Roth,1.12,47400,7537,477,https://fortunedotcom.files.wordpress.com/2015/05/interpublic-group.jpg?quality=80&w=462&h=260&crop=1,http://www.interpublic.com,NY
+373,Blackstone Group,BX,Diversified Financials,Financials,"New York, NY",2,Stephen A. Schwarzman,2.58,2190,7485,1585,https://fortunedotcom.files.wordpress.com/2015/05/blackstone_unnamed.jpg?quality=80&w=462&h=260&crop=1,http://www.blackstone.com,NY
+374,Ralph Lauren,RL,Apparel,Apparel,"New York, NY",7,Stefan Larsson,8.43,18500,7450,776,https://fortunedotcom.files.wordpress.com/2015/05/gettyimages-463852276.jpg?quality=80&w=462&h=260&crop=1,http://www.ralphlauren.com,NY
+375,Quest Diagnostics,DGX,Health Care: Pharmacy and Other Services,Health Care,"Madison, NJ",15,Stephen H. Rusckowski,3.81,45000,7435,556,https://fortunedotcom.files.wordpress.com/2015/05/questdiagnostics_1.jpg?quality=80&w=462&h=260&crop=1,http://www.questdiagnostics.com,NJ
+376,Hershey,HSY,Food Consumer Products,"Food, Beverages & Tobacco","Hershey, PA",21,John P. Bilbrey,3.77,21625,7422,847,https://fortunedotcom.files.wordpress.com/2015/05/130248096.jpg?quality=80&w=840&h=485&crop=1,http://www.thehersheycompany.com,PA
+377,Terex,TEX,Construction and Farm Machinery,Industrials,"Westport, CT",12,John L. Garrison Jr.,2.79,20400,7404,319,https://fortunedotcom.files.wordpress.com/2015/05/terex_mp-cover.jpg?quality=80&w=462&h=260&crop=1,http://www.terex.com,CT
+378,Boston Scientific,BSX,Medical Products and Equipment,Health Care,"Marlborough, MA",12,Michael F. Mahoney,-0.09,24000,7380,-119,https://fortunedotcom.files.wordpress.com/2015/06/bostonscientific_005.jpg?quality=80&w=462&h=260&crop=1,http://www.bostonscientific.com,MA
+379,Newmont Mining,NEM,"Mining, Crude-Oil Production",Energy,"Greenwood Village, CO",12,Gary J. Goldberg,1.02,13720,7292,508,https://fortunedotcom.files.wordpress.com/2015/05/newmont-mining_002.jpg?quality=80&w=462&h=260&crop=1,http://www.newmont.com,CO
+380,Allergan,,Pharmaceuticals,Health Care,"Irvine, CA",6,Brent Saunders,5.01,10500,7238,1524,https://fortunedotcom.files.wordpress.com/2015/05/allergen_restasis-60-count-image.jpg?quality=80&w=462&h=260&crop=1,http://www.allergan.com,CA
+381,O’Reilly Automotive,ORLY,Specialty Retailers: Other,Retailing,"Springfield, MO",6,Gregory L. Henslee,7.34,50853,7216,778,https://fortunedotcom.files.wordpress.com/2015/06/oreilly_storefront_sunset2.jpg?quality=80&w=462&h=260&crop=1,http://www.oreillyauto.com,MO
+382,Casey’s General Stores,CASY,Specialty Retailers: Other,Retailing,"Ankeny, IA",5,Robert J. Myers,3.26,20924,7194,127,https://fortunedotcom.files.wordpress.com/2015/05/caseysstore.jpg?quality=80&w=462&h=260&crop=1,http://www.caseys.com,IA
+383,CMS Energy,CMS,Utilities: Gas and Electric,Energy,"Jackson, MI",21,John G. Russell,1.74,7726,7179,477,https://fortunedotcom.files.wordpress.com/2015/05/cmsenergy001.jpg?quality=80&w=462&h=260&crop=1,http://www.cmsenergy.com,MI
+384,Foot Locker,FL,Specialty Retailers: Apparel,Retailing,"New York, NY",21,Richard A. Johnson,3.56,29568,7151,520,https://fortunedotcom.files.wordpress.com/2015/05/476783981.jpg?quality=80&w=462&h=260&crop=1,http://www.footlocker-inc.com,NY
+385,W.R. Berkley,WRB,Insurance: Property and Casualty (Stock),Financials,"Greenwich, CT",12,W. Robert Berkley,4.86,7521,7129,649,https://fortunedotcom.files.wordpress.com/2015/06/w-r-berkley.jpeg?quality=80&w=462&h=260&crop=1,http://www.wrberkley.com,CT
+386,PetSmart,,Specialty Retailers: Other,Retailing,"Phoenix, AZ",8,Michael J. Massey,4.26,39500,7112,426,https://fortunedotcom.files.wordpress.com/2015/05/ap518680389333.jpg?quality=80&w=462&h=260&crop=1,http://www.petsmart.com,AZ
+387,Pacific Life,,"Insurance: Life, Health (stock)",Financials,"Newport Beach, CA",19,James T. Morris,-,3095,7073,540,https://fortunedotcom.files.wordpress.com/2015/05/pacificlife001.jpg?quality=80&w=462&h=260&crop=1,http://www.pacificlife.com,CA
+388,Commercial Metals,CMC,Metals,Materials,"Irving, TX",11,Joseph Alvarado,0.97,9293,7057,116,https://fortunedotcom.files.wordpress.com/2015/06/meltshop_may2014__mg_4943.jpeg?quality=80&w=462&h=260&crop=1,http://www.cmc.com,TX
+389,Agilent Technologies,A,"Scientific,Photographic and Control Equipment",Technology,"Santa Clara, CA",14,Michael R. McMullen,1.49,21400,6981,504,https://fortunedotcom.files.wordpress.com/2015/05/a-lsca-2013-36-nanyang-2.jpg?quality=80&w=840&h=485&crop=1,http://www.agilent.com,CA
+390,Huntington Ingalls Industries,HII,Aerospace and Defense,Aerospace & Defense,"Newport News, VA",3,C. Michael Petters,6.86,38441,6957,338,https://fortunedotcom.files.wordpress.com/2015/05/huntingtoningalls007.jpg?quality=80&w=462&h=260&crop=1,http://www.huntingtoningalls.com,VA
+391,Mutual of Omaha Insurance,,"Insurance: Life, Health (stock)",Financials,"Omaha, NE",19,James T. Blackledge,-,5276,6878,292,https://fortunedotcom.files.wordpress.com/2015/05/mutualofomaha_img_0061_edit.jpg?quality=80&w=462&h=260&crop=1,http://www.mutualofomaha.com,NE
+392,Live Nation Entertainment,LYV,Entertainment,Media,"Beverly Hills, CA",6,Michael Rapino,-0.49,10950,6867,-91,https://fortunedotcom.files.wordpress.com/2015/05/livenation.jpg?quality=80&w=840&h=485&crop=1,http://www.livenation.com,CA
+393,Dick’s Sporting Goods,DKS,Specialty Retailers: Other,Retailing,"Coraopolis, PA",6,Edward W. Stack,2.84,24800,6815,344,https://fortunedotcom.files.wordpress.com/2015/05/492842717.jpg?quality=80&w=462&h=260&crop=1,http://www.dickssportinggoods.com,PA
+394,Oshkosh,OSK,Motor Vehicles and Parts,Motor Vehicles & Parts,"Oshkosh, WI",8,Wilson R. Jones,3.61,12000,6808,309,https://fortunedotcom.files.wordpress.com/2015/06/oshkosh_1850sj-city-high-rise-ds-p3.jpg?quality=80&w=462&h=260&crop=1,http://www.oshkoshcorporation.com,WI
+395,Celanese,CE,Chemicals,Chemicals,"Irving, TX",10,Mark C. Rohr,4,7468,6802,624,https://fortunedotcom.files.wordpress.com/2015/05/celanese-bishop-plant-photo.jpg?quality=80&w=462&h=260&crop=1,http://www.celanese.com,TX
+396,Spirit AeroSystems Holdings,SPR,Aerospace and Defense,Aerospace & Defense,"Wichita, KS",1,Larry A. Lawson,2.53,15250,6799,359,https://fortunedotcom.files.wordpress.com/2015/05/5837416724_51d77c6ece_o.jpg?quality=80&w=840&h=485&crop=1,http://www.spiritaero.com,KS
+397,United Natural Foods,UNFI,Wholesalers: Food and Grocery,Wholesalers,"Providence, RI",3,Steven L. Spinner,2.52,8700,6794,126,https://fortunedotcom.files.wordpress.com/2015/06/unitednaturalfoods_dsc83121.jpg?quality=80&w=840&h=485&crop=1,http://www.unfi.com,RI
+398,Peabody Energy,BTU,"Mining, Crude-Oil Production",Energy,"St. Louis, MO",11,Glenn L. Kellow,-2.94,8300,6792,-787,https://fortunedotcom.files.wordpress.com/2015/06/peabody_008.jpg?quality=80&w=462&h=260&crop=1,http://www.peabodyenergy.com,MO
+399,Owens-Illinois,OI,"Packaging, Containers",Materials,"Perrysburg, OH",21,Andres Lopez,0.45,21100,6784,75,https://fortunedotcom.files.wordpress.com/2015/05/owens-illinois.jpg?quality=80&w=462&h=260&crop=1,http://www.o-i.com,OH
+400,Dillard’s,DDS,General Merchandisers,Retailing,"Little Rock, AR",21,William T. Dillard II,7.79,30800,6780,332,https://fortunedotcom.files.wordpress.com/2015/06/dillards.jpg?quality=80&w=462&h=260&crop=1,http://www.dillards.com,AR
+401,Level 3 Communications,LVLT,Telecommunications,Telecommunications,"Broomfield, CO",11,Jeffrey K. Storey,1.21,13500,6777,314,https://fortunedotcom.files.wordpress.com/2015/05/level-3-communications.jpg?quality=80&w=462&h=260&crop=1,http://www.level3.com,CO
+402,Pantry,,Specialty Retailers: Other,Retailing,"Cary, NC",9,Dennis G. Hatchell,0.57,10591,6765,13,https://fortunedotcom.files.wordpress.com/2015/05/pantry.jpg?quality=80&w=462&h=260&crop=1,http://www.couche-tard.com,NC
+403,LKQ,LKQ,Wholesalers: Diversified,Wholesalers,"Chicago, IL",2,Robert L. Wagman,1.25,29500,6740,382,https://fortunedotcom.files.wordpress.com/2015/05/lkq.jpg?quality=80&w=462&h=260&crop=1,http://www.lkqcorp.com,IL
+404,Integrys Energy Group,TEG,Utilities: Gas and Electric,Energy,"Chicago, IL",10,Charles A. Schrock,3.43,4524,6731,277,https://fortunedotcom.files.wordpress.com/2015/06/north-pgl-2014_0066.jpeg?quality=80&w=462&h=260&crop=1,http://www.wecenergygroup.com,IL
+405,Symantec,SYMC,Computer Software,Technology,"Mountain View, CA",8,Michael A. Brown,1.28,20800,6676,898,https://fortunedotcom.files.wordpress.com/2015/05/symantec.jpg?quality=80&w=462&h=260&crop=1,http://www.symantec.com,CA
+406,Buckeye Partners,BPL,Pipelines,Energy,"Houston, TX",2,Clark C. Smith,2.28,1720,6646,273,https://fortunedotcom.files.wordpress.com/2015/06/buckeye-partners.jpg?quality=80&w=462&h=260&crop=1,http://www.buckeye.com,TX
+407,Ryder System,R,"Trucking, Truck Leasing",Transportation,"Miami, FL",21,Robert E. Sanchez,4.11,30600,6639,219,https://fortunedotcom.files.wordpress.com/2015/05/ryder-system.jpg?quality=80&w=462&h=260&crop=1,http://www.ryder.com,FL
+408,SanDisk,SNDK,Semiconductors and Other Electronic Components,Technology,"Milpitas, CA",5,Sanjay Mehrotra,4.23,8696,6628,1007,https://fortunedotcom.files.wordpress.com/2015/05/sandisk.jpg?quality=80&w=462&h=260&crop=1,http://www.sandisk.com,CA
+409,Rockwell Automation,ROK,"Electronics, Electrical Equip.",Industrials,"Milwaukee, WI",21,Keith D. Nosbusch,5.91,22500,6624,827,https://fortunedotcom.files.wordpress.com/2015/05/rockwell.jpg?quality=80&w=462&h=260&crop=1,http://www.rockwellautomation.com,WI
+410,Dana Holding,DAN,Motor Vehicles and Parts,Motor Vehicles & Parts,"Maumee, OH",21,James K. Kamsickas,1.84,22600,6617,319,https://fortunedotcom.files.wordpress.com/2015/05/dana-holding-1.jpg?quality=80&w=462&h=260&crop=1,http://www.dana.com,OH
+411,Lansing Trade Group,,Wholesalers: Diversified,Wholesalers,"Overland Park, KS",1,William E. Krueger,-,300,6614,58,https://fortunedotcom.files.wordpress.com/2015/05/lansing.jpg?quality=80&w=462&h=260&crop=1,http://www.lansingtradegroup.com,KS
+412,NCR,NCR,"Computers, Office Equipment",Technology,"Duluth, GA",18,William R. Nuti,1.12,30200,6591,191,https://fortunedotcom.files.wordpress.com/2015/05/ncr.jpg?quality=80&w=462&h=260&crop=1,http://www.ncr.com,GA
+413,Expeditors International of Washington,EXPD,Transportation and Logistics,Transportation,"Seattle, WA",8,Jeffrey S. Musser,1.92,14659,6565,377,https://fortunedotcom.files.wordpress.com/2015/05/expeditors.jpg?quality=80&w=462&h=260&crop=1,http://www.expeditors.com,WA
+414,Omnicare,OCR,Health Care: Pharmacy and Other Services,Health Care,"Cincinnati, OH",12,Nitin Sahney,1.36,12089,6551,145,https://fortunedotcom.files.wordpress.com/2015/05/omnicare.jpg?quality=80&w=462&h=260&crop=1,http://www.omnicare.com,OH
+415,AK Steel Holding,AKS,Metals,Materials,"West Chester, OH",15,Roger K. Newport,-0.65,8313,6506,-97,https://fortunedotcom.files.wordpress.com/2015/05/ak-steel.jpg?quality=80&w=462&h=260&crop=1,http://www.aksteel.com,OH
+416,Fifth Third Bancorp,FITB,Commercial Banks,Financials,"Cincinnati, OH",16,Greg D. Carmichael,1.66,18351,6503,1481,https://fortunedotcom.files.wordpress.com/2015/05/fifth-third.jpg?quality=80&w=462&h=260&crop=1,http://www.53.com,OH
+417,Seaboard,SEB,Food Production,"Food, Beverages & Tobacco","Shawnee Mission, KS",5,Steven J. Bresky,309.96,10778,6473,365,https://fortunedotcom.files.wordpress.com/2015/05/seaboard.jpg?quality=80&w=462&h=260&crop=1,http://www.seaboardcorp.com,KS
+418,NiSource,NI,Utilities: Gas and Electric,Energy,"Merrillville, IN",17,Joseph Hamrock,1.67,8982,6471,530,https://fortunedotcom.files.wordpress.com/2015/05/nisource.jpg?quality=80&w=462&h=260&crop=1,http://www.nisource.com,IN
+419,Cablevision Systems,CVC,Telecommunications,Telecommunications,"Bethpage, NY",17,James L. Dolan,1.15,14312,6461,311,https://fortunedotcom.files.wordpress.com/2015/05/cablevision.jpg?quality=80&w=462&h=260&crop=1,http://www.cablevision.com,NY
+420,Anixter International,AXE,Wholesalers: Diversified,Wholesalers,"Glenview, IL",13,Robert J. Eck,5.84,9100,6446,195,https://fortunedotcom.files.wordpress.com/2015/05/anixter-international.jpg?quality=80&w=462&h=260&crop=1,http://www.anixter.com,IL
+421,EMCOR Group,EME,"Engineering, Construction",Engineering & Construction,"Norwalk, CT",15,Anthony J. Guzzi,2.52,27000,6444,169,https://fortunedotcom.files.wordpress.com/2015/05/emcor.jpg?quality=80&w=462&h=260&crop=1,http://www.emcorgroup.com,CT
+422,Fidelity National Information Services,FIS,Financial Data Services,Business Services,"Jacksonville, FL",6,Gary A. Norcross,2.35,40000,6417,679,https://fortunedotcom.files.wordpress.com/2015/06/422-fidelity-national-info-services.jpg?quality=80&w=462&h=260&crop=1,http://www.fisglobal.com,FL
+423,Barnes & Noble,BKS,Specialty Retailers: Other,Retailing,"New York, NY",18,Ronald D. Boire,-1.12,37500,6381,-47,https://fortunedotcom.files.wordpress.com/2015/05/barnes-and-noble.jpg?quality=80&w=462&h=260&crop=1,http://www.barnesandnobleinc.com,NY
+424,KBR,KBR,"Engineering, Construction",Engineering & Construction,"Houston, TX",8,Stuart Bradie,-8.66,25000,6366,-1262,https://fortunedotcom.files.wordpress.com/2015/06/kbr.jpg?quality=80&w=462&h=260&crop=1,http://www.kbr.com,TX
+425,Auto-Owners Insurance,,Insurance: Property and Casualty (Mutual),Financials,"Lansing, MI",13,Jeffrey F. Harrold,-,4377,6337,564,https://fortunedotcom.files.wordpress.com/2015/05/auto-owners-insurance.jpg?quality=80&w=462&h=260&crop=1,http://www.auto-owners.com,MI
+426,Jones Financial,,Securities,Financials,"Des Peres, MO",3,James D. Weddle,-,40000,6333,770,https://fortunedotcom.files.wordpress.com/2015/05/jones-financial1.jpg?quality=80&w=462&h=260&crop=1,http://www.edwardjones.com,MO
+427,Avery Dennison,AVY,Chemicals,Chemicals,"Glendale, CA",21,Dean A. Scarborough,2.6,25000,6330,249,https://fortunedotcom.files.wordpress.com/2015/05/avery-dennison.jpg?quality=80&w=462&h=260&crop=1,http://www.averydennison.com,CA
+428,NetApp,NTAP,Computer Peripherals,Technology,"Sunnyvale, CA",4,George Kurian,1.83,12490,6325,638,https://fortunedotcom.files.wordpress.com/2015/06/netapp.jpg?quality=80&w=462&h=260&crop=1,http://www.netapp.com,CA
+429,iHeartMedia,IHRT,Entertainment,Media,"San Antonio, TX",15,Robert W. Pittman,-9.46,19200,6319,-794,https://fortunedotcom.files.wordpress.com/2015/05/iheartmedia.jpg?quality=80&w=462&h=260&crop=1,http://www.iheartmedia.com,TX
+430,Discovery Communications,DISCA,Entertainment,Media,"Silver Spring, MD",2,David M. Zaslav,1.66,6800,6265,1139,https://fortunedotcom.files.wordpress.com/2015/05/discovery-communications.jpg?quality=80&w=462&h=260&crop=1,http://www.discoverycommunications.com,MD
+431,Harley-Davidson,HOG,Transportation Equipment,Transportation,"Milwaukee, WI",14,Matthew S. Levatich,3.88,6500,6229,845,https://fortunedotcom.files.wordpress.com/2015/05/harley.jpg?quality=80&w=840&h=485&crop=1,http://www.harley-davidson.com,WI
+432,Sanmina,SANM,Semiconductors and Other Electronic Components,Technology,"San Jose, CA",15,Jure Sola,2.27,38417,6215,197,https://fortunedotcom.files.wordpress.com/2015/05/sanmina_settop__casestudy-2.jpg?quality=80&w=840&h=485&crop=1,http://www.sanmina.com,CA
+433,Trinity Industries,TRN,Transportation Equipment,Transportation,"Dallas, TX",1,Timothy R. Wallace,4.19,22070,6170,678,https://fortunedotcom.files.wordpress.com/2015/05/trinity-industries.jpg?quality=80&w=462&h=260&crop=1,http://www.trin.net,TX
+434,J.B. Hunt Transport Services,JBHT,"Trucking, Truck Leasing",Transportation,"Lowell, AR",3,John N. Roberts III,3.16,20158,6165,375,https://fortunedotcom.files.wordpress.com/2015/05/hunt-j-b-transport-svcs.jpg?quality=80&w=462&h=260&crop=1,http://www.jbhunt.com,AR
+435,Charles Schwab,SCHW,Securities,Financials,"San Francisco, CA",17,Walter W. Bettinger II,0.95,14600,6156,1321,https://fortunedotcom.files.wordpress.com/2015/05/schwab.jpg?quality=80&w=462&h=260&crop=1,http://www.aboutschwab.com,CA
+436,Erie Insurance Group,,Insurance: Property and Casualty (Stock),Financials,"Erie, PA",12,Terrence W. Cavanaugh,-,4700,6124,168,https://fortunedotcom.files.wordpress.com/2015/05/erie-insurance-group.jpg?quality=80&w=462&h=260&crop=1,http://www.erieinsurance.com,PA
+437,Dr Pepper Snapple Group,DPS,Beverages,"Food, Beverages & Tobacco","Plano, TX",7,Larry D. Young,3.56,19000,6121,703,https://fortunedotcom.files.wordpress.com/2015/05/470709452.jpg?quality=80&w=840&h=485&crop=1,http://www.drpeppersnapplegroup.com,TX
+438,Ameren,AEE,Utilities: Gas and Electric,Energy,"St. Louis, MO",18,Warner L. Baxter,2.4,8527,6054,586,https://fortunedotcom.files.wordpress.com/2015/05/ameren.jpg?quality=80&w=462&h=260&crop=1,http://www.ameren.com,MO
+439,Mattel,MAT,"Toys, Sporting Goods",Household Products,"El Segundo, CA",21,Christopher A. Sinclair,1.45,31000,6024,499,https://fortunedotcom.files.wordpress.com/2015/05/mattel.jpg?quality=80&w=462&h=260&crop=1,http://www.mattel.com,CA
+440,Laboratory Corp. of America,LH,Health Care: Pharmacy and Other Services,Health Care,"Burlington, NC",6,David P. King,5.91,36000,6012,511,https://fortunedotcom.files.wordpress.com/2015/06/labcorp.jpg?quality=80&w=462&h=260&crop=1,http://www.labcorp.com,NC
+441,TEGNA,TGNA,"Publishing, Printing",Media,"McLean, VA",21,Gracia C. Martore,4.58,31250,6008,1062,https://fortunedotcom.files.wordpress.com/2015/05/453218506.jpg?quality=80&w=840&h=485&crop=1,http://www.tegna.com/,VA
+442,Starwood Hotels & Resorts,HOT,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Stamford, CT",17,Thomas B. Mangas,3.4,180400,5983,633,https://fortunedotcom.files.wordpress.com/2015/05/463851868.jpg?quality=80&w=840&h=485&crop=1,http://www.starwoodhotels.com,CT
+443,General Cable,BGC,"Electronics, Electrical Equip.",Industrials,"Highland Heights, KY",7,Michael T. McDonnell,-12.86,13000,5980,-628,https://fortunedotcom.files.wordpress.com/2015/05/general-cable.jpg?quality=80&w=462&h=260&crop=1,http://www.generalcable.com,KY
+444,A-Mark Precious Metals,AMRK,zMiscellaneous,Materials,"Santa Monica, CA",1,Gregory N. Roberts,1.09,55,5979,8,https://fortunedotcom.files.wordpress.com/2015/05/amark.jpg?quality=80&w=462&h=260&crop=1,http://www.amark.com,CA
+445,Graybar Electric,,Wholesalers: Diversified,Wholesalers,"St. Louis, MO",21,Kathleen M. Mazzarella,5.52,8250,5979,87,https://fortunedotcom.files.wordpress.com/2015/05/graybar1.jpg?quality=80&w=462&h=260&crop=1,http://www.graybar.com,MO
+446,Energy Future Holdings,,Energy,Energy,"Dallas, TX",21,John F. Young,-,8920,5978,-6406,https://fortunedotcom.files.wordpress.com/2015/05/energy-future-holdings.jpg?quality=80&w=462&h=260&crop=1,http://www.energyfutureholdings.com,TX
+447,HRG Group,HRG,Household and Personal Products,Household Products,"New York, NY",2,Omar Asali,-0.51,14427,5963,-10,https://fortunedotcom.files.wordpress.com/2015/05/hrg-group.jpg?quality=80&w=462&h=260&crop=1,http://www.hrggroup.com,NY
+448,MRC Global,MRC,"Oil and Gas Equipment, Services",Energy,"Houston, TX",4,Andrew R. Lane,1.4,4900,5933,144,https://fortunedotcom.files.wordpress.com/2015/05/mrc.jpg?quality=80&w=462&h=260&crop=1,http://www.mrcglobal.com,TX
+449,Spectra Energy,SE,Pipelines,Energy,"Houston, TX",8,Gregory L. Ebel,1.61,5900,5903,1082,https://fortunedotcom.files.wordpress.com/2015/05/spectra-energy.jpg?quality=80&w=462&h=260&crop=1,http://www.spectraenergy.com,TX
+450,Asbury Automotive Group,ABG,"Automotive Retailing, Services",Retailing,"Duluth, GA",9,Craig T. Monaghan,3.71,8300,5868,112,https://fortunedotcom.files.wordpress.com/2015/05/nalleylexgal-taken-1008.jpg?quality=80&w=840&h=485&crop=1,http://www.asburyauto.com,GA
+451,Packaging Corp. of America,PKG,"Packaging, Containers",Materials,"Lake Forest, IL",1,Mark W. Kowlzan,3.99,14000,5853,393,https://fortunedotcom.files.wordpress.com/2015/06/packaging-corp.jpg?quality=80&w=462&h=260&crop=1,http://www.packagingcorp.com,IL
+452,Windstream Holdings,WIN,Telecommunications,Telecommunications,"Little Rock, AR",3,Anthony W. Thomas,-0.07,12626,5830,-40,https://fortunedotcom.files.wordpress.com/2015/06/windstream-headquarters-3.jpeg?quality=80&w=462&h=260&crop=1,http://www.windstream.com,AR
+453,PulteGroup,PHM,Homebuilders,Engineering & Construction,"Atlanta, GA",13,Richard J. Dugas Jr.,1.26,4149,5822,474,https://fortunedotcom.files.wordpress.com/2015/05/pultegroup.jpg?quality=80&w=462&h=260&crop=1,http://www.pultegroupinc.com,GA
+454,JetBlue Airways,JBLU,Airlines,Transportation,"Long Island City, NY",3,Robin Hayes,1.19,13343,5817,401,https://fortunedotcom.files.wordpress.com/2015/05/jetblue.jpg?quality=80&w=462&h=260&crop=1,http://www.jetblue.com,NY
+455,Newell Rubbermaid,NWL,"Home Equipment, Furnishings",Household Products,"Atlanta, GA",20,Michael B. Polk,1.35,17400,5810,378,https://fortunedotcom.files.wordpress.com/2015/05/img000881.jpg?quality=80&w=840&h=485&crop=1,http://www.newellrubbermaid.com,GA
+456,Con-way,,Transportation and Logistics,Transportation,"Ann Arbor, MI",19,Douglas W. Stotlar,2.36,30100,5806,137,https://fortunedotcom.files.wordpress.com/2015/05/con-way.jpg?quality=80&w=462&h=260&crop=1,http://www.con-way.com,MI
+457,Calumet Specialty Products Partners,CLMT,Petroleum Refining,Energy,"Indianapolis, IN",2,Timothy Go,-1.8,2200,5791,-112,https://fortunedotcom.files.wordpress.com/2015/05/calumet1.jpg?quality=80&w=462&h=260&crop=1,http://www.calumetspecialty.com,IN
+458,Expedia,EXPE,Internet Services and Retailing,Technology,"Bellevue, WA",1,Dara Khosrowshahi,2.99,18210,5764,398,https://fortunedotcom.files.wordpress.com/2015/05/expedia.jpg?quality=80&w=462&h=260&crop=1,http://www.expediainc.com,WA
+459,American Financial Group,AFG,Insurance: Property and Casualty (Stock),Financials,"Cincinnati, OH",16,Carl H. Lindner lll,4.97,7800,5713,452,https://fortunedotcom.files.wordpress.com/2015/05/american-financial-group.jpg?quality=80&w=462&h=260&crop=1,http://www.afginc.com,OH
+460,Tractor Supply,TSCO,Specialty Retailers: Other,Retailing,"Brentwood, TN",2,Gregory A. Sandfort,2.66,16050,5712,371,https://fortunedotcom.files.wordpress.com/2015/05/tractor-supply.jpg?quality=80&w=462&h=260&crop=1,http://www.tractorsupply.com,TN
+461,United Rentals,URI,Miscellaneous,Business Services,"Stamford, CT",2,Michael J. Kneeland,5.15,12500,5685,540,https://fortunedotcom.files.wordpress.com/2015/05/united-rentals.jpg?quality=80&w=462&h=260&crop=1,http://www.unitedrentals.com,CT
+462,Ingredion,INGR,Food Production,"Food, Beverages & Tobacco","Westchester, IL",4,Ilene S. Gordon,4.74,10850,5668,355,https://fortunedotcom.files.wordpress.com/2015/05/ingredion.jpg?quality=80&w=462&h=260&crop=1,http://www.ingredion.com,IL
+463,Navient,NAVI,Diversified Financials,Financials,"Wilmington, DE",1,John F. Remondi,2.69,6200,5637,1149,https://fortunedotcom.files.wordpress.com/2015/05/navient.jpg?quality=80&w=462&h=260&crop=1,http://www.navient.com,DE
+464,MeadWestvaco,MWV,"Packaging, Containers",Materials,"Richmond, VA",20,John A. Luke Jr.,1.53,15000,5631,263,https://fortunedotcom.files.wordpress.com/2015/05/meadwestvaco.jpg?quality=80&w=462&h=260&crop=1,http://www.mwv.com,VA
+465,AGL Resources,GAS,Utilities: Gas and Electric,Energy,"Atlanta, GA",1,Andrew W. Evans,4.04,5165,5628,482,https://fortunedotcom.files.wordpress.com/2015/06/agl-resources.jpg?quality=80&w=462&h=260&crop=1,http://www.aglresources.com,GA
+466,St. Jude Medical,STJ,Medical Products and Equipment,Health Care,"St. Paul, MN",6,Michael T. Rousseau,3.46,16000,5622,1002,https://fortunedotcom.files.wordpress.com/2015/05/st-jude.jpg?quality=80&w=462&h=260&crop=1,http://www.sjm.com,MN
+467,J.M. Smucker,SJM,Food Consumer Products,"Food, Beverages & Tobacco","Orrville, OH",5,Richard K. Smucker,5.42,4775,5611,565,https://fortunedotcom.files.wordpress.com/2015/05/smucker-j-m.jpg?quality=80&w=462&h=260&crop=1,http://www.jmsmucker.com,OH
+468,Western Union,WU,Financial Data Services,Business Services,"Englewood, CO",9,Hikmet Ersek,1.59,10000,5607,852,https://fortunedotcom.files.wordpress.com/2015/05/western-union.jpg?quality=80&w=462&h=260&crop=1,http://www.westernunion.com,CO
+469,Clorox,CLX,Household and Personal Products,Household Products,"Oakland, CA",16,Benno O. Dorer,4.23,8200,5591,558,https://fortunedotcom.files.wordpress.com/2015/05/clorox.jpg?quality=80&w=462&h=260&crop=1,http://www.thecloroxcompany.com,CA
+470,Domtar,UFS,Forest and Paper Products,Materials,"Fort Mill, SC",7,John D. Williams,6.64,9800,5563,431,https://fortunedotcom.files.wordpress.com/2015/05/hawesville_pulp_machine_69_web_gallery.jpg?quality=80&w=840&h=485&crop=1,http://www.domtar.com,SC
+471,Kelly Services,KELYA,Temporary Help,Business Services,"Troy, MI",21,Carl T. Camden,0.61,8300,5563,24,https://fortunedotcom.files.wordpress.com/2015/05/kelly-services.jpg?quality=80&w=462&h=260&crop=1,http://www.kellyservices.com,MI
+472,Old Republic International,ORI,Insurance: Property and Casualty (Stock),Financials,"Chicago, IL",4,Aldo C. Zucaro,1.44,8000,5531,410,https://fortunedotcom.files.wordpress.com/2015/06/oldrepublic.jpg?quality=80&w=840&h=485&crop=1,http://www.oldrepublic.com,IL
+473,Advanced Micro Devices,AMD,Semiconductors and Other Electronic Components,Technology,"Sunnyvale, CA",15,Lisa T. Su,-0.53,9687,5506,-403,https://fortunedotcom.files.wordpress.com/2015/05/advanced-micro-devices1.jpg?quality=80&w=462&h=260&crop=1,http://www.amd.com,CA
+474,Netflix,NFLX,Specialty Retailers: Other,Retailing,"Los Gatos, CA",1,Reed Hastings,4.32,2320,5505,267,https://fortunedotcom.files.wordpress.com/2015/05/mv5bmzc4mte4mje4nf5bml5banbnxkftztgwmjg5ote2nde-_v1__1.jpg?quality=80&w=840&h=485&crop=1,http://www.netflix.com,CA
+475,Booz Allen Hamilton Holding,BAH,Information Technology Services,Technology,"McLean, VA",5,Horacio D. Rozanski,1.54,22700,5479,232,https://fortunedotcom.files.wordpress.com/2015/06/booz-allen.jpg?quality=80&w=462&h=260&crop=1,http://www.boozallen.com,VA
+476,Quintiles Transnational Holdings,Q,Health Care: Pharmacy and Other Services,Health Care,"Durham, NC",2,Thomas H. Pike,2.72,32600,5460,356,https://fortunedotcom.files.wordpress.com/2015/05/quintiles.jpg?quality=80&w=462&h=260&crop=1,http://www.quintiles.com,NC
+477,Wynn Resorts,WYNN,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Las Vegas, NV",4,Stephen A. Wynn,7.18,16800,5434,732,https://fortunedotcom.files.wordpress.com/2015/06/wynn-resorts.jpg?quality=80&w=462&h=260&crop=1,http://www.wynnresorts.com,NV
+478,Jones Lang LaSalle,JLL,Real estate,Financials,"Chicago, IL",1,Colin Dyer,8.52,58100,5430,386,https://fortunedotcom.files.wordpress.com/2015/05/jones-lasalle.jpg?quality=80&w=462&h=260&crop=1,http://www.jll.com,IL
+479,Regions Financial,RF,Commercial Banks,Financials,"Birmingham, AL",17,O.B. Grayson Hall Jr.,0.8,23723,5428,1155,https://fortunedotcom.files.wordpress.com/2015/05/regions-financial.jpg?quality=80&w=462&h=260&crop=1,http://www.regions.com,AL
+480,CH2M Hill,,"Engineering, Construction",Engineering & Construction,"Englewood, CO",7,Jacqueline C. Hinman,-6.42,25000,5414,-182,https://fortunedotcom.files.wordpress.com/2015/05/130430143555-ch2m-hill-best-companies.jpg?quality=80&w=840&h=485&crop=1,http://www.ch2m.com,CO
+481,Western & Southern Financial Group,,"Insurance: Life, Health (Mutual)",Financials,"Cincinnati, OH",11,John F. Barrett,-,2146,5404,790,https://fortunedotcom.files.wordpress.com/2015/06/western-southern-financial.jpg?quality=80&w=462&h=260&crop=1,http://www.westernsouthern.com,OH
+482,Lithia Motors,LAD,"Automotive Retailing, Services",Retailing,"Medford, OR",1,Bryan B. DeBoer,5.26,8827,5403,139,https://fortunedotcom.files.wordpress.com/2015/06/lithia-motors.jpg?quality=80&w=462&h=260&crop=1,http://www.lithia.com,OR
+483,salesforce.com,CRM,Computer Software,Technology,"San Francisco, CA",1,Marc R. Benioff,-0.42,16200,5374,-263,https://fortunedotcom.files.wordpress.com/2015/05/salesforce-com1.jpg?quality=80&w=462&h=260&crop=1,http://www.salesforce.com,CA
+484,Alaska Air Group,ALK,Airlines,Transportation,"Seattle, WA",2,Bradley D. Tilden,4.42,13952,5368,605,https://fortunedotcom.files.wordpress.com/2015/05/alaska-air-group1.jpg?quality=80&w=462&h=260&crop=1,http://www.alaskaair.com,WA
+485,Host Hotels & Resorts,HST,Real estate,Financials,"Bethesda, MD",14,W. Edward Walter,0.96,251,5354,732,https://fortunedotcom.files.wordpress.com/2015/05/host-hotels.jpg?quality=80&w=462&h=260&crop=1,http://www.hosthotels.com,MD
+486,Harman International Industries,HAR,"Electronics, Electrical Equip.",Industrials,"Stamford, CT",1,Dinesh C. Paliwal,3.36,14202,5349,235,https://fortunedotcom.files.wordpress.com/2015/05/harman-intl-industries.jpg?quality=80&w=462&h=260&crop=1,http://www.harman.com,CT
+487,Amphenol,APH,Network and Other Communications Equipment,Technology,"Wallingford, CT",1,R. Adam Norwitt,2.21,50700,5346,709,https://fortunedotcom.files.wordpress.com/2015/06/500s_iso.jpg?quality=80&w=840&h=485&crop=1,http://www.amphenol.com,CT
+488,Realogy Holdings,RLGY,Real estate,Financials,"Madison, NJ",5,Richard A. Smith,0.97,10700,5328,143,https://fortunedotcom.files.wordpress.com/2015/05/realogy-holdings.jpg?quality=80&w=462&h=260&crop=1,http://www.realogy.com,NJ
+489,Essendant,USTR,Wholesalers: Electronics and Office Equipment,Wholesalers,"Deerfield, IL",17,Robert B. Aiken Jr.,3.05,6500,5327,119,https://fortunedotcom.files.wordpress.com/2015/06/fda_2102.jpg?quality=80&w=840&h=485&crop=1,http://www.essendant.com,IL
+490,Hanesbrands,HBI,Apparel,Apparel,"Winston-Salem, NC",1,Richard A. Noll,0.99,59500,5325,405,https://fortunedotcom.files.wordpress.com/2015/05/hanes-brands.jpg?quality=80&w=462&h=260&crop=1,http://www.hanes.com,NC
+491,Kindred Healthcare,KND,Health Care: Medical Facilities,Health Care,"Louisville, KY",12,Benjamin A. Breier,-1.36,50100,5325,-80,https://fortunedotcom.files.wordpress.com/2015/05/kindred-healthcare.png?w=462&h=260&crop=1,http://www.kindredhealthcare.com,KY
+492,ARRIS Group,ARRS,Network and Other Communications Equipment,Technology,"Suwanee, GA",1,Robert J. Stanzione,2.21,6660,5323,327,https://fortunedotcom.files.wordpress.com/2015/05/arris.jpg?quality=80&w=462&h=260&crop=1,http://www.arris.com,GA
+493,Insight Enterprises,NSIT,Wholesalers: Electronics and Office Equipment,Wholesalers,"Tempe, AZ",7,Kenneth T. Lamneck,1.83,5406,5316,76,https://fortunedotcom.files.wordpress.com/2015/05/insight-enterprises.jpg?quality=80&w=462&h=260&crop=1,http://www.insight.com,AZ
+494,Alliance Data Systems,ADS,Financial Data Services,Business Services,"Plano, TX",1,Edward J. Heffernan,7.87,15000,5303,506,https://fortunedotcom.files.wordpress.com/2015/06/westerville2015-779.jpeg?quality=80&w=462&h=260&crop=1,http://www.alliancedata.com,TX
+495,LifePoint Health,LPNT,Health Care: Medical Facilities,Health Care,"Brentwood, TN",1,William F. Carpenter III,2.69,38000,5301,126,https://fortunedotcom.files.wordpress.com/2015/05/lifepoint-hospitals.jpg?quality=80&w=462&h=260&crop=1,http://www.lifepointhealth.net,TN
+496,Pioneer Natural Resources,PXD,"Mining, Crude-Oil Production",Energy,"Irving, TX",1,Scott D. Sheffield,6.38,4075,5293,930,https://fortunedotcom.files.wordpress.com/2015/05/pioneer-natural-resources.jpg?quality=80&w=462&h=260&crop=1,http://www.pxd.com,TX
+497,Wyndham Worldwide,WYN,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Parsippany, NJ",2,Stephen P. Holmes,4.18,34400,5281,529,https://fortunedotcom.files.wordpress.com/2015/05/wyndham-worldwide.jpg?quality=80&w=462&h=260&crop=1,http://www.wyndhamworldwide.com,NJ
+498,Owens Corning,OC,"Building Materials, Glass",Materials,"Toledo, OH",21,Michael H. Thaman,1.91,14000,5276,226,https://fortunedotcom.files.wordpress.com/2015/05/owens-corning.jpg?quality=80&w=462&h=260&crop=1,http://www.owenscorning.com,OH
+499,Alleghany,Y,Insurance: Property and Casualty (Stock),Financials,"New York, NY",2,Weston M. Hicks,41.4,2067,5232,679,,http://www.alleghany.com,NY
+500,McGraw Hill Financial,MHFI,Financial Data Services,Business Services,"New York, NY",21,Douglas L. Peterson,-0.42,17000,5190,-115,https://fortunedotcom.files.wordpress.com/2015/06/500-mcgraw2.jpg?quality=80&w=462&h=260&crop=1,http://www.mhfi.com,NY
+501,Big Lots,BIG,Specialty Retailers: Other,Retailing,"Columbus, OH",-,David J. Campisi,2.06,24200,5177,114,,http://www.biglots.com,OH
+502,Northern Tier Energy,NTI,Petroleum Refining,Energy,"Tempe, AZ",-,David L. Lamp,2.61,2950,5160,242,,http://www.ntenergy.com,AZ
+503,Hexion,,Chemicals,Chemicals,"Columbus, OH",-,Craig O. Morrison,-,5200,5137,-148,,http://www.hexion.com,OH
+504,Markel,MKL,Insurance: Property and Casualty (Stock),Financials,"Glen Allen, VA",-,"Thomas S. Gayner and Richard R. Whitt, II",22.27,8600,5134,321,,http://www.markelcorp.com,VA
+505,Noble Energy,NBL,"Mining, Crude-Oil Production",Energy,"Houston, TX",-,David L. Stover,3.27,2735,5101,1214,,http://www.nobleenergyinc.com,TX
+506,Leidos Holdings,LDOS,Information Technology Services,Technology,"Reston, VA",-,Roger A. Krone,-4.36,19000,5092,-323,,http://www.leidos.com,VA
+507,Rockwell Collins,COL,Aerospace and Defense,Aerospace & Defense,"Cedar Rapids, IA",-,Robert K. Ortberg,4.42,20000,5073,604,,http://www.rockwellcollins.com,IA
+508,Airgas,ARG,Wholesalers: Diversified,Wholesalers,"Radnor, PA",-,Michael L. Molinini,4.68,16000,5073,351,,http://www.airgas.com,PA
+509,Sprague Resources,SRLP,Wholesalers: Diversified,Wholesalers,"Portsmouth, NH",-,David C. Glendon,5.84,580,5070,123,,http://www.spragueenergy.com,NH
+510,YRC Worldwide,YRCW,"Trucking, Truck Leasing",Transportation,"Overland Park, KS",-,James L. Welch,-3,33000,5069,-68,,http://www.yrcw.com,KS
+511,Hanover Insurance Group,THG,Insurance: Property and Casualty (Stock),Financials,"Worcester, MA",-,Frederick H. Eppinger,6.28,5100,5068,282,,http://www.hanover.com,MA
+512,Fiserv,FISV,Financial Data Services,Business Services,"Brookfield, WI",-,Jeffery W. Yabuki,2.98,21000,5066,754,,http://www.fiserv.com,WI
+513,Lorillard,LO,Tobacco,"Food, Beverages & Tobacco","Greensboro, NC",-,Murray S. Kessler,3.28,2900,5052,1187,,http://www.reynoldsamerican.com,NC
+514,American Tire Distributors Holdings,,Wholesalers: Diversified,Wholesalers,"Huntersville, NC",-,Stuart Schuette,-,4700,5038,-95,,http://www.atd-us.com,NC
+515,ABM Industries,ABM,Diversified Outsourcing Services,Business Services,"New York, NY",-,Scott Salmirs,1.32,118000,5033,76,,http://www.abm.com,NY
+516,Sonoco Products,SON,"Packaging, Containers",Materials,"Hartsville, SC",-,M. Jack Sanders,2.32,20800,5015,239,,http://www.sonoco.com,SC
+517,Harris,HRS,Network and Other Communications Equipment,Technology,"Melbourne, FL",-,William M. Brown,4.95,14000,5012,535,,http://www.harris.com,FL
+518,Telephone & Data Systems,TDS,Telecommunications,Telecommunications,"Chicago, IL",-,LeRoy T. Carlson Jr.,-1.26,10600,5009,-136,,http://www.tdsinc.com,IL
+519,WEC Energy Group,WEC,Utilities: Gas and Electric,Energy,"Milwaukee, WI",-,Gale E. Klappa,2.59,4248,4997,588,,http://www.wecenergygroup.com,WI
+520,Linn Energy,LINE,"Mining, Crude-Oil Production",Energy,"Houston, TX",-,Mark E. Ellis,-1.4,1800,4983,-452,,http://www.linnenergy.com,TX
+521,Raymond James Financial,RJF,Securities,Financials,"St. Petersburg, FL",-,Paul C. Reilly,3.32,10300,4966,480,,http://www.raymondjames.com,FL
+522,Berry Plastics Group,BERY,"Packaging, Containers",Materials,"Evansville, IN",-,Jonathan D. Rich,0.51,16000,4958,62,,http://www.berryplastics.com,IN
+523,Regency Energy Partners,,"Oil and Gas Equipment, Services",Energy,"Dallas, TX",-,Michael J. Bradley,-0.57,1879,4951,-157,,http://www.regencygasservices.com,TX
+523,SCANA,SCG,Utilities: Gas and Electric,Energy,"Cayce, SC",-,Kevin B. Marsh,3.79,5886,4951,538,,http://www.scana.com,SC
+525,Cincinnati Financial,CINF,Insurance: Property and Casualty (Stock),Financials,"Fairfield, OH",-,Steven J. Johnston,3.18,4305,4945,525,,http://www.cinfin.com,OH
+526,Atmos Energy,ATO,Utilities: Gas and Electric,Energy,"Dallas, TX",-,Kim R. Cocklin,2.96,4761,4941,290,,http://www.atmosenergy.com,TX
+527,Pepco Holdings,POM,Utilities: Gas and Electric,Energy,"Washington, DC",-,Joseph M. Rigby,0.96,5125,4878,242,,http://www.pepcoholdings.com,DC
+528,Flowserve,FLS,Industrial Machinery,Industrials,"Irving, TX",-,Mark A. Blinn,3.76,18000,4878,519,,http://www.flowserve.com,TX
+529,Simon Property Group,SPG,Real estate,Financials,"Indianapolis, IN",-,David Simon,4.52,4325,4871,1409,,http://www.simon.com,IN
+530,Constellation Brands,STZ,Beverages,"Food, Beverages & Tobacco","Victor, NY",-,Robert S. Sands,-,6300,4868,1943,,http://www.cbrands.com,NY
+531,Quad/Graphics,QUAD,"Publishing, Printing",Media,"Sussex, WI",-,J. Joel Quadracci,0.38,24100,4862,19,,http://www.qg.com,WI
+532,Burlington Stores,BURL,Specialty Retailers: Apparel,Retailing,"Burlington, NJ",-,Thomas A. Kingsbury,0.87,34000,4850,66,,http://www.burlingtonstores.com,NJ
+533,Neiman Marcus Group,,Specialty Retailers: Apparel,Retailing,"Dallas, TX",-,Karen W. Katz,-,16500,4839,-147,,http://www.neimanmarcusgroup.com,TX
+534,Bemis,BMS,"Packaging, Containers",Materials,"Neenah, WI",-,William F. Austen,1.89,16944,4824,191,,http://www.bemis.com,WI
+535,Coach,COH,Apparel,Apparel,"New York, NY",-,Victor Luis,2.79,13700,4806,781,,http://www.coach.com,NY
+536,Continental Resources,CLR,"Mining, Crude-Oil Production",Energy,"Oklahoma City, OK",-,Harold G. Hamm,2.64,1188,4802,977,,http://www.clr.com,OK
+537,Ascena Retail Group,ASNA,Specialty Retailers: Apparel,Retailing,"Mahwah, NJ",-,David R. Jaffe,0.81,31000,4791,133,,http://www.ascenaretail.com,NJ
+538,Zoetis,ZTS,Pharmaceuticals,Health Care,"Florham Park, NJ",-,-,1.16,10000,4785,583,,http://www.zoetis.com,NJ
+539,Orbital ATK,OA,Aerospace and Defense,Aerospace & Defense,"Dulles, VA",-,David W. Thompson,10.42,16000,4775,341,,http://www.orbitalatk.com,VA
+540,Frontier Communications,FTR,Telecommunications,Telecommunications,"Stamford, CT",-,Daniel J. McCarthy,0.13,17400,4773,133,,http://www.frontier.com,CT
+541,Levi Strauss,,Apparel,Apparel,"San Francisco, CA",-,Charles V. Bergh,-,15000,4754,106,,http://www.levistrauss.com,CA
+542,SPX,SPXC,Industrial Machinery,Industrials,"Charlotte, NC",-,Gene J. Lowe,9.25,14000,4749,398,,http://www.spx.com,NC
+543,CF Industries Holdings,CF,Chemicals,Chemicals,"Deerfield, IL",-,W. Anthony Will,27.08,2236,4743,1390,,http://www.cfindustries.com,IL
+544,Michaels Cos.,MIK,Specialty Retailers: Other,Retailing,"Irving, TX",-,Carl S. Rubin,1.05,31500,4738,217,,http://www.michaels.com,TX
+545,M&T Bank Corp.,MTB,Commercial Banks,Financials,"Buffalo, NY",-,Robert G. Wilmers,7.42,15196,4736,1066,,http://www.mtb.com,NY
+546,Rush Enterprises,RUSHB,"Automotive Retailing, Services",Retailing,"New Braunfels, TX",-,W. M. Rush,1.96,6297,4727,80,,http://www.rushenterprises.com,TX
+547,Aleris,,Metals,Materials,"Cleveland, OH",-,Sean M. Stack,-,7729,4716,87,,http://www.aleris.com,OH
+548,Nexeo Solutions Holdings,,Wholesalers: Diversified,Wholesalers,"The Woodlands, TX",-,David A. Bradley,-,2600,4710,5,,http://www.nexeosolutions.com,TX
+549,Keurig Green Mountain,GMCR,Beverages,"Food, Beverages & Tobacco","Waterbury, VT",-,Brian P. Kelley,3.74,6600,4708,597,,http://www.keurig.com,VT
+550,Superior Energy Services,SPN,"Oil and Gas Equipment, Services",Energy,"Houston, TX",-,David D. Dunlap,1.65,14300,4702,258,,http://www.superiorenergy.com,TX
+551,Williams-Sonoma,WSM,Specialty Retailers: Other,Retailing,"San Francisco, CA",-,Laura J. Alber,3.24,17750,4699,309,,http://www.williams-sonomainc.com,CA
+552,Robert Half International,RHI,Temporary Help,Business Services,"Menlo Park, CA",-,Harold M. Messmer Jr.,2.26,14000,4695,306,,http://www.roberthalf.com,CA
+553,Nvidia,NVDA,Semiconductors and Other Electronic Components,Technology,"Santa Clara, CA",-,Jen-Hsun Huang,1.12,9228,4682,631,,http://www.nvidia.com,CA
+554,First American Financial,FAF,Insurance: Property and Casualty (Stock),Financials,"Santa Ana, CA",-,Dennis J. Gilmore,2.15,17103,4678,234,,http://www.firstam.com,CA
+555,Zimmer Biomet Holdings,ZBH,Medical Products and Equipment,Health Care,"Warsaw, IN",-,David C. Dvorak,4.19,10000,4673,720,,http://www.zimmerbiomet.com,IN
+556,MDU Resources Group,MDU,Energy,Energy,"Bismarck, ND",-,David L. Goodin,1.55,8451,4671,298,,http://www.mdu.com,ND
+557,Juniper Networks,JNPR,Network and Other Communications Equipment,Technology,"Sunnyvale, CA",-,Rami Rahim,-0.73,8806,4627,-334,,http://www.juniper.net,CA
+558,Arthur J. Gallagher,AJG,Diversified Financials,Financials,"Itasca, IL",-,J. Patrick Gallagher Jr.,1.97,20240,4627,303,,http://www.ajg.com,IL
+559,Colfax,CFX,Industrial Machinery,Industrials,"Annapolis Junction, MD",-,Matthew L. Trerotola,3.02,18351,4625,392,,http://www.colfaxcorp.com,MD
+560,Cliffs Natural Resources,CLF,"Mining, Crude-Oil Production",Energy,"Cleveland, OH",-,Lourenco Goncalves,-47.52,5386,4624,-7224,,http://www.cliffsnaturalresources.com,OH
+561,Yahoo,YHOO,Internet Services and Retailing,Technology,"Sunnyvale, CA",-,Marissa A. Mayer,7.45,12500,4618,7522,,http://www.yahoo.com,CA
+562,MasTec,MTZ,"Engineering, Construction",Engineering & Construction,"Coral Gables, FL",-,Jose R. Mas,1.34,15550,4615,116,,http://www.mastec.com,FL
+563,Lam Research,LRCX,Semiconductors and Other Electronic Components,Technology,"Fremont, CA",-,Martin B. Anstice,3.62,6500,4607,632,,http://www.lamresearch.com,CA
+564,Axiall,AXLL,Chemicals,Chemicals,"Atlanta, GA",-,Timothy Mann Jr.,0.65,6025,4569,46,,http://www.axiall.com,GA
+565,Intercontinental Exchange,ICE,Securities,Financials,"Atlanta, GA",-,Jeffrey C. Sprecher,8.55,2902,4568,981,,http://www.theice.com,GA
+566,Cintas,CTAS,Diversified Outsourcing Services,Business Services,"Cincinnati, OH",-,Scott D. Farmer,3.05,33000,4552,374,,http://www.cintas.com,OH
+567,Coty,COTY,Household and Personal Products,Household Products,"New York, NY",-,Lambertus J.H. Becht,-0.26,9000,4552,-97,,http://www.coty.com,NY
+568,CA,CA,Computer Software,Technology,"Islandia, NY",-,Michael P. Gregoire,2.02,12700,4547,914,,http://www.ca.com,NY
+569,Andersons,ANDE,Food Production,"Food, Beverages & Tobacco","Maumee, OH",-,Patrick E. Bowe,3.84,2780,4540,110,,http://www.andersonsinc.com,OH
+570,Valspar,VAL,Chemicals,Chemicals,"Minneapolis, MN",-,Gary E. Hendrickson,4.01,10513,4522,345,,http://www.valsparglobal.com,MN
+571,Northern Trust,NTRS,Commercial Banks,Financials,"Chicago, IL",-,Frederick H. Waddell,3.32,15400,4513,812,,http://www.northerntrust.com,IL
+572,Intuit,INTU,Computer Software,Technology,"Mountain View, CA",-,Brad D. Smith,3.12,8000,4507,907,,http://www.intuit.com,CA
+573,Tutor Perini,TPC,"Engineering, Construction",Engineering & Construction,"Sylmar, CA",-,Ronald N. Tutor,2.2,10939,4492,108,,http://www.tutorperini.com,CA
+574,Polaris Industries,PII,Transportation Equipment,Transportation,"Medina, MN",-,Scott W. Wine,6.65,7000,4480,454,,http://www.polaris.com,MN
+575,Hospira,HSP,Pharmaceuticals,Health Care,"Lake Forest, IL",-,F. Michael Ball,1.95,19000,4464,333,,http://www.hospira.com,IL
+576,FM Global,,Insurance: Property and Casualty (Stock),Financials,"Johnston, RI",-,Thomas A. Lawson,-,5431,4454,956,,http://www.fmglobal.com,RI
+577,NVR,NVR,Homebuilders,Engineering & Construction,"Reston, VA",-,Paul C. Saville,63.5,3942,4453,282,,http://www.nvrinc.com,VA
+578,Liberty Media,LMCA,Entertainment,Media,"Englewood, CO",-,Gregory B. Maffei,0.52,3690,4450,178,,http://www.libertymedia.com,CO
+579,Edgewell Personal Care,EPC,Household and Personal Products,Household Products,"St. Louis, MO",-,David P. Hatfield,5.69,12500,4448,356,,http://www.edgewell.com,MO
+580,Bloomin’ Brands,BLMN,Food Services,"Hotels, Resturants & Leisure","Tampa, FL",-,Elizabeth A. Smith,0.71,-,4443,91,,http://www.bloominbrands.com,FL
+581,Avaya,,Network and Other Communications Equipment,Technology,"Santa Clara, CA",-,Kevin J. Kennedy,-,13067,4424,-231,,http://www.avaya.com,CA
+582,Westlake Chemical,WLK,Chemicals,Chemicals,"Houston, TX",-,Albert Chao,5.07,3550,4415,679,,http://www.westlake.com,TX
+583,Hyatt Hotels,H,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Chicago, IL",-,Mark S. Hoplamazian,2.23,45000,4415,344,,http://www.hyatt.com,IL
+584,Mead Johnson Nutrition,MJN,Food Consumer Products,"Food, Beverages & Tobacco","Glenview, IL",-,Peter Kasper Jakobsen,3.54,7700,4409,720,,http://www.meadjohnson.com,IL
+585,Activision Blizzard,ATVI,Computer Software,Technology,"Santa Monica, CA",-,Robert A. Kotick,1.13,6800,4408,835,,http://www.activisionblizzard.com,CA
+586,Protective Life,,"Insurance: Life, Health (stock)",Financials,"Birmingham, AL",-,John D. Johns,4.73,2449,4404,385,,http://www.protective.com,AL
+587,Envision Healthcare Holdings,EVHC,Health Care: Pharmacy and Other Services,Health Care,"Greenwood Village, CO",-,William A. Sanger,0.66,15966,4398,126,,http://www.evhc.net,CO
+588,Fortune Brands Home & Security,FBHS,"Home Equipment, Furnishings",Household Products,"Deerfield, IL",-,Christopher J. Klein,0.95,18000,4383,158,,http://www.fbhs.com,IL
+589,RPM International,RPM,Chemicals,Chemicals,"Medina, OH",-,Frank C. Sullivan,2.18,10848,4376,292,,http://www.rpminc.com,OH
+590,VWR,VWR,Wholesalers: Diversified,Wholesalers,"Radnor, PA",-,Manuel A.H. Brocke-Benz,2.49,8800,4375,153,,http://www.vwr.com,PA
+591,LPL Financial Holdings,LPLA,Securities,Financials,"Boston, MA",-,Mark S. Casady,1.75,3384,4374,178,,http://www.lpl.com,MA
+592,KeyCorp,KEY,Commercial Banks,Financials,"Cleveland, OH",-,Beth E. Mooney,0.99,13853,4339,900,,http://www.key.com,OH
+593,Swift Transportation,SWFT,"Trucking, Truck Leasing",Transportation,"Phoenix, AZ",-,Jerry C. Moyes,1.12,21187,4299,161,,http://www.swifttrans.com,AZ
+594,Alpha Natural Resources,ANR,"Mining, Crude-Oil Production",Energy,"Bristol, VA",-,Kevin S. Crutchfield,-3.95,8900,4287,-875,,http://www.alphanr.com,VA
+595,Hasbro,HAS,"Toys, Sporting Goods",Household Products,"Pawtucket, RI",-,Brian D. Goldner,3.2,5200,4277,416,,http://www.hasbro.com,RI
+596,Resolute Forest Products,RFP,Forest and Paper Products,Materials,"Catawba, SC",-,Richard Garneau,-2.93,7700,4258,-277,,http://www.resolutefp.com,SC
+597,Tiffany,TIF,Specialty Retailers: Other,Retailing,"New York, NY",-,Frederic P. Cumenal,3.73,12000,4250,484,,http://www.tiffany.com,NY
+598,McCormick,MKC,Food Consumer Products,"Food, Beverages & Tobacco","Sparks, MD",-,Alan D. Wilson,3.34,10400,4243,438,,http://www.mccormickcorporation.com,MD
+599,Graphic Packaging Holding,GPK,"Packaging, Containers",Materials,"Atlanta, GA",-,Michael P. Doss,0.27,11500,4241,90,,http://www.graphicpkg.com,GA
+600,Greif,GEF,"Packaging, Containers",Materials,"Delaware, OH",-,Peter G. Watson,-,13325,4239,92,,http://www.greif.com,OH
+601,Allegheny Technologies,ATI,Metals,Materials,"Pittsburgh, PA",-,Richard J. Harshman,-0.03,9700,4238,-3,,http://www.atimetals.com,PA
+602,Securian Financial Group,,"Insurance: Life, Health (stock)",Financials,"St. Paul, MN",-,Christopher M. Hilger,-,5000,4234,367,,http://www.securian.com,MN
+603,B/E Aerospace,BEAV,Aerospace and Defense,Aerospace & Defense,"Wellington, FL",-,Werner Lieberherr,1,9617,4210,104,,http://www.beaerospace.com,FL
+604,Exelis,,Aerospace and Defense,Aerospace & Defense,"McLean, VA",-,David F. Melcher,1.29,17000,4163,249,,http://www.exelisinc.com,VA
+605,Adobe Systems,ADBE,Computer Software,Technology,"San Jose, CA",-,Shantanu Narayen,0.53,12499,4147,268,,http://www.adobe.com,CA
+606,Molson Coors Brewing,TAP,Beverages,"Food, Beverages & Tobacco","Denver, CO",-,Mark R. Hunter,2.76,17400,4146,514,,http://www.molsoncoors.com,CO
+607,Roundy’s,RNDY,Food and Drug Stores,Food & Drug Stores,"Milwaukee, WI",-,Robert A. Mariano,-6.49,14783,4146,-310,,http://www.roundys.com,WI
+608,CNO Financial Group,CNO,"Insurance: Life, Health (stock)",Financials,"Carmel, IN",-,Edward J. Bonach,0.24,4200,4145,51,,http://www.cnoinc.com,IN
+609,Adams Resources & Energy,AE,Energy,Energy,"Houston, TX",-,Thomas S. Smith,1.55,870,4133,7,,http://www.adamsresources.com,TX
+610,Belk,,General Merchandisers,Retailing,"Charlotte, NC",-,Thomas M. Belk Jr.,3.65,24700,4110,146,,http://www.belk.com,NC
+611,Chipotle Mexican Grill,CMG,Food Services,"Hotels, Resturants & Leisure","Denver, CO",-,M. Steven Ells,14.13,53090,4108,445,,http://www.chipotle.com,CO
+612,American Tower,AMT,Telecommunications,Telecommunications,"Boston, MA",-,James D. Taiclet Jr.,2,2974,4100,825,,http://www.americantower.com,MA
+613,FMC,FMC,Chemicals,Chemicals,"Philadelphia, PA",-,Pierre R. Brondeau,2.29,6000,4093,308,,http://www.fmc.com,PA
+614,Hillshire Brands,,Food Consumer Products,"Food, Beverages & Tobacco","Chicago, IL",-,Donnie Smith,1.72,9000,4085,213,,http://www.tysonfoods.com,IL
+615,AmTrust Financial Services,AFSI,Insurance: Property and Casualty (Stock),Financials,"New York, NY",-,Barry D. Zyskind,5.45,5100,4084,447,,http://www.amtrustgroup.com,NY
+616,Brunswick,BC,Transportation Equipment,Transportation,"Lake Forest, IL",-,Dustan E. McCoy,2.58,12165,4075,246,,http://www.brunswick.com,IL
+617,Patterson,PDCO,Wholesalers: Health Care,Wholesalers,"St. Paul, MN",-,Scott P. Anderson,1.97,7000,4064,201,,http://www.pattersoncompanies.com,MN
+618,Southwestern Energy,SWN,"Mining, Crude-Oil Production",Energy,"Spring, TX",-,Steven L. Mueller,2.62,2781,4038,924,,http://www.swn.com,TX
+619,Ametek,AME,"Scientific,Photographic and Control Equipment",Technology,"Berwyn, PA",-,Frank S. Hermance,2.37,15400,4022,585,,http://www.ametek.com,PA
+620,T. Rowe Price,TROW,Securities,Financials,"Baltimore, MD",-,William J. Stromberg,4.55,5870,3982,1230,,http://www.troweprice.com,MD
+621,Torchmark,TMK,"Insurance: Life, Health (stock)",Financials,"McKinney, TX",-,Gary L. Coleman,4.09,2980,3964,543,,http://www.torchmarkcorp.com,TX
+622,Darling Ingredients,DAR,Food Production,"Food, Beverages & Tobacco","Irving, TX",-,Randall C. Stuewe,0.39,10000,3956,64,,http://www.darlingii.com,TX
+623,Leggett & Platt,LEG,"Home Equipment, Furnishings",Household Products,"Carthage, MO",-,Karl G. Glassman,0.68,19000,3950,98,,http://www.leggett.com,MO
+624,Watsco,WSO,Wholesalers: Diversified,Wholesalers,"Miami, FL",-,Albert H. Nahmad,4.32,4900,3945,151,,http://www.watsco.com,FL
+625,Crestwood Equity Partners,CEQP,Energy,Energy,"Houston, TX",-,Robert G Phillips,0.3,1374,3931,56,,http://www.crestwoodlp.com,TX
+626,Xylem,XYL,Industrial Machinery,Industrials,"Rye Brook, NY",-,Patrick K. Decker,1.83,12500,3916,337,,http://www.xyleminc.com,NY
+627,Silgan Holdings,SLGN,"Packaging, Containers",Materials,"Stamford, CT",-,Anthony J. Allott,2.86,9200,3912,182,,http://www.silganholdings.com,CT
+628,Toll Brothers,TOL,Homebuilders,Engineering & Construction,"Horsham, PA",-,Douglas C. Yearley Jr.,1.84,3500,3912,340,,http://www.tollbrothers.com,PA
+629,Manitowoc,MTW,Construction and Farm Machinery,Industrials,"Manitowoc, WI",-,Kenneth W. Krueger,1.05,12300,3887,145,,http://www.manitowoc.com,WI
+630,Science Applications International,SAIC,Information Technology Services,Technology,"McLean, VA",-,Anthony J. Moraco,2.91,13273,3885,141,,http://www.saic.com,VA
+631,Carlyle Group,CG,Securities,Financials,"Washington, DC",-,William E. Conway Jr.,1.23,1650,3880,86,,http://www.carlyle.com,DC
+632,Timken,TKR,Industrial Machinery,Industrials,"North Canton, OH",-,Richard G. Kyle,1.87,16258,3862,171,,http://www.timken.com,OH
+633,Genesis Energy,GEL,Pipelines,Energy,"Houston, TX",-,Grant E. Sims,1.18,1200,3846,106,,http://www.genesisenergy.com,TX
+634,WPX Energy,WPX,"Mining, Crude-Oil Production",Energy,"Tulsa, OK",-,Richard E. Muncrief,0.8,1100,3845,164,,http://www.wpxenergy.com,OK
+635,CareFusion,,Medical Products and Equipment,Health Care,"San Diego, CA",-,Thomas Polen,1.96,16000,3842,417,,http://www.carefusion.com,CA
+636,Pitney Bowes,PBI,"Computers, Office Equipment",Technology,"Stamford, CT",-,Marc B. Lautenbach,1.64,15200,3841,334,,http://www.pb.com,CT
+637,Ingles Markets,IMKTA,Food and Drug Stores,Food & Drug Stores,"Black Mountain, NC",-,Robert P. Ingle II,-,15870,3836,51,,http://www.ingles-markets.com,NC
+638,PolyOne,POL,Chemicals,Chemicals,"Avon Lake, OH",-,Robert M. Patterson,0.85,6900,3836,79,,http://www.polyone.com,OH
+639,Brookdale Senior Living,BKD,Health Care: Medical Facilities,Health Care,"Brentwood, TN",-,T. Andrew Smith,-1.01,67250,3832,-149,,http://www.brookdale.com,TN
+640,CommScope Holding,COMM,Network and Other Communications Equipment,Technology,"Hickory, NC",-,Marvin S. Edwards Jr.,1.24,13000,3830,237,,http://www.commscope.com,NC
+641,Meritor,MTOR,Motor Vehicles and Parts,Motor Vehicles & Parts,"Troy, MI",-,Jeffrey A. Craig,2.51,9050,3795,249,,http://www.meritor.com,MI
+642,Joy Global,JOY,Construction and Farm Machinery,Industrials,"Milwaukee, WI",-,Edward L. Doheny II,3.28,15400,3778,331,,http://www.joyglobal.com,WI
+643,Unified Grocers,,Wholesalers: Food and Grocery,Wholesalers,"Commerce, CA",-,Robert M. Ling Jr.,-,2600,3771,-5,,http://www.unifiedgrocers.com,CA
+644,Triumph Group,TGI,Aerospace and Defense,Aerospace & Defense,"Berwyn, PA",-,Daniel J. Crowley,3.91,13828,3763,206,,http://www.triumphgroup.com,PA
+645,Magellan Health,MGLN,Health Care: Insurance and Managed Care,Health Care,"Scottsdale, AZ",-,Barry M. Smith,2.9,6600,3760,79,,http://www.magellanhealth.com,AZ
+646,Sally Beauty Holdings,SBH,Specialty Retailers: Other,Retailing,"Denton, TX",-,Christian A. Brickman,1.51,20155,3754,246,,http://www.sallybeautyholdings.com,TX
+647,Flowers Foods,FLO,Food Consumer Products,"Food, Beverages & Tobacco","Thomasville, GA",-,Allen L. Shiver,0.82,10380,3749,176,,http://www.flowersfoods.com,GA
+648,Abercrombie & Fitch,ANF,Specialty Retailers: Apparel,Retailing,"New Albany, OH",-,Arthur C. Martinez,0.71,36500,3744,52,,http://www.abercrombie.com,OH
+649,New Jersey Resources,NJR,Energy,Energy,"Wall, NJ",-,Laurence M. Downes,1.67,968,3738,142,,http://www.njresources.com,NJ
+650,Fastenal,FAST,Specialty Retailers: Other,Retailing,"Winona, MN",-,Daniel L. Florness,1.66,18417,3734,494,,http://www.fastenal.com,MN
+651,NII Holdings,NIHDQ,Telecommunications,Telecommunications,"Reston, VA",-,Steven M. Shindler,-11.36,9800,3727,-1958,,http://www.nii.com,VA
+652,Consol Energy,CNX,"Mining, Crude-Oil Production",Energy,"Canonsburg, PA",-,Nicholas J. DeIuliis,0.7,3834,3727,163,,http://www.consolenergy.com,PA
+653,USG,USG,"Building Materials, Glass",Materials,"Chicago, IL",-,James S. Metcalf,0.25,8900,3724,37,,http://www.usg.com,IL
+654,Brink’s,BCO,Diversified Outsourcing Services,Business Services,"Richmond, VA",-,Thomas C. Schievelbein,-1.71,64100,3722,-84,,http://www.brinks.com,VA
+655,Helmerich & Payne,HP,"Oil and Gas Equipment, Services",Energy,"Tulsa, OK",-,John W. Lindsay,6.46,11908,3720,709,,http://www.hpinc.com,OK
+656,Lexmark International,LXK,Computer Peripherals,Technology,"Lexington, KY",-,Paul A. Rooke,1.25,12700,3711,79,,http://www.lexmark.com,KY
+657,American Axle & Manufacturing,AXL,Motor Vehicles and Parts,Motor Vehicles & Parts,"Detroit, MI",-,David C. Dauch,1.85,12820,3696,143,,http://www.aam.com,MI
+658,Crown Castle International,CCI,Telecommunications,Telecommunications,"Houston, TX",-,W. Benjamin Moreland,1.04,2400,3690,391,,http://www.crowncastle.com,TX
+659,Targa Energy,,Pipelines,Energy,"Houston, TX",-,Joe Bob Perkins,-3.71,1152,3669,-192,,http://www.targaresources.com,TX
+660,Oceaneering International,OII,"Oil and Gas Equipment, Services",Energy,"Houston, TX",-,M. Kevin McEvoy,4,12400,3660,428,,http://www.oceaneering.com,TX
+661,Cabot,CBT,Chemicals,Chemicals,"Boston, MA",-,Patrick M. Prevost,3.03,4737,3652,199,,http://www.cabotcorp.com,MA
+662,CIT Group,CIT,Commercial Banks,Financials,"New York, NY",-,John A. Thain,5.96,3360,3652,1130,,http://www.cit.com,NY
+663,Cabela’s,CAB,Specialty Retailers: Other,Retailing,"Sidney, NE",-,Thomas L. Millner,2.81,19300,3648,202,,http://www.cabelas.com,NE
+664,Forest Laboratories,,Pharmaceuticals,Health Care,"New York, NY",-,Brenton L. Saunders,0.61,6200,3647,165,,http://www.actavis.com,NY
+665,DCP Midstream Partners,DPM,Pipelines,Energy,"Denver, CO",-,Wouter T. van Kempen,2.84,653,3642,423,,http://www.dcppartners.com,CO
+666,Ryerson Holding,RYI,Metals,Materials,"Chicago, IL",-,Edward J. Lehner,-1.01,3650,3622,-26,,http://www.ryerson.com,IL
+667,QEP Resources,QEP,"Mining, Crude-Oil Production",Energy,"Denver, CO",-,Charles B. Stanley,4.36,765,3617,784,,http://www.qepres.com,CO
+668,Thor Industries,THO,Motor Vehicles and Parts,Motor Vehicles & Parts,"Elkhart, IN",-,Robert W. Martin,3.35,9400,3609,179,,http://www.thorindustries.com,IN
+669,HSN,HSNI,Specialty Retailers: Other,Retailing,"St. Petersburg, FL",-,Mindy F. Grossman,3.23,6900,3588,173,,http://www.hsni.com,FL
+670,Graham Holdings,GHC,Education,Business Services,"Arlington, VA",-,Timothy J. O’Shaughnessy,195.03,14500,3582,1294,,http://www.ghco.com,VA
+671,Electronic Arts,EA,Computer Software,Technology,"Redwood City, CA",-,Andrew Wilson,0.03,8300,3575,8,,http://www.ea.com,CA
+672,Boise Cascade,BCC,Wholesalers: Diversified,Wholesalers,"Boise, ID",-,Thomas K. Corrick,2.03,5650,3574,80,,http://www.bc.com,ID
+673,Hub Group,HUBG,Transportation and Logistics,Transportation,"Oak Brook, IL",-,David P. Yeager,1.4,2568,3571,52,,http://www.hubgroup.com,IL
+674,CACI International,CACI,Information Technology Services,Technology,"Arlington, VA",-,Kenneth Asbury,5.38,15300,3565,135,,http://www.caci.com,VA
+675,Roper Technologies,ROP,"Scientific,Photographic and Control Equipment",Technology,"Sarasota, FL",-,Brian D. Jellison,6.4,10137,3550,646,,http://www.ropertech.com,FL
+676,Towers Watson,TW,Diversified Outsourcing Services,Business Services,"Arlington, VA",-,John J. Haley,5.06,14800,3546,359,,http://www.towerswatson.com,VA
+677,Smart & Final Stores,SFS,Food and Drug Stores,Food & Drug Stores,"Commerce, CA",-,David G. Hirz,0.52,9370,3534,33,,http://www.smartandfinal.com,CA
+678,Big Heart Pet Brands,,Food Consumer Products,"Food, Beverages & Tobacco","San Francisco, CA",-,David J. West,-,2325,3521,-130,,http://www.bigheartpet.com,CA
+679,Fossil Group,FOSL,Apparel,Apparel,"Richardson, TX",-,Kosta N. Kartsotis,7.1,15200,3510,377,,http://www.fossilgroup.com,TX
+680,Nasdaq OMX Group,NDAQ,Securities,Financials,"New York, NY",-,Robert Greifeld,2.39,3687,3500,414,,http://www.nasdaqomx.com,NY
+681,Country Financial,,Insurance: Property and Casualty (Mutual),Financials,"Bloomington, IL",-,Kurt F. Bock,-,3799,3498,250,,http://www.countryfinancial.com,IL
+682,Snap-on,SNA,Industrial Machinery,Industrials,"Kenosha, WI",-,Nicholas T. Pinchuk,7.14,11400,3493,422,,http://www.snapon.com,WI
+683,Pinnacle West Capital,PNW,Utilities: Gas and Electric,Energy,"Phoenix, AZ",-,Donald E. Brandt,3.58,6366,3492,398,,http://www.pinnaclewest.com,AZ
+684,EchoStar,SATS,Network and Other Communications Equipment,Technology,"Englewood, CO",-,Michael T. Dugan,1.78,4400,3446,153,,http://www.echostar.com,CO
+685,Systemax,SYX,Specialty Retailers: Other,Retailing,"Port Washington, NY",-,Richard Leeds,-1.01,5300,3443,-38,,http://www.systemax.com,NY
+686,WhiteWave Foods,WWAV,Food Consumer Products,"Food, Beverages & Tobacco","Denver, CO",-,Gregg L. Engles,0.79,4500,3437,140,,http://www.whitewave.com,CO
+687,CUNA Mutual Group,,"Insurance: Life, Health (stock)",Financials,"Madison, WI",-,Robert N. Trunzo,-,3800,3434,206,,http://www.cunamutual.com,WI
+688,Cooper Tire & Rubber,CTB,Motor Vehicles and Parts,Motor Vehicles & Parts,"Findlay, OH",-,Roy V. Armes,3.42,8881,3425,214,,http://www.coopertire.com,OH
+689,ADT,ADT,Diversified Outsourcing Services,Business Services,"Boca Raton, FL",-,Naren Gursahaney,1.66,17500,3408,304,,http://www.adt.com,FL
+690,Cerner,CERN,Health Care: Pharmacy and Other Services,Health Care,"North Kansas City, MO",-,Neal L. Patterson,1.5,15800,3403,525,,http://www.cerner.com,MO
+691,Clean Harbors,CLH,Waste Management,Business Services,"Norwell, MA",-,Alan S. McKim,-0.47,13000,3402,-28,,http://www.cleanharbors.com,MA
+692,First Solar,FSLR,Energy,Energy,"Tempe, AZ",-,James A. Hughes,3.91,6060,3392,397,,http://www.firstsolar.com,AZ
+693,Lennox International,LII,Industrial Machinery,Industrials,"Richardson, TX",-,Todd M. Bluedorn,4.23,9800,3367,206,,http://www.lennoxinternational.com,TX
+694,Enable Midstream Partners,ENBL,Pipelines,Energy,"Oklahoma City, OK",-,Peter B. Delaney,1.29,1800,3367,530,,http://www.enablemidstream.com,OK
+695,Hubbell,HUBB,"Electronics, Electrical Equip.",Industrials,"Shelton, CT",-,David G. Nord,5.48,15400,3359,325,,http://www.hubbell.com,CT
+696,Unisys,UIS,Information Technology Services,Technology,"Blue Bell, PA",-,Peter A. Altabef,0.89,23200,3356,47,,http://www.unisys.com,PA
+697,Alliant Energy,LNT,Utilities: Gas and Electric,Energy,"Madison, WI",-,Patricia L. Kampling,3.46,4212,3350,383,,http://www.alliantenergy.com,WI
+698,Welltower,HCN,Real estate,Financials,"Toledo, OH",-,Thomas J. DeRosa,1.45,428,3344,512,,http://www.welltower.com,OH
+699,Moody’s,MCO,Diversified Financials,Financials,"New York, NY",-,Raymond W. McDaniel Jr.,4.61,9900,3334,989,,http://www.moodys.com,NY
+700,C.R. Bard,BCR,Medical Products and Equipment,Health Care,"Murray Hill, NJ",-,Timothy M. Ring,3.76,13900,3324,295,,http://www.crbard.com,NJ
+701,Urban Outfitters,URBN,Specialty Retailers: Apparel,Retailing,"Philadelphia, PA",-,Richard A. Hayne,1.68,16440,3323,232,,http://www.urbanoutfittersinc.com,PA
+702,Church & Dwight,CHD,Household and Personal Products,Household Products,"Ewing, NJ",-,Matthew T. Farrell,3.01,4145,3298,414,,http://www.churchdwight.com,NJ
+703,American Eagle Outfitters,AEO,Specialty Retailers: Apparel,Retailing,"Pittsburgh, PA",-,Jay L. Schottenstein,0.42,22500,3283,80,,http://www.ae.com,PA
+704,Oaktree Capital Group,OAK,Securities,Financials,"Los Angeles, CA",-,Jay S. Wintrob,2.97,927,3272,126,,http://www.oaktreecapital.com,CA
+705,Regal Beloit,RBC,"Electronics, Electrical Equip.",Industrials,"Beloit, WI",-,Mark J. Gliebe,0.69,24100,3257,31,,http://www.regalbeloit.com,WI
+706,Men’s Wearhouse,MW,Specialty Retailers: Apparel,Retailing,"Houston, TX",-,Douglas S. Ewert,-0.01,22350,3253,-,,http://www.menswearhouse.com,TX
+707,Cooper-Standard Holdings,CPS,Motor Vehicles and Parts,Motor Vehicles & Parts,"Novi, MI",-,Jeffrey S. Edwards,2.39,27000,3244,43,,http://www.cooperstandard.com,MI
+708,W.R. Grace,GRA,Chemicals,Chemicals,"Columbia, MD",-,Alfred E. Festa,3.63,6500,3243,276,,http://www.grace.com,MD
+709,Ulta Salon Cosmetics & Fragrance,ULTA,Specialty Retailers: Other,Retailing,"Bolingbrook, IL",-,Mary N. Dillon,3.98,15250,3241,257,,http://www.ulta.com,IL
+710,Hawaiian Electric Industries,HE,Utilities: Gas and Electric,Energy,"Honolulu, HI",-,Constance H. Lau,1.64,3965,3240,168,,http://www.hei.com,HI
+711,SkyWest,SKYW,Airlines,Transportation,"St. George, UT",-,Russell A. Childs,-0.47,18500,3237,-24,,http://www.skywest.com,UT
+712,Green Plains,GPRE,Energy,Energy,"Omaha, NE",-,Todd A. Becker,3.96,840,3236,160,,http://www.gpreinc.com,NE
+713,LVB Acquisition,,Medical Products and Equipment,Health Care,"Warsaw, IN",-,Jeffrey R. Binder,-,9279,3223,76,,http://www.biomet.com,IN
+714,NBTY,,Pharmaceuticals,Health Care,"Ronkonkoma, NY",-,Steven A. Cahillane,-,13500,3206,-44,,http://www.nbty.com,NY
+715,Carlisle,CSL,"Building Materials, Glass",Materials,"Charlotte, NC",-,Christian Koch,3.82,11000,3204,251,,http://www.carlisle.com,NC
+716,United Refining,,Petroleum Refining,Energy,"Warren, PA",-,John A. Catsimatidis,-,3051,3201,71,,http://www.urc.com,PA
+717,Tesla Motors,TSLA,Motor Vehicles and Parts,Motor Vehicles & Parts,"Palo Alto, CA",-,Elon Musk,-2.36,10161,3198,-294,,http://www.teslamotors.com,CA
+718,Groupon,GRPN,Internet Services and Retailing,Technology,"Chicago, IL",-,Rich Williams,-0.11,11843,3192,-73,,http://www.groupon.com,IL
+719,Landstar System,LSTR,"Trucking, Truck Leasing",Transportation,"Jacksonville, FL",-,James B. Gattoni,3.07,1211,3185,139,,http://www.landstar.com,FL
+720,Patterson-UTI Energy,PTEN,"Oil and Gas Equipment, Services",Energy,"Houston, TX",-,William A. Hendricks Jr.,1.11,7900,3182,163,,http://www.patenergy.com,TX
+721,EP Energy,EPE,"Mining, Crude-Oil Production",Energy,"Houston, TX",-,Brent J. Smolik,3.02,748,3166,731,,http://www.epenergy.com,TX
+722,ON Semiconductor,ON,Semiconductors and Other Electronic Components,Technology,"Phoenix, AZ",-,Keith D. Jackson,0.43,24500,3162,190,,http://www.onsemi.com,AZ
+723,Rent-A-Center,RCII,Specialty Retailers: Other,Retailing,"Plano, TX",-,Robert D. Davis,1.81,22200,3158,96,,http://www.rentacenter.com,TX
+724,SunGard Data Systems,,Financial Data Services,Business Services,"Wayne, PA",-,Russell P. Fradin,-,13000,3147,-224,,http://www.sungard.com,PA
+725,Citrix Systems,CTXS,Network and Other Communications Equipment,Technology,"Fort Lauderdale, FL",-,Robert M. Calderoni,1.47,10081,3143,252,,http://www.citrix.com,FL
+726,Amkor Technology,AMKR,Semiconductors and Other Electronic Components,Technology,"Tempe, AZ",-,Stephen D. Kelley,0.55,21900,3129,130,,http://www.amkor.com,AZ
+727,TD Ameritrade Holding,AMTD,Securities,Financials,"Omaha, NE",-,Fredric J. Tomczyk,1.42,5771,3129,787,,http://www.amtd.com,NE
+728,Worthington Industries,WOR,Metals,Materials,"Columbus, OH",-,John P. McConnell,2.11,7000,3126,151,,http://www.worthingtonindustries.com,OH
+729,Valmont Industries,VMI,Construction and Farm Machinery,Industrials,"Omaha, NE",-,Mogens C. Bay,7.09,11321,3123,184,,http://www.valmont.com,NE
+730,Iron Mountain,IRM,Diversified Outsourcing Services,Business Services,"Boston, MA",-,William L. Meaney,1.66,20000,3118,326,,http://www.ironmountain.com,MA
+731,Puget Energy,,Utilities: Gas and Electric,Energy,"Bellevue, WA",-,Kimberly J. Harris,-,2700,3113,172,,http://www.pugetenergy.com,WA
+732,CME Group,CME,Securities,Financials,"Chicago, IL",-,Phupinder S. Gill,3.35,2680,3113,1127,,http://www.cmegroup.com,IL
+733,IAC/InterActiveCorp,IACI,Internet Services and Retailing,Technology,"New York, NY",-,Joseph Levin,4.68,5000,3110,415,,http://www.iac.com,NY
+734,Par Pacific Holdings,PARR,Petroleum Refining,Energy,"Houston, TX",-,William C. Pate,-1.44,577,3108,-47,,http://www.parpacific.com/,TX
+735,Taylor Morrison Home,TMHC,Homebuilders,Engineering & Construction,"Scottsdale, AZ",-,Sheryl D. Palmer,2.17,1498,3104,72,,http://www.taylormorrison.com,AZ
+736,Chiquita Brands International,,Food Production,"Food, Beverages & Tobacco","Charlotte, NC",-,Darcilo Santos,-1.33,20000,3090,-63,,http://www.chiquita.com,NC
+737,International Flavors & Fragrances,IFF,Chemicals,Chemicals,"New York, NY",-,Andreas Fibig,5.06,6211,3089,415,,http://www.iff.com,NY
+738,Whiting Petroleum,WLL,"Mining, Crude-Oil Production",Energy,"Denver, CO",-,James J. Volker,0.53,1282,3085,65,,http://www.whiting.com,CO
+739,Under Armour,UA,Apparel,Apparel,"Baltimore, MD",-,Kevin A. Plank,0.95,7500,3084,208,,http://www.uabiz.com,MD
+740,Ventas,VTR,Real estate,Financials,"Chicago, IL",-,Debra A. Cafaro,1.6,479,3081,476,,http://www.ventasreit.com,IL
+741,NuStar Energy,NS,Pipelines,Energy,"San Antonio, TX",-,Bradley C. Barron,2.1,1624,3079,211,,http://www.nustarenergy.com,TX
+742,Select Medical Holdings,SEM,Health Care: Medical Facilities,Health Care,"Mechanicsburg, PA",-,David S. Chernow,0.91,26400,3065,121,,http://www.selectmedicalholdings.com,PA
+743,Diebold,DBD,"Computers, Office Equipment",Technology,"North Canton, OH",-,Andreas W. Mattes,1.76,16000,3051,114,,http://www.diebold.com,OH
+744,American National Insurance,ANAT,"Insurance: Life, Health (stock)",Financials,"Galveston, TX",-,James E. Pozzi,9.18,3138,3051,247,,http://www.anico.com,TX
+745,Varian Medical Systems,VAR,Medical Products and Equipment,Health Care,"Palo Alto, CA",-,Dow R. Wilson,3.83,6800,3050,404,,http://www.varian.com,CA
+746,Apollo Education Group,APOL,Education,Business Services,"Phoenix, AZ",-,Gregory W. Cappelli,1.86,26000,3047,209,,http://www.apollogrp.edu,AZ
+747,Westinghouse Air Brake Technologies,WAB,Industrial Machinery,Industrials,"Wilmerding, PA",-,Raymond T. Betler,3.62,12600,3045,352,,http://www.wabtec.com,PA
+748,SunPower,SPWR,Energy,Energy,"San Jose, CA",-,Thomas H. Werner,1.55,7188,3027,246,,http://www.sunpower.com,CA
+749,Warner Music Group,,Entertainment,Media,"New York, NY",-,Stephen F. Cooper,-,4180,3027,-308,,http://www.wmg.com,NY
+750,American Water Works,AWK,zMiscellaneous,Energy,"Voorhees, NJ",-,Susan N. Story,2.35,6400,3025,423,,http://www.amwater.com,NJ
+751,H&R Block,HRB,Diversified Financials,Financials,"Kansas City, MO",-,William C. Cobb,1.72,45100,3024,475,,http://www.hrblock.com,MO
+752,Mercury General,MCY,Insurance: Property and Casualty (Stock),Financials,"Los Angeles, CA",-,Gabriel Tirador,3.23,4400,3012,178,,http://www.mercuryinsurance.com,CA
+753,TECO Energy,TE,Utilities: Gas and Electric,Energy,"Tampa, FL",-,John B. Ramil,0.58,4400,3010,130,,http://www.tecoenergy.com,FL
+754,Service Corp. International,SCI,zMiscellaneous,Business Services,"Houston, TX",-,Thomas L. Ryan,0.81,19552,2996,173,,http://www.sci-corp.com,TX
+755,Vulcan Materials,VMC,"Building Materials, Glass",Materials,"Birmingham, AL",-,J. Thomas Hill,1.54,6941,2994,205,,http://www.vulcanmaterials.com,AL
+756,Brown-Forman,BFB,Beverages,"Food, Beverages & Tobacco","Louisville, KY",-,Paul C. Varga,3.06,4100,2991,659,,http://www.brown-forman.com,KY
+757,Regal Entertainment Group,RGC,Entertainment,Media,"Knoxville, TN",-,Amy E. Miles,0.68,23168,2990,106,,http://www.regmovies.com,TN
+758,Tempur Sealy International,TPX,"Home Equipment, Furnishings",Household Products,"Lexington, KY",-,Scott L. Thompson,1.75,7100,2990,109,,http://www.tempursealy.com,KY
+759,Steelcase,SCS,"Home Equipment, Furnishings",Household Products,"Grand Rapids, MI",-,James P. Keane,0.69,11500,2989,88,,http://www.steelcase.com,MI
+760,MWI Veterinary Supply,,Wholesalers: Diversified,Wholesalers,"Boise, ID",-,James F. Cleary Jr.,5.65,2121,2981,72,,http://www.mwivet.com,ID
+761,RS Legacy,RSHCQ,Specialty Retailers: Other,Retailing,"Fort Worth, TX",-,Ronald Garriques,-5.82,27500,2977,-592,,http://www.radioshackcorporation.com,TX
+762,Sprouts Farmers Market,SFM,Food and Drug Stores,Food & Drug Stores,"Phoenix, AZ",-,Amin N. Maredia,0.7,17000,2967,108,,http://www.sprouts.com,AZ
+763,Sabre,SABR,Internet Services and Retailing,Technology,"Southlake, TX",-,Thomas Klein,0.23,8000,2960,69,,http://www.sabre.com,TX
+764,Martin Marietta Materials,MLM,"Building Materials, Glass",Materials,"Raleigh, NC",-,C. Howard Nye,2.71,7193,2958,156,,http://www.martinmarietta.com,NC
+765,Huntington Bancshares,HBAN,Commercial Banks,Financials,"Columbus, OH",-,Stephen D. Steinour,0.72,11873,2956,632,,http://www.huntington.com,OH
+766,Alere,ALR,Medical Products and Equipment,Health Care,"Waltham, MA",-,Namal Nawana,-0.14,9800,2946,10,,http://www.alere.com,MA
+767,TreeHouse Foods,THS,Food Consumer Products,"Food, Beverages & Tobacco","Oak Brook, IL",-,Sam K. Reed,2.23,6181,2946,90,,http://www.treehousefoods.com,IL
+768,Arch Coal,ACI,"Mining, Crude-Oil Production",Energy,"St. Louis, MO",-,John W. Eaves,-2.63,5000,2937,-558,,http://www.archcoal.com,MO
+769,KLA-Tencor,KLAC,Semiconductors and Other Electronic Components,Technology,"Milpitas, CA",-,Richard P. Wallace,3.47,6060,2929,583,,http://www.kla-tencor.com,CA
+770,Crane,CR,Industrial Machinery,Industrials,"Stamford, CT",-,Max H. Mitchell,3.23,11300,2925,193,,http://www.craneco.com,CT
+771,Iasis Healthcare,,Health Care: Medical Facilities,Health Care,"Franklin, TN",-,W. Carl Whitmer,-,11650,2923,-2,,http://www.iasishealthcare.com,TN
+772,BWX Technologies,BWXT,Industrial Machinery,Industrials,"Charlotte, NC",-,Peyton S. Baker,0.27,11000,2923,29,,http://www.bwxt.com,NC
+773,Dentsply International,XRAY,Medical Products and Equipment,Health Care,"York, PA",-,Bret W. Wise,2.24,11600,2923,323,,http://www.dentsply.com,PA
+774,Tribune Media,TRCO,Entertainment,Media,"Chicago, IL",-,Peter M. Liguori,4.75,7600,2920,477,,http://www.tribunemedia.com,IL
+775,ScanSource,SCSC,Wholesalers: Electronics and Office Equipment,Wholesalers,"Greenville, SC",-,Michael L. Baur,2.86,1500,2914,82,,http://www.scansource.com,SC
+776,Univision Communications,,Entertainment,Media,"New York, NY",-,Randel A. Falco,-,4300,2911,11,,http://corporate.univision.com,NY
+777,Brinker International,EAT,Food Services,"Hotels, Resturants & Leisure","Dallas, TX",-,Wyman T. Roberts,2.26,55586,2906,154,,http://www.brinker.com,TX
+778,Archrock,AROC,"Oil and Gas Equipment, Services",Energy,"Houston, TX",-,D. Bradley Childers,1.4,10000,2900,98,,http://www.archrock.com/,TX
+779,Carter’s,CRI,Apparel,Apparel,"Atlanta, GA",-,Michael D. Casey,3.62,11565,2894,195,,http://www.carters.com,GA
+780,Analog Devices,ADI,Semiconductors and Other Electronic Components,Technology,"Norwood, MA",-,Vincent T. Roche,1.98,9600,2865,629,,http://www.analog.com,MA
+781,Genesco,GCO,Specialty Retailers: Apparel,Retailing,"Nashville, TN",-,Robert J. Dennis,4.12,18663,2860,98,,http://www.genesco.com,TN
+782,Scotts Miracle-Gro,SMG,Chemicals,Chemicals,"Marysville, OH",-,James Hagedorn,2.65,6700,2859,167,,http://www.scotts.com,OH
+783,Convergys,CVG,Diversified Outsourcing Services,Business Services,"Cincinnati, OH",-,Andrea J. Ayers,1.13,125000,2856,120,,http://www.convergys.com,OH
+784,Exide Technologies,,Motor Vehicles and Parts,Motor Vehicles & Parts,"Milton, GA",-,Robert M. Caruso,-2.8,8986,2855,-218,,http://www.exide.com,GA
+785,WABCO Holdings,WBC,Motor Vehicles and Parts,Motor Vehicles & Parts,"Rochester Hills, MI",-,Jacques Esculier,4.81,11409,2851,292,,http://www.wabco-auto.com,MI
+786,Kennametal,KMT,Industrial Machinery,Industrials,"Latrobe, PA",-,Donald A. Nolan,1.99,13521,2837,158,,http://www.kennametal.com,PA
+787,Amerco,UHAL,"Trucking, Truck Leasing",Transportation,"Reno, NV",-,Edward J. Shoen,17.51,17618,2835,342,,http://www.amerco.com,NV
+788,Bon-Ton Stores,BONT,General Merchandisers,Retailing,"York, PA",-,Kathryn J. Bufano,-0.36,25700,2823,-7,,http://www.bonton.com,PA
+789,Team Health Holdings,TMH,Health Care: Pharmacy and Other Services,Health Care,"Knoxville, TN",-,Michael D. Snow,1.35,13200,2820,98,,http://www.teamhealth.com,TN
+790,Regeneron Pharmaceuticals,REGN,Pharmaceuticals,Health Care,"Tarrytown, NY",-,Leonard S. Schleifer,3.07,2925,2820,348,,http://www.regeneron.com,NY
+791,OneMain Holdings,LEAF,Diversified Financials,Financials,"Evansville, IN",-,Jay N. Levine,4.38,5030,2814,505,,http://www.archrock.com,IN
+792,Lincoln Electric Holdings,LECO,Industrial Machinery,Industrials,"Cleveland, OH",-,Christopher L. Mapes,3.18,10000,2813,255,,http://www.lincolnelectric.com,OH
+793,Dresser-Rand Group,DRC,Industrial Machinery,Industrials,"Houston, TX",-,Vincent R. Volpe Jr.,1.59,7900,2812,123,,http://www.dresser-rand.com,TX
+794,West,WSTC,Diversified Outsourcing Services,Business Services,"Omaha, NE",-,Thomas B. Barker,1.85,35000,2805,158,,http://www.west.com,NE
+795,Benchmark Electronics,BHE,Semiconductors and Other Electronic Components,Technology,"Angleton, TX",-,Gayla J. Delly,1.52,10940,2797,82,,http://www.bench.com,TX
+796,Pall,PLL,Industrial Machinery,Industrials,"Port Washington, NY",-,Lawrence D. Kingsley,3.25,10400,2789,364,,http://www.pall.com,NY
+797,Old Dominion Freight Line,ODFL,"Trucking, Truck Leasing",Transportation,"Thomasville, NC",-,David S. Congdon,3.1,16443,2788,268,,http://www.odfl.com,NC
+798,MSC Industrial Direct,MSM,Wholesalers: Diversified,Wholesalers,"Melville, NY",-,Erik Gershwind,3.76,6521,2787,236,,http://www.mscdirect.com,NY
+799,Sentry Insurance Group,,Insurance: Property and Casualty (Mutual),Financials,"Stevens Point, WI",-,Peter G. McPartland,-,4043,2786,307,,http://www.sentry.com,WI
+800,Sigma-Aldrich,SIAL,Chemicals,Chemicals,"St. Louis, MO",-,Rakesh Sachdev,4.17,9300,2785,500,,http://www.sigma-aldrich.com,MO
+801,WGL Holdings,WGL,Energy,Energy,"Washington, DC",-,Terry D. McCallister,2.05,1444,2781,106,,http://www.wglholdings.com,DC
+802,Weis Markets,WMK,Food and Drug Stores,Food & Drug Stores,"Sunbury, PA",-,Jonathan H. Weis,2.05,18200,2777,55,,http://www.weismarkets.com,PA
+803,Sanderson Farms,SAFM,Food Production,"Food, Beverages & Tobacco","Laurel, MS",-,Joe F. Sanderson Jr.,10.8,11461,2775,249,,http://www.sandersonfarms.com,MS
+804,StanCorp Financial Group,SFG,"Insurance: Life, Health (stock)",Financials,"Portland, OR",-,J. Gregory Ness,5.05,2803,2770,219,,http://www.stancorpfinancial.com,OR
+805,Hyster-Yale Materials Handling,HY,Industrial Machinery,Industrials,"Cleveland, OH",-,Alfred M. Rankin Jr.,6.58,5400,2767,110,,http://www.hyster-yale.com,OH
+806,Wolverine World Wide,WWW,Apparel,Apparel,"Rockford, MI",-,Blake W. Krueger,1.3,6600,2761,133,,http://www.wolverineworldwide.com,MI
+807,DST Systems,DST,Financial Data Services,Business Services,"Kansas City, MO",-,Stephen C. Hooley,14.66,12925,2749,593,,http://www.dstsystems.com,MO
+808,Legg Mason,LM,Securities,Financials,"Baltimore, MD",-,Joseph A. Sullivan,2.33,2843,2742,285,,http://www.leggmason.com,MD
+809,Teradata,TDC,Computer Software,Technology,"Dayton, OH",-,Michael F. Koehler,2.33,11500,2732,367,,http://www.teradata.com,OH
+810,Aaron’s,AAN,Specialty Retailers: Other,Retailing,"Atlanta, GA",-,John W. Robinson III,1.08,12400,2725,78,,http://www.aarons.com,GA
+811,Antero Resources,AR,"Mining, Crude-Oil Production",Energy,"Denver, CO",-,Paul M. Rady,2.57,444,2721,674,,http://www.anteroresources.com,CO
+812,Metaldyne Performance Group,MPG,Motor Vehicles and Parts,Motor Vehicles & Parts,"Plymouth, MI",-,George P. Thanopoulos,1.06,12000,2717,73,,http://www.mpgdriven.com,MI
+813,Range Resources,RRC,"Mining, Crude-Oil Production",Energy,"Fort Worth, TX",-,Jeffrey L. Ventura,3.79,990,2712,634,,http://www.rangeresources.com,TX
+814,Vornado Realty Trust,VNO,Real estate,Financials,"New York, NY",-,Steven Roth,4.15,4503,2707,865,,http://www.vno.com,NY
+815,Boyd Gaming,BYD,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Las Vegas, NV",-,Keith E. Smith,-0.48,18290,2701,-53,,http://www.boydgaming.com,NV
+816,Covance,,Health Care: Pharmacy and Other Services,Health Care,"Princeton, NJ",-,Joseph L. Herring,3.23,12500,2700,186,,http://www.labcorp.com,NJ
+817,Armstrong World Industries,AWI,"Building Materials, Glass",Materials,"Lancaster, PA",-,Matthew J. Espe,1.14,8300,2691,64,,http://www.armstrong.com,PA
+818,Cracker Barrel Old Country Store,CBRL,Food Services,"Hotels, Resturants & Leisure","Lebanon, TN",-,Sandra B. Cochran,5.51,72000,2684,132,,http://www.crackerbarrel.com,TN
+819,Chico’s FAS,CHS,Specialty Retailers: Apparel,Retailing,"Fort Myers, FL",-,Shelley G. Broader,0.42,15470,2675,65,,http://www.chicosfas.com,FL
+820,Scripps Networks Interactive,SNI,Entertainment,Media,"Knoxville, TN",-,Kenneth W. Lowe,3.83,2100,2666,545,,http://www.scrippsnetworksinteractive.com,TN
+821,Universal Forest Products,UFPI,Forest and Paper Products,Materials,"Grand Rapids, MI",-,Matthew J. Missad,2.86,6000,2660,58,,http://www.ufpi.com,MI
+822,Concho Resources,CXO,"Mining, Crude-Oil Production",Energy,"Midland, TX",-,Timothy A. Leach,4.88,1022,2660,538,,http://www.concho.com,TX
+823,ITT,ITT,Industrial Machinery,Industrials,"White Plains, NY",-,Denise L. Ramos,1.99,9400,2655,185,,http://www.itt.com,NY
+824,HCC Insurance Holdings,,Insurance: Property and Casualty (Stock),Financials,"Houston, TX",-,Christopher J.B. Williams,4.61,1983,2653,458,,http://www.hcc.com,TX
+825,Moog,MOGA,Aerospace and Defense,Aerospace & Defense,"East Aurora, NY",-,John R. Scannell,3.52,11031,2648,158,,http://www.moog.com,NY
+826,IMS Health Holdings,IMS,Health Care: Pharmacy and Other Services,Health Care,"Danbury, CT",-,Ari Bousbib,-0.59,10200,2641,-189,,http://www.imshealth.com,CT
+827,Cinemark Holdings,CNK,Entertainment,Media,"Plano, TX",-,Mark Zoradi,1.66,15265,2627,193,,http://www.cinemark.com,TX
+828,Comerica,CMA,Commercial Banks,Financials,"Dallas, TX",-,Ralph W. Babb Jr.,3.16,8807,2618,593,,http://www.comerica.com,TX
+829,Equity Residential,EQR,Real estate,Financials,"Chicago, IL",-,David J. Neithercut,1.73,3500,2616,631,,http://www.equityresidential.com,IL
+830,Ryland Group,RYL,Homebuilders,Engineering & Construction,"Westlake Village, CA",-,Larry T. Nicholson,3.09,1502,2615,176,,http://www.ryland.com,CA
+831,GNC Holdings,GNC,Food and Drug Stores,Food & Drug Stores,"Pittsburgh, PA",-,Michael G. Archbold,2.81,11350,2613,256,,http://www.gnc.com,PA
+832,ArcBest,ARCB,"Trucking, Truck Leasing",Transportation,"Fort Smith, AR",-,Judy R. McReynolds,1.69,13238,2613,46,,http://www.arcb.com,AR
+833,Vectren,VVC,Utilities: Gas and Electric,Energy,"Evansville, IN",-,Carl L. Chapman,2.02,5500,2612,167,,http://www.vectren.com,IN
+834,Curtiss-Wright,CW,Aerospace and Defense,Aerospace & Defense,"Charlotte, NC",-,David C. Adams,2.31,9000,2607,113,,http://www.curtisswright.com,NC
+835,Tupperware Brands,TUP,Household and Personal Products,Household Products,"Orlando, FL",-,E. V. Goings,4.2,13100,2606,214,,http://www.tupperwarebrands.com,FL
+836,Westar Energy,WR,Utilities: Gas and Electric,Energy,"Topeka, KS",-,Mark A. Ruelle,2.35,2411,2602,313,,http://www.westarenergy.com,KS
+837,Albemarle,ALB,Chemicals,Chemicals,"Baton Rouge, LA",-,Luther C. Kissam IV,1.69,3625,2600,133,,http://www.albemarle.com,LA
+838,AptarGroup,ATR,"Packaging, Containers",Materials,"Crystal Lake, IL",-,Stephen J. Hagge,2.85,13000,2598,192,,http://www.aptar.com,IL
+839,Pinnacle Foods,PF,Food Consumer Products,"Food, Beverages & Tobacco","Parsippany, NJ",-,Robert J. Gamgort,2.13,4000,2591,248,,http://www.pinnaclefoods.com,NJ
+840,Penn National Gaming,PENN,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Wyomissing, PA",-,Timothy J. Wilmott,-2.97,16650,2591,-233,,http://www.pngaming.com,PA
+841,J.Crew Group,,Specialty Retailers: Apparel,Retailing,"New York, NY",-,Millard Drexler,-,10650,2580,-658,,http://www.jcrew.com,NY
+842,Vantiv,VNTV,Financial Data Services,Business Services,"Symmes Township, OH",-,Charles D. Drucker,0.75,3299,2577,125,,http://www.vantiv.com,OH
+843,Kansas City Southern,KSU,Railroads,Transportation,"Kansas City, MO",-,David L. Starling,4.55,6464,2577,503,,http://www.kcsouthern.com,MO
+844,Caleres,CAL,Specialty Retailers: Apparel,Retailing,"St. Louis, MO",-,Diane M. Sullivan,1.89,11000,2572,83,,http://www.caleres.com,MO
+845,Nu Skin Enterprises,NUS,Household and Personal Products,Household Products,"Provo, UT",-,M. Truman Hunt,3.11,24350,2570,189,,http://www.nuskinenterprises.com,UT
+846,Great Plains Energy,GXP,Utilities: Gas and Electric,Energy,"Kansas City, MO",-,Terry D. Bassham,1.57,2935,2568,243,,http://www.greatplainsenergy.com,MO
+847,Kirby,KEX,zMiscellaneous,Transportation,"Houston, TX",-,David W. Grzebinski,4.93,4675,2566,282,,http://www.kirbycorp.com,TX
+848,General Growth Properties,GGP,Real estate,Financials,"Chicago, IL",-,Sandeep Mathrani,0.69,1800,2563,666,,http://www.ggp.com,IL
+849,Broadridge Financial Solutions,BR,Financial Data Services,Business Services,"Lake Success, NY",-,Richard J. Daly,2.12,6700,2558,263,,http://www.broadridge.com,NY
+850,Stericycle,SRCL,Waste Management,Business Services,"Lake Forest, IL",-,Charles A. Alutto,3.79,17687,2556,327,,http://www.stericycle.com,IL
+851,Global Payments,GPN,Financial Data Services,Business Services,"Atlanta, GA",-,Jeffrey S. Sloan,3.37,4135,2554,245,,http://www.globalpaymentsinc.com,GA
+852,Nortek,NTK,Industrial Machinery,Industrials,"Providence, RI",-,Michael J. Clarke,-2.92,11200,2546,-46,,http://www.nortekinc.com,RI
+853,Schnitzer Steel Industries,SCHN,Metals,Materials,"Portland, OR",-,Tamara L. Lundgren,0.22,3371,2544,6,,http://www.schnitzersteel.com,OR
+854,Universal,UVV,Tobacco,"Food, Beverages & Tobacco","Richmond, VA",-,George C. Freeman III,5.25,26000,2542,149,,http://www.universalcorp.com,VA
+855,ANN,ANN,Specialty Retailers: Apparel,Retailing,"New York, NY",-,Katherine L. Krill,1.46,11525,2534,68,,http://www.anninc.com,NY
+856,Hologic,HOLX,Medical Products and Equipment,Health Care,"Bedford, MA",-,Stephen P. MacMillan,0.06,5351,2531,17,,http://www.hologic.com,MA
+857,Panera Bread,PNRA,Food Services,"Hotels, Resturants & Leisure","St. Louis, MO",-,Ronald M. Shaich,6.64,35450,2529,179,,http://www.panerabread.com,MO
+858,AOL,AOL,Internet Services and Retailing,Technology,"New York, NY",-,Timothy M. Armstrong,1.51,4500,2527,126,,http://www.corp.aol.com,NY
+859,SM Energy,SM,"Mining, Crude-Oil Production",Energy,"Denver, CO",-,Javan D. Ottoson,9.79,896,2522,666,,http://www.sm-energy.com,CO
+860,Paychex,PAYX,Diversified Outsourcing Services,Business Services,"Rochester, NY",-,Martin Mucci,1.71,12700,2519,628,,http://www.paychex.com,NY
+861,PriceSmart,PSMT,Specialty Retailers: Other,Retailing,"San Diego, CA",-,Jose Luis Laparte,3.07,6772,2518,93,,http://www.pricesmart.com,CA
+862,Autodesk,ADSK,Computer Software,Technology,"San Rafael, CA",-,Carl Bass,0.35,8823,2512,82,,http://www.autodesk.com,CA
+863,Affiliated Managers Group,AMG,Securities,Financials,"Prides Crossing, MA",-,Sean M. Healey,8.01,2900,2511,452,,http://www.amg.com,MA
+864,Tops Holding,,Food and Drug Stores,Food & Drug Stores,"Williamsville, NY",-,Frank Curci,-,15100,2508,-15,,http://www.topsmarkets.com,NY
+865,Dynegy,DYN,Energy,Energy,"Houston, TX",-,Robert C. Flexon,-2.65,1679,2497,-273,,http://www.dynegy.com,TX
+866,DSW,DSW,Specialty Retailers: Apparel,Retailing,"Columbus, OH",-,Roger L. Rawlins,1.69,12000,2496,153,,http://www.dswinc.com,OH
+867,Vishay Intertechnology,VSH,Semiconductors and Other Electronic Components,Technology,"Malvern, PA",-,Gerald Paul,0.77,22600,2493,118,,http://www.vishay.com,PA
+868,Mettler-Toledo International,MTD,"Scientific,Photographic and Control Equipment",Technology,"Columbus, OH",-,Olivier A. Filliol,11.44,12550,2486,338,,http://www.mt.com,OH
+869,SunEdison,SUNE,Semiconductors and Other Electronic Components,Technology,"Maryland Heights, MO",-,Ahmad R. Chatila,-4.4,7260,2484,-1180,,http://www.sunedison.com,MO
+870,Tetra Tech,TTEK,"Engineering, Construction",Engineering & Construction,"Pasadena, CA",-,Dan L. Batrack,1.66,14000,2484,108,,http://www.tetratech.com,CA
+871,Momentive Performance Materials,,Chemicals,Chemicals,"Waterford, NY",-,John G. Boss,-,4600,2476,-,,http://www.momentive.com,NY
+872,EnerSys,ENS,"Electronics, Electrical Equip.",Industrials,"Reading, PA",-,John D. Craig,3.02,9500,2474,150,,http://www.enersys.com,PA
+873,Donaldson,DCI,Industrial Machinery,Industrials,"Minneapolis, MN",-,Tod E. Carpenter,1.76,12500,2474,260,,http://www.donaldson.com,MN
+874,EQT,EQT,Energy,Energy,"Pittsburgh, PA",-,David L. Porges,2.54,1750,2470,387,,http://www.eqt.com,PA
+875,Monster Beverage,MNST,Beverages,"Food, Beverages & Tobacco","Corona, CA",-,Rodney C. Sacks,2.77,1650,2465,483,,http://www.monsterbevcorp.com,CA
+876,PC Connection,PCCC,Specialty Retailers: Other,Retailing,"Merrimack, NH",-,Timothy J. McGrath,1.61,2047,2463,43,,http://www.pcconnection.com,NH
+877,Total System Services,TSS,Financial Data Services,Business Services,"Columbus, GA",-,M. Troy Woods,1.72,9900,2463,323,,http://www.tsys.com,GA
+878,ServiceMaster Global Holdings,SERV,Diversified Outsourcing Services,Business Services,"Memphis, TN",-,Robert J. Gillette,-0.5,13000,2463,-57,,http://www.servicemaster.com,TN
+879,Medical Mutual of Ohio,,"Insurance: Life, Health (Mutual)",Financials,"Cleveland, OH",-,Richard A. Chiricosta,-,2124,2460,77,,http://www.medmutual.com,OH
+880,Applied Industrial Technologies,AIT,Wholesalers: Diversified,Wholesalers,"Cleveland, OH",-,Neil A. Schrimsher,2.67,5472,2460,113,,http://www.applied.com,OH
+881,Maxim Integrated Products,MXIM,Semiconductors and Other Electronic Components,Technology,"San Jose, CA",-,-,1.23,8812,2454,355,,http://www.maximintegrated.com,CA
+882,OGE Energy,OGE,Utilities: Gas and Electric,Energy,"Oklahoma City, OK",-,Sean Trauschke,1.98,3329,2453,396,,http://www.oge.com,OK
+883,A. Schulman,SHLM,Chemicals,Chemicals,"Fairlawn, OH",-,Bernard Rzepka,1.91,3900,2448,56,,http://www.aschulman.com,OH
+884,Equinix,EQIX,Telecommunications,Telecommunications,"Redwood City, CA",-,Stephen M. Smith,-4.96,3866,2444,-260,,http://www.equinix.com,CA
+885,Mednax,MD,Health Care: Pharmacy and Other Services,Health Care,"Sunrise, FL",-,Roger J. Medel,3.18,7550,2439,317,,http://www.mednax.com,FL
+886,Equifax,EFX,Financial Data Services,Business Services,"Atlanta, GA",-,Richard F. Smith,2.97,7500,2436,367,,http://www.equifax.com,GA
+887,CalAtlantic Group,CAA,Homebuilders,Engineering & Construction,"Irvine, CA",-,Larry T. Nicholson,0.54,1250,2435,216,,http://www.calatlantichomes.com,CA
+888,Denbury Resources,DNR,"Mining, Crude-Oil Production",Energy,"Plano, TX",-,Phil Rykhoek,1.81,1523,2435,636,,http://www.denbury.com,TX
+889,Cimarex Energy,XEC,"Mining, Crude-Oil Production",Energy,"Denver, CO",-,Thomas E. Jorden,5.78,991,2424,507,,http://www.cimarex.com,CO
+890,Mutual of America Life Insurance,,"Insurance: Life, Health (Mutual)",Financials,"New York, NY",-,Thomas J. Moran,-,900,2420,63,,http://www.mutualofamerica.com,NY
+891,Guess,GES,Apparel,Apparel,"Los Angeles, CA",-,Victor Herrero,1.11,13700,2418,95,,http://www.guess.com,CA
+892,Post Holdings,POST,Food Consumer Products,"Food, Beverages & Tobacco","St. Louis, MO",-,Robert V. Vitale,-9.03,7950,2411,-343,,http://www.postholdings.com,MO
+893,HealthSouth,HLS,Health Care: Medical Facilities,Health Care,"Birmingham, AL",-,Jay Grinney,2.29,23250,2406,222,,http://www.healthsouth.com,AL
+894,Ferrellgas Partners,FGP,Energy,Energy,"Overland Park, KS",-,Stephen L. Wambold,0.41,3922,2406,33,,http://www.ferrellgas.com,KS
+895,KB Home,KBH,Homebuilders,Engineering & Construction,"Los Angeles, CA",-,Jeffrey T. Mezger,9.25,1590,2401,918,,http://www.kbhome.com,CA
+896,Boston Properties,BXP,Real estate,Financials,"Boston, MA",-,Owen D. Thomas,2.83,750,2397,444,,http://www.bostonproperties.com,MA
+897,Trimble Navigation,TRMB,"Scientific,Photographic and Control Equipment",Technology,"Sunnyvale, CA",-,Steven W. Berglund,0.81,8217,2396,214,,http://www.trimble.com,CA
+898,Teledyne Technologies,TDY,"Scientific,Photographic and Control Equipment",Technology,"Thousand Oaks, CA",-,Robert Mehrabian,5.75,9800,2394,218,,http://www.teledyne.com,CA
+899,Acuity Brands,AYI,"Electronics, Electrical Equip.",Industrials,"Atlanta, GA",-,Vernon J. Nagel,4.05,7000,2394,176,,http://www.acuitybrands.com,GA
+900,Skechers U.S.A.,SKX,Apparel,Apparel,"Manhattan Beach, CA",-,Robert Greenberg,2.72,5358,2387,139,,http://www.skx.com,CA
+901,Xilinx,XLNX,Semiconductors and Other Electronic Components,Technology,"San Jose, CA",-,Moshe N. Gavrielov,2.19,3500,2383,630,,http://www.xilinx.com,CA
+902,Plexus,PLXS,Semiconductors and Other Electronic Components,Technology,"Neenah, WI",-,Dean A. Foate,2.52,12000,2378,87,,http://www.plexus.com,WI
+903,Newfield Exploration,NFX,"Mining, Crude-Oil Production",Energy,"The Woodlands, TX",-,Lee K. Boothby,6.52,1331,2378,900,,http://www.newfield.com,TX
+904,TransDigm Group,TDG,Aerospace and Defense,Aerospace & Defense,"Cleveland, OH",-,W. Nicholas Howley,3.16,7300,2373,307,,http://www.transdigm.com,OH
+905,Kar Auction Services,KAR,Wholesalers: Diversified,Wholesalers,"Carmel, IN",-,James P. Hallett,1.19,11025,2365,169,,http://www.karauctionservices.com,IN
+906,Mueller Industries,MLI,Industrial Machinery,Industrials,"Memphis, TN",-,Gregory L. Christopher,1.79,3850,2364,102,,http://www.muellerindustries.com,TN
+907,Zions Bancorp.,ZION,Commercial Banks,Financials,"Salt Lake City, UT",-,Harris H. Simmons,1.68,10462,2362,399,,http://www.zionsbancorporation.com,UT
+908,Insperity,NSP,Diversified Outsourcing Services,Business Services,"Kingwood, TX",-,Paul J. Sarvadi,1.05,2300,2358,28,,http://www.insperity.com,TX
+909,XPO Logistics,XPO,Transportation and Logistics,Transportation,"Greenwich, CT",-,Bradley S. Jacobs,-2,10100,2357,-64,,http://www.xpo.com,CT
+910,Sears Hometown & Outlet Stores,SHOS,Specialty Retailers: Other,Retailing,"Hoffman Estates, IL",-,William A. Powell,-7.45,2544,2356,-169,,http://www.shos.com,IL
+911,A.O. Smith,AOS,"Electronics, Electrical Equip.",Industrials,"Milwaukee, WI",-,Ajita G. Rajendra,2.28,12359,2356,208,,http://www.aosmith.com,WI
+912,Alliance One International,AOI,Tobacco,"Food, Beverages & Tobacco","Morrisville, NC",-,J. Pieter Sikkel,-0.99,8471,2355,-87,,http://www.aointl.com,NC
+913,Take-Two Interactive Software,TTWO,Computer Software,Technology,"New York, NY",-,Strauss H. Zelnick,3.2,2530,2351,362,,http://www.take2games.com,NY
+914,hhgregg,HGG,Specialty Retailers: Other,Retailing,"Indianapolis, IN",-,Dennis L. May,0.01,5612,2339,-,,http://www.hhgregg.com,IN
+915,RPC,RES,"Oil and Gas Equipment, Services",Energy,"Atlanta, GA",-,Richard A. Hubbell,1.14,4500,2337,245,,http://www.rpc.net,GA
+916,NewMarket,NEU,Chemicals,Chemicals,"Richmond, VA",-,Thomas E. Gottwald,18.38,1866,2335,233,,http://www.newmarket.com,VA
+917,Beacon Roofing Supply,BECN,Wholesalers: Diversified,Wholesalers,"Herndon, VA",-,Paul M. Isabella,1.08,3179,2327,54,,http://www.becn.com,VA
+918,Edwards Lifesciences,EW,Medical Products and Equipment,Health Care,"Irvine, CA",-,Michael A. Mussallem,7.48,9100,2323,811,,http://www.edwards.com,CA
+919,Triple-S Management,GTS,Health Care: Insurance and Managed Care,Health Care,"San Juan, PR",-,Roberto García-Rodríguez,2.41,3519,2320,66,,http://www.triplesmanagement.com,PR
+920,Hawaiian Holdings,HA,Airlines,Transportation,"Honolulu, HI",-,Mark B. Dunkerley,1.1,5380,2315,69,,http://www.hawaiianairlines.com,HI
+921,Heartland Payment Systems,HPY,Financial Data Services,Business Services,"Princeton, NJ",-,Robert O. Carr,0.91,3734,2311,34,,http://www.heartlandpaymentsystems.com,NJ
+922,Belden,BDC,"Electronics, Electrical Equip.",Industrials,"St. Louis, MO",-,John S. Stroup,1.69,8100,2308,74,,http://www.belden.com,MO
+923,Magellan Midstream Partners,MMP,Pipelines,Energy,"Tulsa, OK",-,Michael N. Mears,3.69,1565,2304,840,,http://www.magellanlp.com,OK
+924,Outerwall,OUTR,Specialty Retailers: Other,Retailing,"Bellevue, WA",-,Erik E. Prusch,5.15,2760,2303,107,,http://www.outerwall.com,WA
+925,KapStone Paper & Packaging,KS,"Packaging, Containers",Materials,"Northbrook, IL",-,Matthew Kaplan,1.76,4628,2301,172,,http://www.kapstonepaper.com,IL
+926,Alliance Holdings,AHGP,"Mining, Crude-Oil Production",Energy,"Tulsa, OK",-,Joseph W. Craft III,4.75,4439,2300,284,,http://www.ahgp.com,OK
+927,Skyworks Solutions,SWKS,Semiconductors and Other Electronic Components,Technology,"Woburn, MA",-,David J. Aldrich,2.38,5550,2292,458,,http://www.skyworksinc.com,MA
+928,Ciena,CIEN,Network and Other Communications Equipment,Technology,"Hanover, MD",-,Gary B. Smith,-0.38,5161,2288,-41,,http://www.ciena.com,MD
+929,Granite Construction,GVA,"Engineering, Construction",Engineering & Construction,"Watsonville, CA",-,James H. Roberts,0.64,3000,2275,25,,http://www.graniteconstruction.com,CA
+930,Education Management,EDMC,Education,Business Services,"Pittsburgh, PA",-,Edward H. West,-5.29,15900,2273,-664,,http://www.edmc.edu,PA
+931,Party City Holdings,,Specialty Retailers: Other,Retailing,"Elmsford, NY",-,James M. Harrison,-,12670,2271,71,,http://www.partycity.com,NY
+932,HCP,HCP,Real estate,Financials,"Irvine, CA",-,Lauralee E. Martin,2,170,2268,922,,http://www.hcpi.com,CA
+933,Parexel International,PRXL,Health Care: Pharmacy and Other Services,Health Care,"Waltham, MA",-,Josef H. von Rickenbach,2.25,15560,2266,129,,http://www.parexel.com,MA
+934,Delta Tucker Holdings,,Aerospace and Defense,Aerospace & Defense,"McLean, VA",-,Lewis F. Von Thaer,-,13700,2252,-270,,http://www.dyn-intl.com,VA
+935,Pinnacle Entertainment,PNK,"Hotels, Casinos, Resorts","Hotels, Resturants & Leisure","Las Vegas, NV",-,Anthony M. Sanfilippo,0.71,14738,2252,44,,http://www.pnkinc.com,NV
+936,Stifel Financial,SF,Securities,Financials,"St. Louis, MO",-,Ronald J. Kruszewski,2.31,6223,2250,176,,http://www.stifel.com,MO
+937,Pool,POOL,Wholesalers: Diversified,Wholesalers,"Covington, LA",-,Manuel J. Perez de la Mesa,2.44,3700,2247,111,,http://www.poolcorp.com,LA
+938,Olin,OLN,Chemicals,Chemicals,"Clayton, MO",-,Joseph D. Rupp,1.33,3900,2241,106,,http://www.olin.com,MO
+939,Knights of Columbus,,"Insurance: Life, Health (Mutual)",Financials,"New Haven, CT",-,Carl A. Anderson,-,945,2239,115,,http://www.kofc.org,CT
+940,PerkinElmer,PKI,"Scientific,Photographic and Control Equipment",Technology,"Waltham, MA",-,Robert F. Friel,1.39,7700,2238,158,,http://www.perkinelmer.com,MA
+941,Alexion Pharmaceuticals,ALXN,Pharmaceuticals,Health Care,"Cheshire, CT",-,David L. Hallal,3.26,2273,2234,657,,http://www.alexion.com,CT
+942,IHS,IHS,Financial Data Services,Business Services,"Englewood, CO",-,Jerre L. Stead,2.81,8800,2231,195,,http://www.ihs.com,CO
+943,Oil States International,OIS,"Oil and Gas Equipment, Services",Energy,"Houston, TX",-,Cindy B. Taylor,3.31,5290,2224,179,,http://www.oilstatesintl.com,TX
+944,HNI,HNI,"Home Equipment, Furnishings",Household Products,"Muscatine, IA",-,Stanley A. Askren,1.35,10700,2223,62,,http://www.hnicorp.com,IA
+945,LinkedIn,LNKD,Internet Services and Retailing,Technology,"Mountain View, CA",-,Jeffrey Weiner,-0.13,6897,2219,-16,,http://www.linkedin.com,CA
+946,Diplomat Pharmacy,DPLO,Food and Drug Stores,Food & Drug Stores,"Flint, MI",-,Philip P. Hagerman,0.11,1068,2215,5,,http://www.diplomat.is,MI
+947,Brocade Communications Systems,BRCD,Network and Other Communications Equipment,Technology,"San Jose, CA",-,Lloyd A. Carney,0.53,4161,2211,238,,http://www.brocade.com,CA
+948,Greenbrier Cos.,GBX,Transportation Equipment,Transportation,"Lake Oswego, OR",-,William A. Furman,3.44,9244,2204,112,,http://www.gbrx.com,OR
+949,AMC Networks,AMCX,Entertainment,Media,"New York, NY",-,Joshua W. Sapan,3.58,1898,2198,261,,http://www.amcnetworks.com,NY
+950,Kemper,KMPR,Insurance: Property and Casualty (Stock),Financials,"Chicago, IL",-,Joseph P. Lacher Jr.,2.12,5350,2197,115,,http://www.kemper.com,IL
+951,Ocwen Financial,OCN,Diversified Financials,Financials,"Atlanta, GA",-,Ronald M. Faris,1.32,10100,2197,187,,http://www.ocwen.com,GA
+952,Public Storage,PSA,zMiscellaneous,Business Services,"Glendale, CA",-,Ronald L. Havner Jr.,5.25,5300,2195,1144,,http://www.publicstorage.com,CA
+953,TriNet Group,TNET,Diversified Outsourcing Services,Business Services,"San Leandro, CA",-,Burton M. Goldfield,0.22,2057,2194,16,,http://www.trinet.com,CA
+954,Chemtura,CHMT,Chemicals,Chemicals,"Philadelphia, PA",-,Craig A. Rogerson,8.34,2700,2190,763,,http://www.chemtura.com,PA
+955,Symetra Financial,SYA,"Insurance: Life, Health (stock)",Financials,"Bellevue, WA",-,Thomas M. Marra,2.19,1400,2182,254,,http://www.symetra.com,WA
+956,Tower International,TOWR,Motor Vehicles and Parts,Motor Vehicles & Parts,"Livonia, MI",-,Mark M. Malcolm,1.01,7800,2182,22,,http://www.towerinternational.com,MI
+957,Meritage Homes,MTH,Homebuilders,Engineering & Construction,"Scottsdale, AZ",-,Steven J. Hilton,3.46,1321,2180,142,,http://www.meritagehomes.com,AZ
+958,MarkWest Energy Partners,MWE,Pipelines,Energy,"Denver, CO",-,Frank M. Semple,0.72,1404,2176,134,,http://www.markwest.com,CO
+959,Bio-Rad Laboratories,BIO,Medical Products and Equipment,Health Care,"Hercules, CA",-,Norman Schwartz,3.05,7600,2175,89,,http://www.bio-rad.com,CA
+960,TrueBlue,TBI,Temporary Help,Business Services,"Tacoma, WA",-,Steven C. Cooper,1.59,5000,2174,66,,http://www.trueblue.com,WA
+961,Cabot Oil & Gas,COG,"Mining, Crude-Oil Production",Energy,"Houston, TX",-,Dan O. Dinges,0.25,691,2173,105,,http://www.cabotog.com,TX
+962,Carpenter Technology,CRS,Metals,Materials,"Wyomissing, PA",-,Tony R. Thene,2.47,4900,2173,133,,http://www.cartech.com,PA
+963,Toro,TTC,Construction and Farm Machinery,Industrials,"Bloomington, MN",-,Michael J. Hoffman,3.02,6134,2173,174,,http://www.thetorocompany.com,MN
+964,American Equity Investment Life Holding,AEL,"Insurance: Life, Health (stock)",Financials,"West Des Moines, IA",-,John M. Matovina,1.58,418,2169,126,,http://www.american-equity.com,IA
+965,Express,EXPR,Specialty Retailers: Apparel,Retailing,"Columbus, OH",-,David G. Kornberg,0.81,18000,2166,68,,http://www.express.com,OH
+966,Eastman Kodak,KODK,"Scientific,Photographic and Control Equipment",Technology,"Rochester, NY",-,Jeffrey J. Clarke,-2.95,7300,2163,-123,,http://www.kodak.com,NY
+967,Hain Celestial Group,HAIN,Food Consumer Products,"Food, Beverages & Tobacco","Lake Success, NY",-,Irwin D. Simon,1.4,4400,2154,140,,http://www.hain.com,NY
+968,Nationstar Mortgage Holdings,NSM,Diversified Financials,Financials,"Coppell, TX",-,Jay Bray,2.45,5500,2153,221,,http://www.nationstarmtg.com,TX
+969,IDEX,IEX,Industrial Machinery,Industrials,"Lake Forest, IL",-,Andrew K. Silvernail,3.45,6712,2148,279,,http://www.idexcorp.com,IL
+970,Popular,BPOP,Commercial Banks,Financials,"Hato Rey, PR",-,Richard L. Carri_n,-3.08,7752,2143,-314,,http://www.popular.com,PR
+971,Werner Enterprises,WERN,"Trucking, Truck Leasing",Transportation,"Omaha, NE",-,Clarence L. Werner,1.36,12178,2139,99,,http://www.werner.com,NE
+972,Esterline Technologies,ESL,Aerospace and Defense,Aerospace & Defense,"Bellevue, WA",-,Curtis C. Reusser,3.16,12874,2133,102,,http://www.esterline.com,WA
+973,Intuitive Surgical,ISRG,Medical Products and Equipment,Health Care,"Sunnyvale, CA",-,Gary S. Guthart,11.11,2978,2132,419,,http://www.intuitivesurgical.com,CA
+974,Allison Transmission Holdings,ALSN,Motor Vehicles and Parts,Motor Vehicles & Parts,"Indianaoplis, IN",-,Lawrence E. Dewey,1.25,2700,2127,229,,http://www.allisontransmission.com,IN
+975,SemGroup,SEMG,Pipelines,Energy,"Tulsa, OK",-,Carlin G. Conner,0.68,1080,2123,29,,http://www.semgroupcorp.com,OK
+976,Southwest Gas,SWX,Utilities: Gas and Electric,Energy,"Las Vegas, NV",-,John P. Hester,3.01,6232,2122,141,,http://www.swgas.com,NV
+977,G-III Apparel Group,GIII,Apparel,Apparel,"New York, NY",-,Morris Goldfarb,2.49,7616,2117,110,,http://www.g-iii.com,NY
+978,National Fuel Gas,NFG,Utilities: Gas and Electric,Energy,"Williamsville, NY",-,Ronald J. Tanski,3.52,2010,2113,299,,http://www.nationalfuelgas.com,NY
+979,H.B. Fuller,FUL,Chemicals,Chemicals,"St. Paul, MN",-,James J. Owens,0.97,3650,2105,50,,http://www.hbfuller.com,MN
+980,Penn Mutual Life Insurance,,"Insurance: Life, Health (stock)",Financials,"Horsham, PA",-,Eileen C. McDonnell,-,1000,2104,178,,http://www.pennmutual.com,PA
+981,RCS Capital,RCAP,Securities,Financials,"New York, NY",-,R. Lawrence Roth,-5.55,2116,2102,-129,,http://www.rcscapital.com,NY
+982,Columbia Sportswear,COLM,Apparel,Apparel,"Portland, OR",-,Timothy P. Boyle,1.94,5326,2101,137,,http://www.columbia.com,OR
+983,Amica Mutual Insurance,,Insurance: Property and Casualty (Mutual),Financials,"Lincoln, RI",-,Robert A. DiMuccio,-,3406,2098,193,,http://www.amica.com,RI
+984,Primoris Services,PRIM,"Engineering, Construction",Engineering & Construction,"Dallas, TX",-,David L. King,1.22,6757,2086,63,,http://www.prim.com,TX
+985,Energen,EGN,"Mining, Crude-Oil Production",Energy,"Birmingham, AL",-,James T. McManus II,7.75,550,2082,568,,http://www.energen.com,AL
+986,Rexnord,RXN,Industrial Machinery,Industrials,"Milwaukee, WI",-,Todd A. Adams,0.3,7400,2082,30,,http://www.rexnord.com,WI
+987,Seventy Seven Energy,SSE,"Oil and Gas Equipment, Services",Energy,"Oklahoma City, OK",-,Jerry L. Winchester,-0.17,5000,2081,-8,,http://www.77nrg.com,OK
+988,Waste Connections,WCN,Waste Management,Business Services,"The Woodlands, TX",-,Ronald J. Mittelstaedt,1.86,6777,2079,233,,http://www.wasteconnections.com,TX
+989,"Pep Boys-Manny, Moe & Jack",PBY,Specialty Retailers: Other,Retailing,"Philadelphia, PA",-,Scott P. Sider,-0.07,16394,2078,-4,,http://www.pepboys.com,PA
+990,Harsco,HSC,Metals,Materials,"Camp Hill, PA",-,F. Nicholas Grasberger III,-0.31,12200,2066,-25,,http://www.harsco.com,PA
+991,Hovnanian Enterprises,HOV,Homebuilders,Engineering & Construction,"Red Bank, NJ",-,Ara K. Hovnanian,1.87,2006,2063,307,,http://www.khov.com,NJ
+992,Willbros Group,WG,"Oil and Gas Equipment, Services",Energy,"Houston, TX",-,John T. McNabb II,-1.62,7959,2063,-80,,http://www.willbros.com,TX
+993,Wendy’s,WEN,Food Services,"Hotels, Resturants & Leisure","Dublin, OH",-,Emil J. Brolick,0.32,31200,2061,121,,http://www.aboutwendys.com,OH
+994,International Game Technology,IGT,Industrial Machinery,Industrials,"Las Vegas, NV",-,Marco Sala,0.99,4400,2058,248,,http://www.igt.com,NV
+995,Synopsys,SNPS,Computer Software,Technology,"Mountain View, CA",-,Aart J. de Geus,1.64,9436,2058,259,,http://www.synopsys.com,CA
+996,Universal American,UAM,Health Care: Insurance and Managed Care,Health Care,"White Plains, NY",-,Richard A. Barasch,-0.35,1900,2040,-30,,http://www.universalamerican.com,NY
+997,AAR,AIR,Aerospace and Defense,Aerospace & Defense,"Wood Dale, IL",-,David P. Storch,1.83,5800,2035,73,,http://www.aarcorp.com,IL
+998,Selective Insurance Group,SIGI,Insurance: Property and Casualty (Stock),Financials,"Branchville, NJ",-,Gregory E. Murphy,2.47,2200,2035,142,,http://www.selective.com,NJ
+999,Gartner,IT,Information Technology Services,Technology,"Stamford, CT",-,Eugene A. Hall,2.03,6758,2021,184,,http://www.gartner.com,CT
+1000,E*Trade Financial,ETFC,Securities,Financials,"New York, NY",-,Paul T. Idzik,1,3221,2019,293,,http://www.etrade.com,NY

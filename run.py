@@ -11,7 +11,7 @@ import sys
 
 logging.basicConfig(level=logging.DEBUG)
 
-COMPANY_DATA = os.getcwd() + "/app/data/fortune-1000.txt"
+COMPANY_DATA = os.getcwd() + "/app/data/clean-list.txt"
 PERMS = mongo_connect('localhost', 27017, 'boxcar', 'perms')
 RESOLVES = mongo_connect('localhost', 27017, 'boxcar', 'resolves')
 PROCESSED = 0
@@ -21,7 +21,7 @@ REPROCESS_PROCESSED = False
 DEGREE = 2
 HARD_SKIP = True
 CONCURRENT = 200
-SKIP_VALUES = ['', '"', "'"]
+SKIP_VALUES = ['', '"', "'", ' ']
 
 RESOLVER = dns.resolver.Resolver()
 RESOLVER.nameservers = ['8.8.8.8', '8.8.4.4']
@@ -109,15 +109,22 @@ def main():
     global DEGREE, STATE, PROCESSED
     pool = Pool(CONCURRENT)
     handle = open(COMPANY_DATA, 'r').readlines()
-    companies = [x.split(',')[0].strip() for x in handle]
+    # companies = [x.split(',')[0].strip() for x in handle]
+    companies = list()
+    for x in handle:
+        companies.append((x.split(",")[-2]).replace("http://www.", ""))
     if len(sys.argv) >= 2:
         logging.info("Running in DEBUG mode.")
         companies = [sys.argv[1]]
         DEGREE = 1
 
     for company in companies:
-        if company in SKIP_VALUES or company.count('.') == 0:
+        print(company)
+        if company.count('.') == 0:
             continue
+        for item in SKIP_VALUES:
+            if item in company:
+                continue
         perms, cache_state = get_perms(company)
         if HARD_SKIP and cache_state:
             logging.info("Hard skipping %s since its processed." % company)
