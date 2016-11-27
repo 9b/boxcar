@@ -116,7 +116,7 @@ def main():
         DEGREE = 1
 
     for company in companies:
-        if company in SKIP_VALUES:
+        if company in SKIP_VALUES or company.count('.') == 0:
             continue
         perms, cache_state = get_perms(company)
         if HARD_SKIP and cache_state:
