@@ -4,9 +4,11 @@ Boxcar processor is a simple system that takes the fortune 1000 company domains 
 
 Usage
 -----
-In order to run, make sure you have a local mongo instance listening on 27017 and then run:
+In order to run, make sure you have a local mongo instance listening on 27017 and install the requirements:
 
     python install -r requirements.txt
+
+Then kick off the actual worker process (this will run a while):
 
     python run.py
 
